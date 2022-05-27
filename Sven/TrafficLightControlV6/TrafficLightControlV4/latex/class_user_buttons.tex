@@ -1,0 +1,70 @@
+\hypertarget{class_user_buttons}{}\doxysection{User\+Buttons Class Reference}
+\label{class_user_buttons}\index{UserButtons@{UserButtons}}
+
+
+{\ttfamily \#include $<$User\+Buttons.\+h$>$}
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_user_buttons_a6cab8ef281cb2d03d00738c31196c483}{User\+Buttons}} ()
+\begin{DoxyCompactList}\small\item\em Configuration of the \mbox{\hyperlink{class_g_p_i_o}{GPIO}} Input Buttons. Each object instantiated from the class references to GPIO-\/\+Port-\/B. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{regtypes_8h_ab27e9918b538ce9d8ca692479b375b6a}{UINT8}} \mbox{\hyperlink{class_user_buttons_aa2cd7b25be0a6d04e457f436606631a9}{get\+Button}} ()
+\begin{DoxyCompactList}\small\item\em Reads the Button states. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+The class controls the Input-\/\+Buttons of the STM Board. \begin{DoxyAuthor}{Author}
+
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+May 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_user_buttons_a6cab8ef281cb2d03d00738c31196c483}\label{class_user_buttons_a6cab8ef281cb2d03d00738c31196c483}} 
+\index{UserButtons@{UserButtons}!UserButtons@{UserButtons}}
+\index{UserButtons@{UserButtons}!UserButtons@{UserButtons}}
+\doxysubsubsection{\texorpdfstring{UserButtons()}{UserButtons()}}
+{\footnotesize\ttfamily User\+Buttons\+::\+User\+Buttons (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+Configuration of the \mbox{\hyperlink{class_g_p_i_o}{GPIO}} Input Buttons. Each object instantiated from the class references to GPIO-\/\+Port-\/B. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_user_buttons_aa2cd7b25be0a6d04e457f436606631a9}\label{class_user_buttons_aa2cd7b25be0a6d04e457f436606631a9}} 
+\index{UserButtons@{UserButtons}!getButton@{getButton}}
+\index{getButton@{getButton}!UserButtons@{UserButtons}}
+\doxysubsubsection{\texorpdfstring{getButton()}{getButton()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{regtypes_8h_ab27e9918b538ce9d8ca692479b375b6a}{UINT8}} User\+Buttons\+::get\+Button (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Reads the Button states. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Character describing the Button states (O = no Button pressed, X = both Buttons pressed, B = only PB3 pressed, F = only PB5 pressed) 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_user_buttons_8h}{User\+Buttons.\+h}}\item 
+\mbox{\hyperlink{_user_buttons_8cpp}{User\+Buttons.\+cpp}}\end{DoxyCompactItemize}

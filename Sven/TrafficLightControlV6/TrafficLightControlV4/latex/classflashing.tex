@@ -1,0 +1,92 @@
+\hypertarget{classflashing}{}\doxysection{flashing Class Reference}
+\label{classflashing}\index{flashing@{flashing}}
+
+
+{\ttfamily \#include $<$flashing.\+h$>$}
+
+Inheritance diagram for flashing\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classflashing}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classflashing_af8f407753bb736e0cf1fc36ac767fa10}{flashing}} ()
+\item 
+void \mbox{\hyperlink{classflashing_a76dbdcd41969ba470c65884210d9de16}{Handle}} ()
+\item 
+\mbox{\hyperlink{classstate}{state}} $\ast$ \mbox{\hyperlink{classflashing_abb6ba5816b9b16e00173a1cfb1abcb37}{nextstate}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Concrete state of interface class \char`\"{}state\char`\"{}. In this state the amber LED is flashing and the Traffic Light is in standby state. \begin{DoxyAuthor}{Author}
+
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+May 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classflashing_af8f407753bb736e0cf1fc36ac767fa10}\label{classflashing_af8f407753bb736e0cf1fc36ac767fa10}} 
+\index{flashing@{flashing}!flashing@{flashing}}
+\index{flashing@{flashing}!flashing@{flashing}}
+\doxysubsubsection{\texorpdfstring{flashing()}{flashing()}}
+{\footnotesize\ttfamily flashing\+::flashing (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Constructor of \char`\"{}flashing\char`\"{}-\/class. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classflashing_a76dbdcd41969ba470c65884210d9de16}\label{classflashing_a76dbdcd41969ba470c65884210d9de16}} 
+\index{flashing@{flashing}!Handle@{Handle}}
+\index{Handle@{Handle}!flashing@{flashing}}
+\doxysubsubsection{\texorpdfstring{Handle()}{Handle()}}
+{\footnotesize\ttfamily void flashing\+::\+Handle (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Handle of concrete state \char`\"{}flashing\char`\"{}. Handles the concrete states \char`\"{}\+Off\char`\"{} and \char`\"{}\+Amber\char`\"{}. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{classstate}{state}}.
+
+\mbox{\Hypertarget{classflashing_abb6ba5816b9b16e00173a1cfb1abcb37}\label{classflashing_abb6ba5816b9b16e00173a1cfb1abcb37}} 
+\index{flashing@{flashing}!nextstate@{nextstate}}
+\index{nextstate@{nextstate}!flashing@{flashing}}
+\doxysubsubsection{\texorpdfstring{nextstate()}{nextstate()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classstate}{state}} $\ast$ flashing\+::nextstate (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Takes over to active state. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Instance for next state. 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{classstate}{state}}.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{flashing_8h}{flashing.\+h}}\item 
+\mbox{\hyperlink{flashing_8cpp}{flashing.\+cpp}}\end{DoxyCompactItemize}

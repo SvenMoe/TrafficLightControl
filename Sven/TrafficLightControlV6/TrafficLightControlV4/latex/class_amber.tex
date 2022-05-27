@@ -1,0 +1,92 @@
+\hypertarget{class_amber}{}\doxysection{Amber Class Reference}
+\label{class_amber}\index{Amber@{Amber}}
+
+
+{\ttfamily \#include $<$Amber.\+h$>$}
+
+Inheritance diagram for Amber\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_amber}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_amber_aebd10227577448c7eb8b580d9284f6de}{Amber}} ()
+\item 
+void \mbox{\hyperlink{class_amber_ab07c8f16bf0a36c9b0ce49fc2fcb67a0}{Handle}} ()
+\item 
+\mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$ \mbox{\hyperlink{class_amber_a089ac18a2fe9c82c70927d1a6b42fe93}{nextstate}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Concrete state of interface class \mbox{\hyperlink{class_light_control}{Light\+Control}}. In this state only the amber LED is on. \begin{DoxyAuthor}{Author}
+
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+May 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_amber_aebd10227577448c7eb8b580d9284f6de}\label{class_amber_aebd10227577448c7eb8b580d9284f6de}} 
+\index{Amber@{Amber}!Amber@{Amber}}
+\index{Amber@{Amber}!Amber@{Amber}}
+\doxysubsubsection{\texorpdfstring{Amber()}{Amber()}}
+{\footnotesize\ttfamily Amber\+::\+Amber (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Constructor of \char`\"{}\+Amber\char`\"{}-\/class. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_amber_ab07c8f16bf0a36c9b0ce49fc2fcb67a0}\label{class_amber_ab07c8f16bf0a36c9b0ce49fc2fcb67a0}} 
+\index{Amber@{Amber}!Handle@{Handle}}
+\index{Handle@{Handle}!Amber@{Amber}}
+\doxysubsubsection{\texorpdfstring{Handle()}{Handle()}}
+{\footnotesize\ttfamily void Amber\+::\+Handle (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Handle of concrete state \char`\"{}\+Amber\char`\"{}. Controls the LED states. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_light_control}{Light\+Control}}.
+
+\mbox{\Hypertarget{class_amber_a089ac18a2fe9c82c70927d1a6b42fe93}\label{class_amber_a089ac18a2fe9c82c70927d1a6b42fe93}} 
+\index{Amber@{Amber}!nextstate@{nextstate}}
+\index{nextstate@{nextstate}!Amber@{Amber}}
+\doxysubsubsection{\texorpdfstring{nextstate()}{nextstate()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$ Amber\+::nextstate (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Takes over to the next active state. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Instance for next state 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_light_control}{Light\+Control}}.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_amber_8h}{Amber.\+h}}\item 
+\mbox{\hyperlink{_amber_8cpp}{Amber.\+cpp}}\end{DoxyCompactItemize}

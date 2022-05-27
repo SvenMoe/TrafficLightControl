@@ -1,0 +1,172 @@
+\hypertarget{class_g_p_i_o}{}\doxysection{GPIO Class Reference}
+\label{class_g_p_i_o}\index{GPIO@{GPIO}}
+
+
+{\ttfamily \#include $<$GPIO.\+h$>$}
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_g_p_i_o_aa0d69fdd38bd90c6c06a21f092289cc3}{GPIO}} (UINT32 startadress)
+\begin{DoxyCompactList}\small\item\em Configuration of the desired port. Each object instantiated from the class references to the selected Port (e.\+g. GPIOA, GPIOB ?). \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_g_p_i_o_a58b131410b6eca52db69677ad2af467a}{select\+\_\+datadirection}} (\mbox{\hyperlink{regtypes_8h_ab27e9918b538ce9d8ca692479b375b6a}{UINT8}} pin, bool direction)
+\begin{DoxyCompactList}\small\item\em Sets the data direction (input/output) for each pin. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_g_p_i_o_ae823603b24cb47b7be8995b0e595462f}{set\+\_\+bit}} (UINT32 pin)
+\begin{DoxyCompactList}\small\item\em Sets an individual bit of a port. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_g_p_i_o_a57ac8f4bdbecfdf7572af05978a66360}{delete\+\_\+bit}} (UINT32 pin)
+\begin{DoxyCompactList}\small\item\em Deletes an individual bit of a port. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_g_p_i_o_a8680c5efa75b7cb195a62065c8e0bbd3}{toggle\+\_\+bit}} (UINT32 pin)
+\begin{DoxyCompactList}\small\item\em Inverts (toggle) an individual bit of a port. \end{DoxyCompactList}\item 
+UINT32 \mbox{\hyperlink{class_g_p_i_o_afef57e8e22af49fa00a3808cf823b171}{read\+\_\+port}} ()
+\begin{DoxyCompactList}\small\item\em Simultaneous reading of all bits of a port. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_g_p_i_o_a2b0bad71c58f61e0f7543781f737d659}{write\+\_\+port}} (UINT32 data)
+\begin{DoxyCompactList}\small\item\em Simultaneous writing of all bits of a port. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+The class \mbox{\hyperlink{class_g_p_i_o}{GPIO}} serves as an interface to read inputs and manipulate outputs of the STM board. \begin{DoxyAuthor}{Author}
+
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+May 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_g_p_i_o_aa0d69fdd38bd90c6c06a21f092289cc3}\label{class_g_p_i_o_aa0d69fdd38bd90c6c06a21f092289cc3}} 
+\index{GPIO@{GPIO}!GPIO@{GPIO}}
+\index{GPIO@{GPIO}!GPIO@{GPIO}}
+\doxysubsubsection{\texorpdfstring{GPIO()}{GPIO()}}
+{\footnotesize\ttfamily GPIO\+::\+GPIO (\begin{DoxyParamCaption}\item[{UINT32}]{startadress }\end{DoxyParamCaption})}
+
+
+
+Configuration of the desired port. Each object instantiated from the class references to the selected Port (e.\+g. GPIOA, GPIOB ?). 
+
+Activation of the \mbox{\hyperlink{class_g_p_i_o}{GPIO}} clock for the corresponding register. 
+\begin{DoxyParams}{Parameters}
+{\em startadress} & identifies the GPIO-\/\+Port \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_g_p_i_o_a57ac8f4bdbecfdf7572af05978a66360}\label{class_g_p_i_o_a57ac8f4bdbecfdf7572af05978a66360}} 
+\index{GPIO@{GPIO}!delete\_bit@{delete\_bit}}
+\index{delete\_bit@{delete\_bit}!GPIO@{GPIO}}
+\doxysubsubsection{\texorpdfstring{delete\_bit()}{delete\_bit()}}
+{\footnotesize\ttfamily void GPIO\+::delete\+\_\+bit (\begin{DoxyParamCaption}\item[{UINT32}]{pin }\end{DoxyParamCaption})}
+
+
+
+Deletes an individual bit of a port. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pin} & identifies the GPIO-\/\+Pin \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_g_p_i_o_afef57e8e22af49fa00a3808cf823b171}\label{class_g_p_i_o_afef57e8e22af49fa00a3808cf823b171}} 
+\index{GPIO@{GPIO}!read\_port@{read\_port}}
+\index{read\_port@{read\_port}!GPIO@{GPIO}}
+\doxysubsubsection{\texorpdfstring{read\_port()}{read\_port()}}
+{\footnotesize\ttfamily UINT32 GPIO\+::read\+\_\+port (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+Simultaneous reading of all bits of a port. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+data from the port 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_g_p_i_o_a58b131410b6eca52db69677ad2af467a}\label{class_g_p_i_o_a58b131410b6eca52db69677ad2af467a}} 
+\index{GPIO@{GPIO}!select\_datadirection@{select\_datadirection}}
+\index{select\_datadirection@{select\_datadirection}!GPIO@{GPIO}}
+\doxysubsubsection{\texorpdfstring{select\_datadirection()}{select\_datadirection()}}
+{\footnotesize\ttfamily void GPIO\+::select\+\_\+datadirection (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{regtypes_8h_ab27e9918b538ce9d8ca692479b375b6a}{UINT8}}}]{pin,  }\item[{bool}]{direction }\end{DoxyParamCaption})}
+
+
+
+Sets the data direction (input/output) for each pin. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pin} & identifies the GPIO-\/\+Pin \\
+\hline
+{\em direction} & identifies the direction of the Pin \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_g_p_i_o_ae823603b24cb47b7be8995b0e595462f}\label{class_g_p_i_o_ae823603b24cb47b7be8995b0e595462f}} 
+\index{GPIO@{GPIO}!set\_bit@{set\_bit}}
+\index{set\_bit@{set\_bit}!GPIO@{GPIO}}
+\doxysubsubsection{\texorpdfstring{set\_bit()}{set\_bit()}}
+{\footnotesize\ttfamily void GPIO\+::set\+\_\+bit (\begin{DoxyParamCaption}\item[{UINT32}]{pin }\end{DoxyParamCaption})}
+
+
+
+Sets an individual bit of a port. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pin} & identifies the GPIO-\/\+Pin \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_g_p_i_o_a8680c5efa75b7cb195a62065c8e0bbd3}\label{class_g_p_i_o_a8680c5efa75b7cb195a62065c8e0bbd3}} 
+\index{GPIO@{GPIO}!toggle\_bit@{toggle\_bit}}
+\index{toggle\_bit@{toggle\_bit}!GPIO@{GPIO}}
+\doxysubsubsection{\texorpdfstring{toggle\_bit()}{toggle\_bit()}}
+{\footnotesize\ttfamily void GPIO\+::toggle\+\_\+bit (\begin{DoxyParamCaption}\item[{UINT32}]{pin }\end{DoxyParamCaption})}
+
+
+
+Inverts (toggle) an individual bit of a port. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pin} & identifies the GPIO-\/\+Pin \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_g_p_i_o_a2b0bad71c58f61e0f7543781f737d659}\label{class_g_p_i_o_a2b0bad71c58f61e0f7543781f737d659}} 
+\index{GPIO@{GPIO}!write\_port@{write\_port}}
+\index{write\_port@{write\_port}!GPIO@{GPIO}}
+\doxysubsubsection{\texorpdfstring{write\_port()}{write\_port()}}
+{\footnotesize\ttfamily void GPIO\+::write\+\_\+port (\begin{DoxyParamCaption}\item[{UINT32}]{data }\end{DoxyParamCaption})}
+
+
+
+Simultaneous writing of all bits of a port. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em data} & to write to the port \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_g_p_i_o_8h}{GPIO.\+h}}\item 
+\mbox{\hyperlink{_g_p_i_o_8cpp}{GPIO.\+cpp}}\end{DoxyCompactItemize}

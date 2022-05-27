@@ -1,0 +1,35 @@
+\hypertarget{active_8h_source}{}\doxysection{active.\+h}
+\mbox{\hyperlink{active_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#ifndef ACTIVE\_H}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#define ACTIVE\_H}}
+\DoxyCodeLine{5 }
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{state_8h}{state.h}}"{}}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{flashing_8h}{flashing.h}}"{}}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_user_buttons_8h}{UserButtons.h}}"{}}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{11 }
+\DoxyCodeLine{12 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{13 }
+\DoxyCodeLine{20 \textcolor{keyword}{class }\mbox{\hyperlink{classactive}{active}} : \textcolor{keyword}{public} \mbox{\hyperlink{classstate}{state}}}
+\DoxyCodeLine{21 \{}
+\DoxyCodeLine{22 \textcolor{keyword}{private}:}
+\DoxyCodeLine{23   \textcolor{keywordtype}{bool} buttonReset = \textcolor{keyword}{true};}
+\DoxyCodeLine{24   \mbox{\hyperlink{class_user_buttons}{UserButtons}} button;}
+\DoxyCodeLine{25   \mbox{\hyperlink{class_light_control}{LightControl}} *myLightControl;}
+\DoxyCodeLine{26 \textcolor{keyword}{public}:}
+\DoxyCodeLine{32   \mbox{\hyperlink{classactive_a6b3fa7f95ccdf561ae5cf176df6757b7}{active}}(\mbox{\hyperlink{class_light_control}{LightControl}} *myLightControl = \textcolor{keyword}{new} \mbox{\hyperlink{class_red}{Red}}()) : myLightControl(myLightControl) \{\}}
+\DoxyCodeLine{33   }
+\DoxyCodeLine{40   \textcolor{keywordtype}{void} \mbox{\hyperlink{classactive_a21a9291c598c433f82aa0dd793827c45}{Handle}}();}
+\DoxyCodeLine{41   }
+\DoxyCodeLine{47   \mbox{\hyperlink{classstate}{state}}* \mbox{\hyperlink{classactive_aaf7b87d296131493e7b1138d7dff4429}{nextstate}}();}
+\DoxyCodeLine{48 }
+\DoxyCodeLine{49   }
+\DoxyCodeLine{50 \};}
+\DoxyCodeLine{51 }
+\DoxyCodeLine{52 }
+\DoxyCodeLine{53 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

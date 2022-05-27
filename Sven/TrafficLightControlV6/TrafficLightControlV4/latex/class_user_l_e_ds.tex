@@ -1,0 +1,150 @@
+\hypertarget{class_user_l_e_ds}{}\doxysection{User\+LEDs Class Reference}
+\label{class_user_l_e_ds}\index{UserLEDs@{UserLEDs}}
+
+
+{\ttfamily \#include $<$User\+LEDs.\+h$>$}
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_user_l_e_ds_a7b2c1512afd5caf1b6f0c56235e26aee}{User\+LEDs}} ()
+\begin{DoxyCompactList}\small\item\em Configuration of the \mbox{\hyperlink{class_g_p_i_o}{GPIO}} Output LEDs. Each object instantiated from the class references to GPIO-\/\+Port-\/A. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_user_l_e_ds_a01a35acd623739146686c5f3fe2d4e65}{red\+LED}} (bool \mbox{\hyperlink{classstate}{state}})
+\begin{DoxyCompactList}\small\item\em Sets the red LED to the desired state (High or Low). \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_user_l_e_ds_ac1f9b3b537777314bbbcffdf92462d08}{amber\+LED}} (bool \mbox{\hyperlink{classstate}{state}})
+\begin{DoxyCompactList}\small\item\em Sets the amber LED to the desired state (High or Low). \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_user_l_e_ds_abbb03fe6cb39a8805069968ce334a19b}{green\+LED}} (bool \mbox{\hyperlink{classstate}{state}})
+\begin{DoxyCompactList}\small\item\em Sets the green LED to the desired state (High or Low). \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_user_l_e_ds_a48a46f0eb8f3575ecb1958041e22b824}{amber\+LEDToggle}} (bool \mbox{\hyperlink{classstate}{state}})
+\begin{DoxyCompactList}\small\item\em Toggle the amber led repeatedly on and off. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_user_l_e_ds_af39a103a81c38419434c6cec292a9d06}{all\+LEDs}} (bool \mbox{\hyperlink{classstate}{state}})
+\begin{DoxyCompactList}\small\item\em Sets all LEDs to the desired state (High or Low). \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+This class controls the Hardware-\/\+LED states of the STM Board. \begin{DoxyAuthor}{Author}
+
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+May 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_user_l_e_ds_a7b2c1512afd5caf1b6f0c56235e26aee}\label{class_user_l_e_ds_a7b2c1512afd5caf1b6f0c56235e26aee}} 
+\index{UserLEDs@{UserLEDs}!UserLEDs@{UserLEDs}}
+\index{UserLEDs@{UserLEDs}!UserLEDs@{UserLEDs}}
+\doxysubsubsection{\texorpdfstring{UserLEDs()}{UserLEDs()}}
+{\footnotesize\ttfamily User\+LEDs\+::\+User\+LEDs (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Configuration of the \mbox{\hyperlink{class_g_p_i_o}{GPIO}} Output LEDs. Each object instantiated from the class references to GPIO-\/\+Port-\/A. 
+
+Sets the data direction for each LED pin. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_user_l_e_ds_af39a103a81c38419434c6cec292a9d06}\label{class_user_l_e_ds_af39a103a81c38419434c6cec292a9d06}} 
+\index{UserLEDs@{UserLEDs}!allLEDs@{allLEDs}}
+\index{allLEDs@{allLEDs}!UserLEDs@{UserLEDs}}
+\doxysubsubsection{\texorpdfstring{allLEDs()}{allLEDs()}}
+{\footnotesize\ttfamily void User\+LEDs\+::all\+LEDs (\begin{DoxyParamCaption}\item[{bool}]{state }\end{DoxyParamCaption})}
+
+
+
+Sets all LEDs to the desired state (High or Low). 
+
+
+\begin{DoxyParams}{Parameters}
+{\em state} & \+: hands over the desired state. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_user_l_e_ds_ac1f9b3b537777314bbbcffdf92462d08}\label{class_user_l_e_ds_ac1f9b3b537777314bbbcffdf92462d08}} 
+\index{UserLEDs@{UserLEDs}!amberLED@{amberLED}}
+\index{amberLED@{amberLED}!UserLEDs@{UserLEDs}}
+\doxysubsubsection{\texorpdfstring{amberLED()}{amberLED()}}
+{\footnotesize\ttfamily void User\+LEDs\+::amber\+LED (\begin{DoxyParamCaption}\item[{bool}]{state }\end{DoxyParamCaption})}
+
+
+
+Sets the amber LED to the desired state (High or Low). 
+
+
+\begin{DoxyParams}{Parameters}
+{\em state} & \+: hands over the desired state. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_user_l_e_ds_a48a46f0eb8f3575ecb1958041e22b824}\label{class_user_l_e_ds_a48a46f0eb8f3575ecb1958041e22b824}} 
+\index{UserLEDs@{UserLEDs}!amberLEDToggle@{amberLEDToggle}}
+\index{amberLEDToggle@{amberLEDToggle}!UserLEDs@{UserLEDs}}
+\doxysubsubsection{\texorpdfstring{amberLEDToggle()}{amberLEDToggle()}}
+{\footnotesize\ttfamily void User\+LEDs\+::amber\+LEDToggle (\begin{DoxyParamCaption}\item[{bool}]{state }\end{DoxyParamCaption})}
+
+
+
+Toggle the amber led repeatedly on and off. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em state} & \+: hands over the desired state. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_user_l_e_ds_abbb03fe6cb39a8805069968ce334a19b}\label{class_user_l_e_ds_abbb03fe6cb39a8805069968ce334a19b}} 
+\index{UserLEDs@{UserLEDs}!greenLED@{greenLED}}
+\index{greenLED@{greenLED}!UserLEDs@{UserLEDs}}
+\doxysubsubsection{\texorpdfstring{greenLED()}{greenLED()}}
+{\footnotesize\ttfamily void User\+LEDs\+::green\+LED (\begin{DoxyParamCaption}\item[{bool}]{state }\end{DoxyParamCaption})}
+
+
+
+Sets the green LED to the desired state (High or Low). 
+
+
+\begin{DoxyParams}{Parameters}
+{\em state} & \+: hands over the desired state. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_user_l_e_ds_a01a35acd623739146686c5f3fe2d4e65}\label{class_user_l_e_ds_a01a35acd623739146686c5f3fe2d4e65}} 
+\index{UserLEDs@{UserLEDs}!redLED@{redLED}}
+\index{redLED@{redLED}!UserLEDs@{UserLEDs}}
+\doxysubsubsection{\texorpdfstring{redLED()}{redLED()}}
+{\footnotesize\ttfamily void User\+LEDs\+::red\+LED (\begin{DoxyParamCaption}\item[{bool}]{state }\end{DoxyParamCaption})}
+
+
+
+Sets the red LED to the desired state (High or Low). 
+
+
+\begin{DoxyParams}{Parameters}
+{\em state} & \+: hands over the desired state. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_user_l_e_ds_8h}{User\+LEDs.\+h}}\item 
+\mbox{\hyperlink{_user_l_e_ds_8cpp}{User\+LEDs.\+cpp}}\end{DoxyCompactItemize}

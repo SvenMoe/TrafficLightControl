@@ -1,0 +1,92 @@
+\hypertarget{classactive}{}\doxysection{active Class Reference}
+\label{classactive}\index{active@{active}}
+
+
+{\ttfamily \#include $<$active.\+h$>$}
+
+Inheritance diagram for active\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classactive}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classactive_a6b3fa7f95ccdf561ae5cf176df6757b7}{active}} (\mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$my\+Light\+Control=new \mbox{\hyperlink{class_red}{Red}}())
+\item 
+void \mbox{\hyperlink{classactive_a21a9291c598c433f82aa0dd793827c45}{Handle}} ()
+\item 
+\mbox{\hyperlink{classstate}{state}} $\ast$ \mbox{\hyperlink{classactive_aaf7b87d296131493e7b1138d7dff4429}{nextstate}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Concrete state of interface class \char`\"{}state\char`\"{}. In this state the Traffic Light is in active state. \begin{DoxyAuthor}{Author}
+
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+May 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classactive_a6b3fa7f95ccdf561ae5cf176df6757b7}\label{classactive_a6b3fa7f95ccdf561ae5cf176df6757b7}} 
+\index{active@{active}!active@{active}}
+\index{active@{active}!active@{active}}
+\doxysubsubsection{\texorpdfstring{active()}{active()}}
+{\footnotesize\ttfamily active\+::active (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$}]{my\+Light\+Control = {\ttfamily new~\mbox{\hyperlink{class_red}{Red}}()} }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Constructor of \char`\"{}active\char`\"{}-\/class. 
+\begin{DoxyParams}{Parameters}
+{\em Light\+Control $\ast$my\+Light\+Control} & gets the current state of \mbox{\hyperlink{class_light_control}{Light\+Control}} \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classactive_a21a9291c598c433f82aa0dd793827c45}\label{classactive_a21a9291c598c433f82aa0dd793827c45}} 
+\index{active@{active}!Handle@{Handle}}
+\index{Handle@{Handle}!active@{active}}
+\doxysubsubsection{\texorpdfstring{Handle()}{Handle()}}
+{\footnotesize\ttfamily void active\+::\+Handle (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Handle of concrete state \char`\"{}active\char`\"{}. Handles the concrete states of \char`\"{}active\char`\"{} state. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{classstate}{state}}.
+
+\mbox{\Hypertarget{classactive_aaf7b87d296131493e7b1138d7dff4429}\label{classactive_aaf7b87d296131493e7b1138d7dff4429}} 
+\index{active@{active}!nextstate@{nextstate}}
+\index{nextstate@{nextstate}!active@{active}}
+\doxysubsubsection{\texorpdfstring{nextstate()}{nextstate()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classstate}{state}} $\ast$ active\+::nextstate (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Takes over to flashing state. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Instance for next state. 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{classstate}{state}}.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{active_8h}{active.\+h}}\item 
+\mbox{\hyperlink{active_8cpp}{active.\+cpp}}\end{DoxyCompactItemize}

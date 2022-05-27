@@ -1,0 +1,31 @@
+\hypertarget{_user_buttons_8h_source}{}\doxysection{User\+Buttons.\+h}
+\mbox{\hyperlink{_user_buttons_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#ifndef USERBUTTONS\_H}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#define USERBUTTONS\_H}}
+\DoxyCodeLine{5 }
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_g_p_i_o_8h}{GPIO.h}}"{}}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{9 }
+\DoxyCodeLine{10 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{11 }
+\DoxyCodeLine{17 \textcolor{keyword}{class }\mbox{\hyperlink{class_user_buttons}{UserButtons}}}
+\DoxyCodeLine{18 \{}
+\DoxyCodeLine{19 \textcolor{keyword}{private}:}
+\DoxyCodeLine{20   \mbox{\hyperlink{class_g_p_i_o}{GPIO}} myGPIOB;}
+\DoxyCodeLine{21   \textcolor{keywordtype}{bool} getPinB3();}
+\DoxyCodeLine{22   \textcolor{keywordtype}{bool} getPinB5(); }
+\DoxyCodeLine{23  }
+\DoxyCodeLine{24 \textcolor{keyword}{public}:}
+\DoxyCodeLine{30   \mbox{\hyperlink{class_user_buttons_a6cab8ef281cb2d03d00738c31196c483}{UserButtons}}() : myGPIOB(0x40020400)\{\};}
+\DoxyCodeLine{31   }
+\DoxyCodeLine{37   \mbox{\hyperlink{regtypes_8h_ab27e9918b538ce9d8ca692479b375b6a}{UINT8}} \mbox{\hyperlink{class_user_buttons_aa2cd7b25be0a6d04e457f436606631a9}{getButton}}();}
+\DoxyCodeLine{38   }
+\DoxyCodeLine{39 }
+\DoxyCodeLine{40 \};}
+\DoxyCodeLine{41 }
+\DoxyCodeLine{42 \textcolor{preprocessor}{\#endif }\textcolor{comment}{//USERBUTTONS\_H}}
+
+\end{DoxyCode}
