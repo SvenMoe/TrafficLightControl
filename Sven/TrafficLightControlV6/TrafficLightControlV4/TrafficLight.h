@@ -18,6 +18,8 @@
  */
 class TrafficLight
 {
+private:
+
   bool buttonReset = true;
   UserButtons button;
   state *mystate;
