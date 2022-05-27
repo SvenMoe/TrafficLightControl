@@ -1,0 +1,183 @@
+##IAR Ninja build file
+
+
+#Rules
+rule COMPILER_XCL
+  command = C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\common\bin\XclFileGenerator.exe $xclcommand -f "$rspfile_name"
+  description = IAR_NEW_TOOL+++COMPILER_XCL+++$in+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\common\bin\XclFileGenerator.exe" $flags
+  rspfile = $rspfile_name
+  rspfile_content = $flags
+
+rule INDEXER
+  command = C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\common\bin\SourceIndexer.exe $flags
+  depfile = $out.dep
+  description = IAR_NEW_TOOL+++INDEXER+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\common\bin\SourceIndexer.exe" $flags
+
+rule MAKEBROWSE
+  command = C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\common\bin\makeBrowseData.exe $flags
+  description = IAR_NEW_TOOL+++MAKEBROWSE+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\common\bin\makeBrowseData.exe" $flags
+
+rule PDBLINK
+  command = C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\common\bin\PbdLink.exe $flags
+  description = IAR_NEW_TOOL+++PDBLINK+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\common\bin\PbdLink.exe" $flags
+
+
+
+#Build steps
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\active.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\active.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Aus.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Aus.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\flashing.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\flashing.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\GPIO.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\GPIO.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Green.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Green.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\LightControl.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\LightControl.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\main.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\main.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Red.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Red.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\RedYellow.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\RedYellow.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\state.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\state.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\TrafficLight.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\TrafficLight.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\UserButtons.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\UserButtons.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\UserLEDs.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\UserLEDs.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Yellow.cpp" -xcl_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.xcl" -macro_file "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\bin\iccarm.exe"
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Yellow.cpp" -o "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol --c++ --no_exceptions --no_rtti --predef_macros "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.tmp"
+  rspfile_name = C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.xcl.rsp
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\active.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Aus.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\flashing.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\GPIO.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Green.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\LightControl.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\main.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Red.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\RedYellow.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\state.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\TrafficLight.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\UserButtons.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\UserLEDs.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.pbi : INDEXER C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.xcl |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Yellow.cpp
+  flags = "-out=C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.pbi" -f "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.xcl"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl.pbw : MAKEBROWSE C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl.pbd
+  flags = "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl.pbd" -output "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl.pbw"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part0.pbi : PDBLINK C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.pbi |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.pbi $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.pbi $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.pbi
+  flags = -M "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part0.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\active.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Aus.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\flashing.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\GPIO.pbi"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part1.pbi : PDBLINK C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.pbi |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.pbi $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.pbi $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.pbi
+  flags = -M "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part1.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Green.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\LightControl.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\main.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Red.pbi"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part2.pbi : PDBLINK C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.pbi |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.pbi $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.pbi $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.pbi
+  flags = -M "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part2.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\RedYellow.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\state.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLight.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserButtons.pbi"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part3.pbi : PDBLINK C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.pbi |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.pbi
+  flags = -M "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part3.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\UserLEDs.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\Yellow.pbi"
+
+build C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl.pbd : PDBLINK C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part0.pbi |  $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part1.pbi $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part2.pbi $
+C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part3.pbi
+  flags = -M "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl.pbd" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part0.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part1.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part2.pbi" "C$:\Users\svenm\Documents\Studium\6.Semester\Embedded$ Systems\_Sven\TrafficLightControl\Debug\BrowseInfo\TrafficLightControl_part3.pbi"
+
