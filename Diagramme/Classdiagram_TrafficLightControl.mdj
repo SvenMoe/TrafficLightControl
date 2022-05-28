@@ -2728,7 +2728,7 @@
 											"top": 689,
 											"width": 313.244140625,
 											"height": 13,
-											"text": "+write_port(date: UINT32): void",
+											"text": "+write_port(data: UINT32): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -8915,7 +8915,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGBBpmbFInhOd8="
 									},
-									"name": "date",
+									"name": "data",
 									"type": "UINT32"
 								},
 								{
