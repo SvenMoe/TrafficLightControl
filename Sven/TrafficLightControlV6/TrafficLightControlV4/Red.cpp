@@ -2,6 +2,17 @@
 
 #include "Red.h"
 
+Red *Red::Instance = NULL;
+
+Red *Red::GetInstance()
+{
+  if (Instance == NULL)
+  {
+    Instance = new Red();
+  }
+  return Instance;
+}
+
 void Red::Handle()
 {
   cout << "LED RED" << endl;
