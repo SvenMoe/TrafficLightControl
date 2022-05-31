@@ -5,8 +5,12 @@
 #ifndef UserLEDs_H
 #define UserLEDs_H
 
+#include <iostream>
 #include "GPIO.h"
 #include "regtypes.h"
+
+using namespace std;
+
 /**
  * This class controls the Hardware-LED states of the STM Board.
  * @author 
@@ -19,6 +23,7 @@ private:
   UINT32 PinRed;
   UINT32 PinAmber;
   UINT32 PinGreen;
+  bool toggle;
 public:
 /**
  *  @brief Configuration of the GPIO Output LEDs. Each object instantiated from the class references to GPIO-Port-A. 
