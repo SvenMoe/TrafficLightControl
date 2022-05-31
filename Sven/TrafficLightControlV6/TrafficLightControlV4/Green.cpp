@@ -2,6 +2,16 @@
 
 #include "Green.h"
 
+Green *Green::Instance = NULL;
+
+Green *Green::GetInstance()
+{
+  if (Instance == NULL)
+  {
+    Instance = new Green();
+  }
+  return Instance;
+}
 
 void Green::Handle()
 {
@@ -11,8 +21,8 @@ void Green::Handle()
   myLED.greenLED(1);
 }
 
-inline LightControl* Green::nextstate()
+inline LightControl *Green::nextstate()
 {
-  LightControl *instance = new Amber();
+  LightControl *instance = Amber::GetInstance();
   return instance;
 }

@@ -13,35 +13,32 @@
 /**
  * Context class "TrafficLight".
  * User Interface.
- * @author 
+ * @author
  * @date   May 2022
  */
 class TrafficLight
 {
 private:
-
   bool buttonReset = true;
   UserButtons button;
   state *mystate;
-  //flashing myflashing;
-  //active myactive;
-  
-public:
-/**
- * Constructor of "TrafficLight"-class.
- * @param  "state *mystate" gets the current state of the Traffic Light.
- * @return None
- */
-  TrafficLight(state *mystate = new flashing()) : mystate(mystate) {}
-  
-/**
- * Handle to switch between active and flashing state.
- * @param  None
- * @return zero for cancelling the program, otherwise it returns one
- */
-  UINT8 Handle();
-  
-};
+  // flashing myflashing;
+  // active myactive;
 
+public:
+  /**
+   * Constructor of "TrafficLight"-class.
+   * @param  "state *mystate" gets the current state of the Traffic Light.
+   * @return None
+   */
+  TrafficLight(state *mystate = flashing::GetInstance()) : mystate(mystate) {}
+
+  /**
+   * Handle to switch between active and flashing state.
+   * @param  None
+   * @return zero for cancelling the program, otherwise it returns one
+   */
+  UINT8 Handle();
+};
 
 #endif

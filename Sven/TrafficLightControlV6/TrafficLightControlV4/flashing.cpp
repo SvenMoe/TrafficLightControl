@@ -2,20 +2,31 @@
 
 #include "flashing.h"
 
+flashing *flashing::Instance = NULL;
+
+flashing *flashing::GetInstance()
+{
+  if (Instance == NULL)
+  {
+    Instance = new flashing();
+  }
+  return Instance;
+}
 
 void flashing::Handle()
 {
   cout << "mode: flashing" << endl;
-  myLightControl = new Off();
+  myLightControl = Off::GetInstance();
   myLightControl->Handle();
-  for(int i=0; i<5000; i++){}
-  myLightControl= new Amber();
+  for (int i = 0; i < 5000; i++)
+  {
+  }
+  myLightControl = Amber::GetInstance();
   myLightControl->Handle();
-  
 }
 
-inline state* flashing::nextstate()
+inline state *flashing::nextstate()
 {
-  state *instance = new active();
+  state *instance = active::GetInstance();
   return instance;
 }

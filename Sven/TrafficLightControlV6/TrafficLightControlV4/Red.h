@@ -34,7 +34,7 @@ private:
    * @param  None
    * @return None
    */
-  Red();
+  Red(){};
 
 public:
   /**

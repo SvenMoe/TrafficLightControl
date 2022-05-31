@@ -2,6 +2,16 @@
 
 #include "RedAmber.h"
 
+RedAmber *RedAmber::Instance = NULL;
+
+RedAmber *RedAmber::GetInstance()
+{
+  if (Instance == NULL)
+  {
+    Instance = new RedAmber();
+  }
+  return Instance;
+}
 
 void RedAmber::Handle()
 {
@@ -11,8 +21,8 @@ void RedAmber::Handle()
   myLED.greenLED(0);
 }
 
-inline LightControl* RedAmber::nextstate()
+inline LightControl *RedAmber::nextstate()
 {
-  LightControl *instance = new Green();
+  LightControl *instance = Green::GetInstance();
   return instance;
 }

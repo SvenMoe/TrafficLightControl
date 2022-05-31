@@ -2,25 +2,36 @@
 
 #include "active.h"
 
+active *active::Instance = NULL;
+
+active *active::GetInstance()
+{
+  if (Instance == NULL)
+  {
+    Instance = new active();
+  }
+  return Instance;
+}
+
 void active::Handle()
 {
   cout << "mode: active" << endl;
-  
-  if(button.getButton() == 'O')
+
+  if (button.getButton() == 'O')
   {
     buttonReset = true;
   }
-  if(button.getButton() == 'F' && buttonReset == true)
+  if (button.getButton() == 'F' && buttonReset == true)
   {
     myLightControl = myLightControl->nextstate();
     buttonReset = false;
   }
-  
+
   myLightControl->Handle();
 }
 
-inline state* active::nextstate()
+inline state *active::nextstate()
 {
-  state *instance = new flashing();
+  state *instance = flashing::GetInstance();
   return instance;
 }

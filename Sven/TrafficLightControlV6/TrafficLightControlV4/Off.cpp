@@ -2,6 +2,16 @@
 
 #include "Off.h"
 
+Off *Off::Instance = NULL;
+
+Off *Off::GetInstance()
+{
+  if (Instance == NULL)
+  {
+    Instance = new Off();
+  }
+  return Instance;
+}
 
 void Off::Handle()
 {
@@ -11,8 +21,8 @@ void Off::Handle()
   myLED.greenLED(0);
 }
 
-LightControl* Off::nextstate()
+LightControl *Off::nextstate()
 {
-  LightControl *instance = new Off();
+  LightControl *instance = Off::GetInstance();
   return instance;
 }

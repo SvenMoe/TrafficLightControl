@@ -23,6 +23,6 @@ void Red::Handle()
 
 inline LightControl *Red::nextstate()
 {
-  LightControl *instance = new RedAmber();
+  LightControl *instance = RedAmber::GetInstance();
   return instance;
 }
