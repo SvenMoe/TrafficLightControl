@@ -14,7 +14,7 @@ using namespace std;
 /**
  * Concrete state of interface class "state".
  * In this state the Traffic Light is in active state.
- * @author
+ * @author Cedric Franke
  * @date   May 2022
  */
 class active : public state

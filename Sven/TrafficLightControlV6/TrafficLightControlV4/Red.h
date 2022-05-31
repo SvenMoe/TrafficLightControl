@@ -14,7 +14,7 @@ using namespace std;
 /**
  * Concrete state of interface class "LightControl".
  * In this state only the red LED is on.
- * @author
+ * @author Cedric Franke
  * @date   May 2022
  */
 class Red : public LightControl
