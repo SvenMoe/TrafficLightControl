@@ -38,7 +38,6 @@ private:
 public:
   /**
    * Static singleton access method.
-   * Controls the LED states.
    * @param  None
    * @return None
    */
