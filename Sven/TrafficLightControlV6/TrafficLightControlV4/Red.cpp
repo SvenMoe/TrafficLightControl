@@ -9,7 +9,7 @@ void Red::Handle()
   myLED.amberLED(0);
   myLED.greenLED(0);
 }
-// hallo
+
 inline LightControl *Red::nextstate()
 {
   LightControl *instance = new RedAmber();
