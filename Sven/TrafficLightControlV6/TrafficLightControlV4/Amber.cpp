@@ -15,7 +15,6 @@ Amber *Amber::GetInstance()
 
 void Amber::Handle()
 {
-  cout << "LED AMBER" << endl;
   myLED.redLED(0);
   myLED.amberLED(1);
   myLED.greenLED(0);
