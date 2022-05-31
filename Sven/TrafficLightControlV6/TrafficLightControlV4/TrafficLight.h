@@ -31,7 +31,7 @@ public:
    * @param  "state *mystate" gets the current state of the Traffic Light.
    * @return None
    */
-  TrafficLight(state *mystate = flashing::GetInstance()) : mystate(mystate) {}
+  TrafficLight(state *mystate = active::GetInstance()) : mystate(mystate) {}
 
   /**
    * Handle to switch between active and flashing state.
