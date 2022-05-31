@@ -2,7 +2,6 @@
 
 #include "Red.h"
 
-
 void Red::Handle()
 {
   cout << "LED RED" << endl;
@@ -10,8 +9,8 @@ void Red::Handle()
   myLED.amberLED(0);
   myLED.greenLED(0);
 }
-
-inline LightControl* Red::nextstate()
+// hallo
+inline LightControl *Red::nextstate()
 {
   LightControl *instance = new RedAmber();
   return instance;
