@@ -1,4 +1,4 @@
-/** @file Geen.cpp*/
+/** @file Green.cpp*/
 
 #include "Green.h"
 
