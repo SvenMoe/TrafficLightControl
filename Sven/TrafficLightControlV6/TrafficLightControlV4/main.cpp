@@ -4,7 +4,7 @@
 using namespace std;
 
 
-//#define _HARDWAREPRESENT ;
+//#define _HARDWAREPRESENT;
 
 int main()
 {

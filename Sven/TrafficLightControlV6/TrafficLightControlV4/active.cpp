@@ -15,7 +15,6 @@ active *active::GetInstance()
 
 void active::Handle()
 {
-  cout << "mode: active" << endl;
 
   if (button.getButton() == 'O')
   {
@@ -32,6 +31,7 @@ void active::Handle()
 
 inline state *active::nextstate()
 {
+  cout << "mode: flashing" << endl;
   state *instance = flashing::GetInstance();
   return instance;
 }
