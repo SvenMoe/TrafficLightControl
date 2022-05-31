@@ -15,7 +15,6 @@ flashing *flashing::GetInstance()
 
 void flashing::Handle()
 {
-  cout << "mode: flashing" << endl;
   myLightControl = Off::GetInstance();
   myLightControl->Handle();
   for (int i = 0; i < 5000; i++)
@@ -27,6 +26,7 @@ void flashing::Handle()
 
 inline state *flashing::nextstate()
 {
+  cout << "mode: active" << endl;
   state *instance = active::GetInstance();
   return instance;
 }
