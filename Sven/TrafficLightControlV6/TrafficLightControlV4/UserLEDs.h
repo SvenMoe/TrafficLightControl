@@ -23,7 +23,6 @@ private:
   UINT32 PinRed;
   UINT32 PinAmber;
   UINT32 PinGreen;
-  bool toggle;
 public:
 /**
  *  @brief Configuration of the GPIO Output LEDs. Each object instantiated from the class references to GPIO-Port-A. 

@@ -6,6 +6,7 @@
 #include "regtypes.h"
 #include "UserLEDs.h"
 #include "LightControl.h"
+#include "OutputFormat.h"
 #include <iostream>
 
 using namespace std;

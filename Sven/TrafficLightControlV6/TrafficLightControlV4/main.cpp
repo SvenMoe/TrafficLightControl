@@ -8,7 +8,13 @@ using namespace std;
 
 int main()
 {
-  TrafficLight myTrafficLight;
+  #ifdef _HARDWAREPRESENT
+	OutputFormat* myOutputFormat = new HardwareOutput;	
+	#else
+	OutputFormat* myOutputFormat = new SoftwareOutput;
+	#endif
+
+  TrafficLight myTrafficLight(active::GetInstance(), myOutputFormat);
   do
   {
   

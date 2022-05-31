@@ -22,6 +22,7 @@ private:
   bool buttonReset = true;
   UserButtons button;
   state *mystate;
+  OutputFormat *myOutputFormat;
   // flashing myflashing;
   // active myactive;
 
@@ -31,7 +32,7 @@ public:
    * @param  "state *mystate" gets the current state of the Traffic Light.
    * @return None
    */
-  TrafficLight(state *mystate = active::GetInstance()) : mystate(mystate) {}
+  TrafficLight(state *mystate = active::GetInstance(), OutputFormat *myOutputFormat = new HardwareOutput) : mystate(mystate), myOutputFormat(myOutputFormat) {}
 
   /**
    * Handle to switch between active and flashing state.

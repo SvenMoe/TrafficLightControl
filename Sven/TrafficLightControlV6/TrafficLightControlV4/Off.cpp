@@ -15,10 +15,7 @@ Off *Off::GetInstance()
 
 void Off::Handle()
 {
-  cout << "LED AUS" << endl;
-  myLED.redLED(0);
-  myLED.amberLED(0);
-  myLED.greenLED(0);
+  OutputFormat.off();
 }
 
 LightControl *Off::nextstate()

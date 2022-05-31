@@ -15,9 +15,7 @@ Amber *Amber::GetInstance()
 
 void Amber::Handle()
 {
-  myLED.redLED(0);
-  myLED.amberLED(1);
-  myLED.greenLED(0);
+  OutputFormat.setAmber();
 }
 
 inline LightControl *Amber::nextstate()

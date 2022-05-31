@@ -7,6 +7,7 @@
 #include "LightControl.h"
 #include "Red.h"
 #include "UserLEDs.h"
+#include "OutputFormat.h"
 #include <iostream>
 
 using namespace std;

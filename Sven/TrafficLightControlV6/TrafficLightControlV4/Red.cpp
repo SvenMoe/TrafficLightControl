@@ -15,9 +15,7 @@ Red *Red::GetInstance()
 
 void Red::Handle()
 {
-  myLED.redLED(1);
-  myLED.amberLED(0);
-  myLED.greenLED(0);
+  OutputFormat.setRed();
 }
 
 inline LightControl *Red::nextstate()

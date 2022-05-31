@@ -15,9 +15,7 @@ RedAmber *RedAmber::GetInstance()
 
 void RedAmber::Handle()
 {
-  myLED.redLED(1);
-  myLED.amberLED(1);
-  myLED.greenLED(0);
+  OutputFormat.setRedAmber();
 }
 
 inline LightControl *RedAmber::nextstate()

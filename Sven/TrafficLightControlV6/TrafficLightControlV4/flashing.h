@@ -6,6 +6,7 @@
 #include "regtypes.h"
 #include "state.h"
 #include "LightControl.h"
+#include "OutputFormat.h"
 #include "Off.h"
 #include "Amber.h"
 #include "active.h"
