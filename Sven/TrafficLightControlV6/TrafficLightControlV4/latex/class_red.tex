@@ -13,11 +13,14 @@ Inheritance diagram for Red\+:\begin{figure}[H]
 \doxysubsection*{Public Member Functions}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{class_red_ac010a2bcec6571efb9ab8caa00914e56}{Red}} ()
-\item 
 void \mbox{\hyperlink{class_red_a92d53b257871cc9b1b700caa807ff35d}{Handle}} ()
 \item 
 \mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$ \mbox{\hyperlink{class_red_a215cab4fcb42967418f5434f4349fd4b}{nextstate}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_red}{Red}} $\ast$ \mbox{\hyperlink{class_red_a93011c370026687116f5004db3ce5d15}{Get\+Instance}} ()
 \end{DoxyCompactItemize}
 
 
@@ -30,14 +33,14 @@ May 2022
 \end{DoxyDate}
 
 
-\doxysubsection{Constructor \& Destructor Documentation}
-\mbox{\Hypertarget{class_red_ac010a2bcec6571efb9ab8caa00914e56}\label{class_red_ac010a2bcec6571efb9ab8caa00914e56}} 
-\index{Red@{Red}!Red@{Red}}
-\index{Red@{Red}!Red@{Red}}
-\doxysubsubsection{\texorpdfstring{Red()}{Red()}}
-{\footnotesize\ttfamily Red\+::\+Red (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_red_a93011c370026687116f5004db3ce5d15}\label{class_red_a93011c370026687116f5004db3ce5d15}} 
+\index{Red@{Red}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!Red@{Red}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_red}{Red}} $\ast$ Red\+::\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
 
-Constructor of \char`\"{}\+Red\char`\"{}-\/class. 
+Static singleton access method. Controls the LED states. 
 \begin{DoxyParams}{Parameters}
 {\em None} & \\
 \hline
@@ -45,9 +48,6 @@ Constructor of \char`\"{}\+Red\char`\"{}-\/class.
 \begin{DoxyReturn}{Returns}
 None 
 \end{DoxyReturn}
-
-
-\doxysubsection{Member Function Documentation}
 \mbox{\Hypertarget{class_red_a92d53b257871cc9b1b700caa807ff35d}\label{class_red_a92d53b257871cc9b1b700caa807ff35d}} 
 \index{Red@{Red}!Handle@{Handle}}
 \index{Handle@{Handle}!Red@{Red}}

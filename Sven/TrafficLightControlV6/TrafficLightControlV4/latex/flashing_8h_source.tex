@@ -8,8 +8,8 @@
 \DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
 \DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{state_8h}{state.h}}"{}}}
 \DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_light_control_8h}{LightControl.h}}"{}}}
-\DoxyCodeLine{9 \textcolor{preprocessor}{\#include "{}Aus.h"{}}}
-\DoxyCodeLine{10 \textcolor{preprocessor}{\#include "{}Yellow.h"{}}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_off_8h}{Off.h}}"{}}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_amber_8h}{Amber.h}}"{}}}
 \DoxyCodeLine{11 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{active_8h}{active.h}}"{}}}
 \DoxyCodeLine{12 \textcolor{preprocessor}{\#include <iostream>}}
 \DoxyCodeLine{13 }
@@ -19,15 +19,19 @@
 \DoxyCodeLine{23 \{}
 \DoxyCodeLine{24 \textcolor{keyword}{private}:}
 \DoxyCodeLine{25   \mbox{\hyperlink{class_light_control}{LightControl}} *myLightControl = \textcolor{keyword}{nullptr};}
-\DoxyCodeLine{26 \textcolor{keyword}{public}:}
-\DoxyCodeLine{32   \mbox{\hyperlink{classflashing_af8f407753bb736e0cf1fc36ac767fa10}{flashing}}()\{\}}
-\DoxyCodeLine{33   }
-\DoxyCodeLine{40   \textcolor{keywordtype}{void} \mbox{\hyperlink{classflashing_a76dbdcd41969ba470c65884210d9de16}{Handle}}();}
-\DoxyCodeLine{41   }
-\DoxyCodeLine{47   \mbox{\hyperlink{classstate}{state}}* \mbox{\hyperlink{classflashing_abb6ba5816b9b16e00173a1cfb1abcb37}{nextstate}}(); }
-\DoxyCodeLine{48 \};}
+\DoxyCodeLine{26 }
+\DoxyCodeLine{32   \textcolor{keyword}{static} \mbox{\hyperlink{classflashing}{flashing}} *Instance;}
+\DoxyCodeLine{33 }
+\DoxyCodeLine{39   \mbox{\hyperlink{classflashing}{flashing}}() \{\}}
+\DoxyCodeLine{40 }
+\DoxyCodeLine{41 \textcolor{keyword}{public}:}
+\DoxyCodeLine{48   \textcolor{keyword}{static} \mbox{\hyperlink{classflashing}{flashing}} *\mbox{\hyperlink{classflashing_a12b3b1c1e16fd576976b597005bae7a9}{GetInstance}}();}
 \DoxyCodeLine{49 }
-\DoxyCodeLine{50 }
-\DoxyCodeLine{51 \textcolor{preprocessor}{\#endif}}
+\DoxyCodeLine{56   \textcolor{keywordtype}{void} \mbox{\hyperlink{classflashing_a76dbdcd41969ba470c65884210d9de16}{Handle}}();}
+\DoxyCodeLine{57 }
+\DoxyCodeLine{63   \mbox{\hyperlink{classstate}{state}} *\mbox{\hyperlink{classflashing_abb6ba5816b9b16e00173a1cfb1abcb37}{nextstate}}();}
+\DoxyCodeLine{64 \};}
+\DoxyCodeLine{65 }
+\DoxyCodeLine{66 \textcolor{preprocessor}{\#endif}}
 
 \end{DoxyCode}

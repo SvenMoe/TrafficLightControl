@@ -78,31 +78,31 @@ $(function() {
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno"><a class="line" href="class_traffic_light.html">   19</a></span><span class="keyword">class </span><a class="code hl_class" href="class_traffic_light.html">TrafficLight</a></div>
 <div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>{</div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>  <span class="keywordtype">bool</span> buttonReset = <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>  <a class="code hl_class" href="class_user_buttons.html">UserButtons</a> button;</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>  <a class="code hl_class" href="classstate.html">state</a> *mystate;</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>  <span class="comment">//flashing myflashing;</span></div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>  <span class="comment">//active myactive;</span></div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>  </div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span><span class="keyword">public</span>:</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno"><a class="line" href="class_traffic_light.html#a1df0094e12b7d0939819f80a7705ee7a">   33</a></span>  <a class="code hl_function" href="class_traffic_light.html#a1df0094e12b7d0939819f80a7705ee7a">TrafficLight</a>(<a class="code hl_class" href="classstate.html">state</a> *mystate = <span class="keyword">new</span> <a class="code hl_class" href="classflashing.html">flashing</a>()) : mystate(mystate) {}</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>  </div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>  <span class="keywordtype">void</span> <a class="code hl_function" href="class_traffic_light.html#a5aa2c404f01a20a59b1607862ee0af98">Handle</a>();</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>  </div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="keyword">private</span>:</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>  <span class="keywordtype">bool</span> buttonReset = <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>  <a class="code hl_class" href="class_user_buttons.html">UserButtons</a> button;</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>  <a class="code hl_class" href="classstate.html">state</a> *mystate;</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>  <span class="comment">// flashing myflashing;</span></div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>  <span class="comment">// active myactive;</span></div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span><span class="keyword">public</span>:</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno"><a class="line" href="class_traffic_light.html#a692aa225f2e9b38023b73292e29b6b9e">   34</a></span>  <a class="code hl_function" href="class_traffic_light.html#a692aa225f2e9b38023b73292e29b6b9e">TrafficLight</a>(<a class="code hl_class" href="classstate.html">state</a> *mystate = <a class="code hl_function" href="classactive.html#abb74ff2f26a1e80e732947de1e43ab3c">active::GetInstance</a>()) : mystate(mystate) {}</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>  <a class="code hl_typedef" href="regtypes_8h.html#ab27e9918b538ce9d8ca692479b375b6a">UINT8</a> <a class="code hl_function" href="class_traffic_light.html#ab6626f9c352498252408e48057277dec">Handle</a>();</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>};</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span><span class="preprocessor">#endif</span></div>
 <div class="ttc" id="a_user_buttons_8h_html"><div class="ttname"><a href="_user_buttons_8h.html">UserButtons.h</a></div></div>
 <div class="ttc" id="aactive_8h_html"><div class="ttname"><a href="active_8h.html">active.h</a></div></div>
 <div class="ttc" id="aclass_traffic_light_html"><div class="ttname"><a href="class_traffic_light.html">TrafficLight</a></div><div class="ttdef"><b>Definition:</b> TrafficLight.h:20</div></div>
-<div class="ttc" id="aclass_traffic_light_html_a1df0094e12b7d0939819f80a7705ee7a"><div class="ttname"><a href="class_traffic_light.html#a1df0094e12b7d0939819f80a7705ee7a">TrafficLight::TrafficLight</a></div><div class="ttdeci">TrafficLight(state *mystate=new flashing())</div><div class="ttdef"><b>Definition:</b> TrafficLight.h:33</div></div>
-<div class="ttc" id="aclass_traffic_light_html_a5aa2c404f01a20a59b1607862ee0af98"><div class="ttname"><a href="class_traffic_light.html#a5aa2c404f01a20a59b1607862ee0af98">TrafficLight::Handle</a></div><div class="ttdeci">void Handle()</div><div class="ttdef"><b>Definition:</b> TrafficLight.cpp:7</div></div>
+<div class="ttc" id="aclass_traffic_light_html_a692aa225f2e9b38023b73292e29b6b9e"><div class="ttname"><a href="class_traffic_light.html#a692aa225f2e9b38023b73292e29b6b9e">TrafficLight::TrafficLight</a></div><div class="ttdeci">TrafficLight(state *mystate=active::GetInstance())</div><div class="ttdef"><b>Definition:</b> TrafficLight.h:34</div></div>
+<div class="ttc" id="aclass_traffic_light_html_ab6626f9c352498252408e48057277dec"><div class="ttname"><a href="class_traffic_light.html#ab6626f9c352498252408e48057277dec">TrafficLight::Handle</a></div><div class="ttdeci">UINT8 Handle()</div><div class="ttdef"><b>Definition:</b> TrafficLight.cpp:7</div></div>
 <div class="ttc" id="aclass_user_buttons_html"><div class="ttname"><a href="class_user_buttons.html">UserButtons</a></div><div class="ttdef"><b>Definition:</b> UserButtons.h:18</div></div>
-<div class="ttc" id="aclassflashing_html"><div class="ttname"><a href="classflashing.html">flashing</a></div><div class="ttdef"><b>Definition:</b> flashing.h:23</div></div>
+<div class="ttc" id="aclassactive_html_abb74ff2f26a1e80e732947de1e43ab3c"><div class="ttname"><a href="classactive.html#abb74ff2f26a1e80e732947de1e43ab3c">active::GetInstance</a></div><div class="ttdeci">static active * GetInstance()</div><div class="ttdef"><b>Definition:</b> active.cpp:7</div></div>
 <div class="ttc" id="aclassstate_html"><div class="ttname"><a href="classstate.html">state</a></div><div class="ttdef"><b>Definition:</b> state.h:17</div></div>
 <div class="ttc" id="aflashing_8h_html"><div class="ttname"><a href="flashing_8h.html">flashing.h</a></div></div>
 <div class="ttc" id="aregtypes_8h_html"><div class="ttname"><a href="regtypes_8h.html">regtypes.h</a></div></div>
+<div class="ttc" id="aregtypes_8h_html_ab27e9918b538ce9d8ca692479b375b6a"><div class="ttname"><a href="regtypes_8h.html#ab27e9918b538ce9d8ca692479b375b6a">UINT8</a></div><div class="ttdeci">unsigned char UINT8</div><div class="ttdef"><b>Definition:</b> regtypes.h:8</div></div>
 <div class="ttc" id="astate_8h_html"><div class="ttname"><a href="state_8h.html">state.h</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->

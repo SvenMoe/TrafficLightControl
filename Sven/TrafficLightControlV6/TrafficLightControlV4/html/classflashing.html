@@ -64,6 +64,7 @@ $(function() {
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="classflashing-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">flashing Class Reference</div></div>
 </div><!--header-->
@@ -82,8 +83,6 @@ Inheritance diagram for flashing:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:af8f407753bb736e0cf1fc36ac767fa10"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classflashing.html#af8f407753bb736e0cf1fc36ac767fa10">flashing</a> ()</td></tr>
-<tr class="separator:af8f407753bb736e0cf1fc36ac767fa10"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a76dbdcd41969ba470c65884210d9de16"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classflashing.html#a76dbdcd41969ba470c65884210d9de16">Handle</a> ()</td></tr>
 <tr class="separator:a76dbdcd41969ba470c65884210d9de16"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abb6ba5816b9b16e00173a1cfb1abcb37"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classstate.html">state</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classflashing.html#abb6ba5816b9b16e00173a1cfb1abcb37">nextstate</a> ()</td></tr>
@@ -92,13 +91,18 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afda29f5d05307cb2d09202860176b6a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a227136687f0faa9b8c558255322f3502"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classstate.html">state</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classstate.html#a227136687f0faa9b8c558255322f3502">nextstate</a> ()=0</td></tr>
 <tr class="separator:a227136687f0faa9b8c558255322f3502"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a12b3b1c1e16fd576976b597005bae7a9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classflashing.html">flashing</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classflashing.html#a12b3b1c1e16fd576976b597005bae7a9">GetInstance</a> ()</td></tr>
+<tr class="separator:a12b3b1c1e16fd576976b597005bae7a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Concrete state of interface class "state". In this state the amber LED is flashing and the Traffic Light is in standby state. </p><dl class="section author"><dt>Author</dt><dd></dd></dl>
 <dl class="section date"><dt>Date</dt><dd>May 2022 </dd></dl>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="af8f407753bb736e0cf1fc36ac767fa10" name="af8f407753bb736e0cf1fc36ac767fa10"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af8f407753bb736e0cf1fc36ac767fa10">&#9670;&nbsp;</a></span>flashing()</h2>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a12b3b1c1e16fd576976b597005bae7a9" name="a12b3b1c1e16fd576976b597005bae7a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12b3b1c1e16fd576976b597005bae7a9">&#9670;&nbsp;</a></span>GetInstance()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -107,7 +111,7 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">flashing::flashing </td>
+          <td class="memname"><a class="el" href="classflashing.html">flashing</a> * flashing::GetInstance </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -115,11 +119,11 @@ Public Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<p >Constructor of "flashing"-class. </p><dl class="params"><dt>Parameters</dt><dd>
+<p >Static singleton access method. Controls the LED states. </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">None</td><td></td></tr>
   </table>
@@ -129,7 +133,6 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
 <a id="a76dbdcd41969ba470c65884210d9de16" name="a76dbdcd41969ba470c65884210d9de16"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a76dbdcd41969ba470c65884210d9de16">&#9670;&nbsp;</a></span>Handle()</h2>
 

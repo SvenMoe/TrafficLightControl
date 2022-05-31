@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['getbutton_0',['getButton',['../class_user_buttons.html#aa2cd7b25be0a6d04e457f436606631a9',1,'UserButtons']]],
-  ['gpio_1',['GPIO',['../class_g_p_i_o.html#aa0d69fdd38bd90c6c06a21f092289cc3',1,'GPIO']]],
-  ['green_2',['Green',['../class_green.html#a7cab789a98cb94ed2981ff58390b8d45',1,'Green']]],
-  ['greenled_3',['greenLED',['../class_user_l_e_ds.html#abbb03fe6cb39a8805069968ce334a19b',1,'UserLEDs']]]
+  ['handle_0',['Handle',['../classactive.html#a21a9291c598c433f82aa0dd793827c45',1,'active::Handle()'],['../class_amber.html#ab07c8f16bf0a36c9b0ce49fc2fcb67a0',1,'Amber::Handle()'],['../classflashing.html#a76dbdcd41969ba470c65884210d9de16',1,'flashing::Handle()'],['../class_green.html#a21e8dcd4f5f996035dc3213f2b233478',1,'Green::Handle()'],['../class_off.html#aad93bf7e4e6e337ebc024cc451d5860c',1,'Off::Handle()'],['../class_red.html#a92d53b257871cc9b1b700caa807ff35d',1,'Red::Handle()'],['../class_red_amber.html#aed5f0a2bf63b14e3e4ccc42f5d04565e',1,'RedAmber::Handle()'],['../class_traffic_light.html#ab6626f9c352498252408e48057277dec',1,'TrafficLight::Handle()']]]
 ];

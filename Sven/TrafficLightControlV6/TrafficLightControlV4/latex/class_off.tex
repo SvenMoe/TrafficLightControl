@@ -13,11 +13,14 @@ Inheritance diagram for Off\+:\begin{figure}[H]
 \doxysubsection*{Public Member Functions}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{class_off_ab15f2edd889274f676f3d724f7a4c462}{Off}} ()
-\item 
 void \mbox{\hyperlink{class_off_aad93bf7e4e6e337ebc024cc451d5860c}{Handle}} ()
 \item 
 \mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$ \mbox{\hyperlink{class_off_a35a9e36a75c127ecdd0c085d6c9f03a9}{nextstate}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_off}{Off}} $\ast$ \mbox{\hyperlink{class_off_af7c91c1f67a4c904d0ae32de219a2552}{Get\+Instance}} ()
 \end{DoxyCompactItemize}
 
 
@@ -30,14 +33,14 @@ May 2022
 \end{DoxyDate}
 
 
-\doxysubsection{Constructor \& Destructor Documentation}
-\mbox{\Hypertarget{class_off_ab15f2edd889274f676f3d724f7a4c462}\label{class_off_ab15f2edd889274f676f3d724f7a4c462}} 
-\index{Off@{Off}!Off@{Off}}
-\index{Off@{Off}!Off@{Off}}
-\doxysubsubsection{\texorpdfstring{Off()}{Off()}}
-{\footnotesize\ttfamily Off\+::\+Off (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_off_af7c91c1f67a4c904d0ae32de219a2552}\label{class_off_af7c91c1f67a4c904d0ae32de219a2552}} 
+\index{Off@{Off}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!Off@{Off}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_off}{Off}} $\ast$ Off\+::\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
 
-Constructor of \char`\"{}\+Off\char`\"{}-\/class. 
+Static singleton access method. Controls the LED states. 
 \begin{DoxyParams}{Parameters}
 {\em None} & \\
 \hline
@@ -45,9 +48,6 @@ Constructor of \char`\"{}\+Off\char`\"{}-\/class.
 \begin{DoxyReturn}{Returns}
 None 
 \end{DoxyReturn}
-
-
-\doxysubsection{Member Function Documentation}
 \mbox{\Hypertarget{class_off_aad93bf7e4e6e337ebc024cc451d5860c}\label{class_off_aad93bf7e4e6e337ebc024cc451d5860c}} 
 \index{Off@{Off}!Handle@{Handle}}
 \index{Handle@{Handle}!Off@{Off}}

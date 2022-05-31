@@ -64,6 +64,7 @@ $(function() {
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="class_amber-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">Amber Class Reference</div></div>
 </div><!--header-->
@@ -82,8 +83,6 @@ Inheritance diagram for Amber:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aebd10227577448c7eb8b580d9284f6de"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_amber.html#aebd10227577448c7eb8b580d9284f6de">Amber</a> ()</td></tr>
-<tr class="separator:aebd10227577448c7eb8b580d9284f6de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab07c8f16bf0a36c9b0ce49fc2fcb67a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_amber.html#ab07c8f16bf0a36c9b0ce49fc2fcb67a0">Handle</a> ()</td></tr>
 <tr class="separator:ab07c8f16bf0a36c9b0ce49fc2fcb67a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a089ac18a2fe9c82c70927d1a6b42fe93"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_light_control.html">LightControl</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_amber.html#a089ac18a2fe9c82c70927d1a6b42fe93">nextstate</a> ()</td></tr>
@@ -92,13 +91,18 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af9c913c90d68c63d640fee8e49fd8463"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa1555c3b2743e257fd1636668b4c5b5c"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="class_light_control.html">LightControl</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_light_control.html#aa1555c3b2743e257fd1636668b4c5b5c">nextstate</a> ()=0</td></tr>
 <tr class="separator:aa1555c3b2743e257fd1636668b4c5b5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a7a58dd83749d0f82d804956fa9175bde"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_amber.html">Amber</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_amber.html#a7a58dd83749d0f82d804956fa9175bde">GetInstance</a> ()</td></tr>
+<tr class="separator:a7a58dd83749d0f82d804956fa9175bde"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Concrete state of interface class <a class="el" href="class_light_control.html">LightControl</a>. In this state only the amber LED is on. </p><dl class="section author"><dt>Author</dt><dd></dd></dl>
 <dl class="section date"><dt>Date</dt><dd>May 2022 </dd></dl>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aebd10227577448c7eb8b580d9284f6de" name="aebd10227577448c7eb8b580d9284f6de"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aebd10227577448c7eb8b580d9284f6de">&#9670;&nbsp;</a></span>Amber()</h2>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a7a58dd83749d0f82d804956fa9175bde" name="a7a58dd83749d0f82d804956fa9175bde"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a58dd83749d0f82d804956fa9175bde">&#9670;&nbsp;</a></span>GetInstance()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -107,7 +111,7 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Amber::Amber </td>
+          <td class="memname"><a class="el" href="class_amber.html">Amber</a> * Amber::GetInstance </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -115,11 +119,11 @@ Public Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<p >Constructor of "Amber"-class. </p><dl class="params"><dt>Parameters</dt><dd>
+<p >Static singleton access method. Controls the LED states. </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">None</td><td></td></tr>
   </table>
@@ -129,7 +133,6 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
 <a id="ab07c8f16bf0a36c9b0ce49fc2fcb67a0" name="ab07c8f16bf0a36c9b0ce49fc2fcb67a0"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ab07c8f16bf0a36c9b0ce49fc2fcb67a0">&#9670;&nbsp;</a></span>Handle()</h2>
 

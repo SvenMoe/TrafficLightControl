@@ -13,11 +13,14 @@ Inheritance diagram for flashing\+:\begin{figure}[H]
 \doxysubsection*{Public Member Functions}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{classflashing_af8f407753bb736e0cf1fc36ac767fa10}{flashing}} ()
-\item 
 void \mbox{\hyperlink{classflashing_a76dbdcd41969ba470c65884210d9de16}{Handle}} ()
 \item 
 \mbox{\hyperlink{classstate}{state}} $\ast$ \mbox{\hyperlink{classflashing_abb6ba5816b9b16e00173a1cfb1abcb37}{nextstate}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{classflashing}{flashing}} $\ast$ \mbox{\hyperlink{classflashing_a12b3b1c1e16fd576976b597005bae7a9}{Get\+Instance}} ()
 \end{DoxyCompactItemize}
 
 
@@ -30,14 +33,14 @@ May 2022
 \end{DoxyDate}
 
 
-\doxysubsection{Constructor \& Destructor Documentation}
-\mbox{\Hypertarget{classflashing_af8f407753bb736e0cf1fc36ac767fa10}\label{classflashing_af8f407753bb736e0cf1fc36ac767fa10}} 
-\index{flashing@{flashing}!flashing@{flashing}}
-\index{flashing@{flashing}!flashing@{flashing}}
-\doxysubsubsection{\texorpdfstring{flashing()}{flashing()}}
-{\footnotesize\ttfamily flashing\+::flashing (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classflashing_a12b3b1c1e16fd576976b597005bae7a9}\label{classflashing_a12b3b1c1e16fd576976b597005bae7a9}} 
+\index{flashing@{flashing}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!flashing@{flashing}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classflashing}{flashing}} $\ast$ flashing\+::\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
 
-Constructor of \char`\"{}flashing\char`\"{}-\/class. 
+Static singleton access method. Controls the LED states. 
 \begin{DoxyParams}{Parameters}
 {\em None} & \\
 \hline
@@ -45,9 +48,6 @@ Constructor of \char`\"{}flashing\char`\"{}-\/class.
 \begin{DoxyReturn}{Returns}
 None 
 \end{DoxyReturn}
-
-
-\doxysubsection{Member Function Documentation}
 \mbox{\Hypertarget{classflashing_a76dbdcd41969ba470c65884210d9de16}\label{classflashing_a76dbdcd41969ba470c65884210d9de16}} 
 \index{flashing@{flashing}!Handle@{Handle}}
 \index{Handle@{Handle}!flashing@{flashing}}

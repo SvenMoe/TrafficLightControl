@@ -13,11 +13,14 @@ Inheritance diagram for Green\+:\begin{figure}[H]
 \doxysubsection*{Public Member Functions}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{class_green_a7cab789a98cb94ed2981ff58390b8d45}{Green}} ()
-\item 
 void \mbox{\hyperlink{class_green_a21e8dcd4f5f996035dc3213f2b233478}{Handle}} ()
 \item 
 \mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$ \mbox{\hyperlink{class_green_a944ef9fc86e63dbbd11477f8bfbaf5d6}{nextstate}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_green}{Green}} $\ast$ \mbox{\hyperlink{class_green_afd30ef1925478804a99d1c096058786e}{Get\+Instance}} ()
 \end{DoxyCompactItemize}
 
 
@@ -30,14 +33,14 @@ May 2022
 \end{DoxyDate}
 
 
-\doxysubsection{Constructor \& Destructor Documentation}
-\mbox{\Hypertarget{class_green_a7cab789a98cb94ed2981ff58390b8d45}\label{class_green_a7cab789a98cb94ed2981ff58390b8d45}} 
-\index{Green@{Green}!Green@{Green}}
-\index{Green@{Green}!Green@{Green}}
-\doxysubsubsection{\texorpdfstring{Green()}{Green()}}
-{\footnotesize\ttfamily Green\+::\+Green (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_green_afd30ef1925478804a99d1c096058786e}\label{class_green_afd30ef1925478804a99d1c096058786e}} 
+\index{Green@{Green}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!Green@{Green}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_green}{Green}} $\ast$ Green\+::\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
 
-Constructor of \char`\"{}\+Green\char`\"{}-\/class. 
+Static singleton access method. Controls the LED states. 
 \begin{DoxyParams}{Parameters}
 {\em None} & \\
 \hline
@@ -45,9 +48,6 @@ Constructor of \char`\"{}\+Green\char`\"{}-\/class.
 \begin{DoxyReturn}{Returns}
 None 
 \end{DoxyReturn}
-
-
-\doxysubsection{Member Function Documentation}
 \mbox{\Hypertarget{class_green_a21e8dcd4f5f996035dc3213f2b233478}\label{class_green_a21e8dcd4f5f996035dc3213f2b233478}} 
 \index{Green@{Green}!Handle@{Handle}}
 \index{Handle@{Handle}!Green@{Green}}

@@ -64,6 +64,7 @@ $(function() {
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="classactive-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">active Class Reference</div></div>
 </div><!--header-->
@@ -82,8 +83,6 @@ Inheritance diagram for active:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a6b3fa7f95ccdf561ae5cf176df6757b7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classactive.html#a6b3fa7f95ccdf561ae5cf176df6757b7">active</a> (<a class="el" href="class_light_control.html">LightControl</a> *myLightControl=new <a class="el" href="class_red.html">Red</a>())</td></tr>
-<tr class="separator:a6b3fa7f95ccdf561ae5cf176df6757b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a21a9291c598c433f82aa0dd793827c45"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classactive.html#a21a9291c598c433f82aa0dd793827c45">Handle</a> ()</td></tr>
 <tr class="separator:a21a9291c598c433f82aa0dd793827c45"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaf7b87d296131493e7b1138d7dff4429"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classstate.html">state</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classactive.html#aaf7b87d296131493e7b1138d7dff4429">nextstate</a> ()</td></tr>
@@ -92,13 +91,18 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afda29f5d05307cb2d09202860176b6a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a227136687f0faa9b8c558255322f3502"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classstate.html">state</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classstate.html#a227136687f0faa9b8c558255322f3502">nextstate</a> ()=0</td></tr>
 <tr class="separator:a227136687f0faa9b8c558255322f3502"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:abb74ff2f26a1e80e732947de1e43ab3c"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classactive.html">active</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classactive.html#abb74ff2f26a1e80e732947de1e43ab3c">GetInstance</a> ()</td></tr>
+<tr class="separator:abb74ff2f26a1e80e732947de1e43ab3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Concrete state of interface class "state". In this state the Traffic Light is in active state. </p><dl class="section author"><dt>Author</dt><dd></dd></dl>
 <dl class="section date"><dt>Date</dt><dd>May 2022 </dd></dl>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a6b3fa7f95ccdf561ae5cf176df6757b7" name="a6b3fa7f95ccdf561ae5cf176df6757b7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b3fa7f95ccdf561ae5cf176df6757b7">&#9670;&nbsp;</a></span>active()</h2>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="abb74ff2f26a1e80e732947de1e43ab3c" name="abb74ff2f26a1e80e732947de1e43ab3c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb74ff2f26a1e80e732947de1e43ab3c">&#9670;&nbsp;</a></span>GetInstance()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -107,22 +111,21 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">active::active </td>
+          <td class="memname"><a class="el" href="classactive.html">active</a> * active::GetInstance </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="class_light_control.html">LightControl</a> *&#160;</td>
-          <td class="paramname"><em>myLightControl</em> = <code>new&#160;<a class="el" href="class_red.html">Red</a>()</code></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<p >Constructor of "active"-class. </p><dl class="params"><dt>Parameters</dt><dd>
+<p >Static singleton access method. Controls the LED states. </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">LightControl *myLightControl</td><td>gets the current state of <a class="el" href="class_light_control.html">LightControl</a> </td></tr>
+    <tr><td class="paramname">None</td><td></td></tr>
   </table>
   </dd>
 </dl>
@@ -130,7 +133,6 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
 <a id="a21a9291c598c433f82aa0dd793827c45" name="a21a9291c598c433f82aa0dd793827c45"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a21a9291c598c433f82aa0dd793827c45">&#9670;&nbsp;</a></span>Handle()</h2>
 

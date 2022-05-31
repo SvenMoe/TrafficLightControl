@@ -13,11 +13,14 @@ Inheritance diagram for Red\+Amber\+:\begin{figure}[H]
 \doxysubsection*{Public Member Functions}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{class_red_amber_a040610494ddf5477d2a3831daf33cc70}{Red\+Amber}} ()
-\item 
 void \mbox{\hyperlink{class_red_amber_aed5f0a2bf63b14e3e4ccc42f5d04565e}{Handle}} ()
 \item 
 \mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$ \mbox{\hyperlink{class_red_amber_adf027f4b97e6ffe933a4696ebcd2409d}{nextstate}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_red_amber}{Red\+Amber}} $\ast$ \mbox{\hyperlink{class_red_amber_a50f205020216c25eff5cb799eac729c7}{Get\+Instance}} ()
 \end{DoxyCompactItemize}
 
 
@@ -30,14 +33,14 @@ May 2022
 \end{DoxyDate}
 
 
-\doxysubsection{Constructor \& Destructor Documentation}
-\mbox{\Hypertarget{class_red_amber_a040610494ddf5477d2a3831daf33cc70}\label{class_red_amber_a040610494ddf5477d2a3831daf33cc70}} 
-\index{RedAmber@{RedAmber}!RedAmber@{RedAmber}}
-\index{RedAmber@{RedAmber}!RedAmber@{RedAmber}}
-\doxysubsubsection{\texorpdfstring{RedAmber()}{RedAmber()}}
-{\footnotesize\ttfamily Red\+Amber\+::\+Red\+Amber (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_red_amber_a50f205020216c25eff5cb799eac729c7}\label{class_red_amber_a50f205020216c25eff5cb799eac729c7}} 
+\index{RedAmber@{RedAmber}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!RedAmber@{RedAmber}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_red_amber}{Red\+Amber}} $\ast$ Red\+Amber\+::\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
 
-Constructor of \char`\"{}\+Red\+Amber\char`\"{}-\/class. 
+Static singleton access method. Controls the LED states. 
 \begin{DoxyParams}{Parameters}
 {\em None} & \\
 \hline
@@ -45,9 +48,6 @@ Constructor of \char`\"{}\+Red\+Amber\char`\"{}-\/class.
 \begin{DoxyReturn}{Returns}
 None 
 \end{DoxyReturn}
-
-
-\doxysubsection{Member Function Documentation}
 \mbox{\Hypertarget{class_red_amber_aed5f0a2bf63b14e3e4ccc42f5d04565e}\label{class_red_amber_aed5f0a2bf63b14e3e4ccc42f5d04565e}} 
 \index{RedAmber@{RedAmber}!Handle@{Handle}}
 \index{Handle@{Handle}!RedAmber@{RedAmber}}

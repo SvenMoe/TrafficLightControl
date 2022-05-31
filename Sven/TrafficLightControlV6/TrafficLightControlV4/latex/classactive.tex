@@ -13,11 +13,14 @@ Inheritance diagram for active\+:\begin{figure}[H]
 \doxysubsection*{Public Member Functions}
 \begin{DoxyCompactItemize}
 \item 
-\mbox{\hyperlink{classactive_a6b3fa7f95ccdf561ae5cf176df6757b7}{active}} (\mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$my\+Light\+Control=new \mbox{\hyperlink{class_red}{Red}}())
-\item 
 void \mbox{\hyperlink{classactive_a21a9291c598c433f82aa0dd793827c45}{Handle}} ()
 \item 
 \mbox{\hyperlink{classstate}{state}} $\ast$ \mbox{\hyperlink{classactive_aaf7b87d296131493e7b1138d7dff4429}{nextstate}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{classactive}{active}} $\ast$ \mbox{\hyperlink{classactive_abb74ff2f26a1e80e732947de1e43ab3c}{Get\+Instance}} ()
 \end{DoxyCompactItemize}
 
 
@@ -30,24 +33,21 @@ May 2022
 \end{DoxyDate}
 
 
-\doxysubsection{Constructor \& Destructor Documentation}
-\mbox{\Hypertarget{classactive_a6b3fa7f95ccdf561ae5cf176df6757b7}\label{classactive_a6b3fa7f95ccdf561ae5cf176df6757b7}} 
-\index{active@{active}!active@{active}}
-\index{active@{active}!active@{active}}
-\doxysubsubsection{\texorpdfstring{active()}{active()}}
-{\footnotesize\ttfamily active\+::active (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$}]{my\+Light\+Control = {\ttfamily new~\mbox{\hyperlink{class_red}{Red}}()} }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classactive_abb74ff2f26a1e80e732947de1e43ab3c}\label{classactive_abb74ff2f26a1e80e732947de1e43ab3c}} 
+\index{active@{active}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!active@{active}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classactive}{active}} $\ast$ active\+::\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
 
-Constructor of \char`\"{}active\char`\"{}-\/class. 
+Static singleton access method. Controls the LED states. 
 \begin{DoxyParams}{Parameters}
-{\em Light\+Control $\ast$my\+Light\+Control} & gets the current state of \mbox{\hyperlink{class_light_control}{Light\+Control}} \\
+{\em None} & \\
 \hline
 \end{DoxyParams}
 \begin{DoxyReturn}{Returns}
 None 
 \end{DoxyReturn}
-
-
-\doxysubsection{Member Function Documentation}
 \mbox{\Hypertarget{classactive_a21a9291c598c433f82aa0dd793827c45}\label{classactive_a21a9291c598c433f82aa0dd793827c45}} 
 \index{active@{active}!Handle@{Handle}}
 \index{Handle@{Handle}!active@{active}}
