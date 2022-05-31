@@ -2,7 +2,7 @@
 
 #include "UserLEDs.h"
 
-UserLEDs::UserLEDs() : myGPIOA(0x40020000),PinRed(8),PinAmber(9),PinGreen(10)
+UserLEDs::UserLEDs() : myGPIOA(0x40020000),PinRed(8),PinAmber(9),PinGreen(10),toggle(false)
 {
   #ifdef _HARDWAREPRESENT
 
@@ -12,7 +12,6 @@ UserLEDs::UserLEDs() : myGPIOA(0x40020000),PinRed(8),PinAmber(9),PinGreen(10)
 
 	#else
 
-    toggle = false;
 
 	#endif
 

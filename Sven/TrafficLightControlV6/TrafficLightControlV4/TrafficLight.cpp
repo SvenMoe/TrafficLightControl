@@ -6,7 +6,6 @@
 
 UINT8 TrafficLight::Handle()
 {
-  cout << button.getButton();
   
   if(button.getButton() == 'O')
   {
