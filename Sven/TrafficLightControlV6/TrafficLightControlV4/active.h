@@ -24,7 +24,7 @@ private:
   bool buttonReset = true;
   UserButtons button;
   LightControl *myLightControl;
-  OutputFormat *myOutputFormatActive;
+  static OutputFormat *myOutputFormatActive;
 
   /**
    * Singleton instance of "active"-class.
@@ -46,7 +46,7 @@ public:
    * @param  None
    * @return None
    */
-  static active *GetInstance(OutputFormat *myOutputFormat = new HardwareOutput);
+  static active *GetInstance(OutputFormat *myOutputFormat = HardwareOutput::GetInstance());
 
   /**
    * Handle of concrete state "active".

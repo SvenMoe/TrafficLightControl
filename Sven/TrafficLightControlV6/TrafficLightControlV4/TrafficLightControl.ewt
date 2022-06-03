@@ -2876,6 +2876,12 @@
         <name>$PROJ_DIR$\Green.h</name>
     </file>
     <file>
+        <name>$PROJ_DIR$\HardwareOutput.cpp</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\HardwareOutput.h</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\LightControl.cpp</name>
     </file>
     <file>
@@ -2891,6 +2897,12 @@
         <name>$PROJ_DIR$\Off.h</name>
     </file>
     <file>
+        <name>$PROJ_DIR$\OutputFormat.cpp</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\OutputFormat.h</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\Red.cpp</name>
     </file>
     <file>
@@ -2904,6 +2916,12 @@
     </file>
     <file>
         <name>$PROJ_DIR$\regtypes.h</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\SoftwareOutput.cpp</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\SoftwareOutput.h</name>
     </file>
     <file>
         <name>$PROJ_DIR$\state.cpp</name>

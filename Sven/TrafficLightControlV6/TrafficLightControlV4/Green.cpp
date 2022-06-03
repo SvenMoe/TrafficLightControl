@@ -15,7 +15,7 @@ Green *Green::GetInstance()
 
 void Green::Handle()
 {
-  OutputFormat.setGreen();
+  OutputFormat->setGreen();
 }
 
 inline LightControl *Green::nextstate()

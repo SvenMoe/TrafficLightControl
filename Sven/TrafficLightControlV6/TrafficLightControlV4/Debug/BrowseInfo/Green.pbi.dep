@@ -1,8 +1,8 @@
-C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\Debug\BrowseInfo\Green.pbi: \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\Green.cpp \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\Green.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\regtypes.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\LightControl.h \
+C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\Debug\BrowseInfo\Green.pbi: \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\Green.cpp \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\Green.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\regtypes.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\LightControl.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\iostream \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\istream \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\ostream \
@@ -72,8 +72,9 @@ C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\Debug\Br
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\system_error \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\cerrno \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\errno.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\Amber.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\Red.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\RedAmber.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\UserLEDs.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\GPIO.h
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\Amber.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\Red.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\RedAmber.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\UserLEDs.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\GPIO.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\OutputFormat.h

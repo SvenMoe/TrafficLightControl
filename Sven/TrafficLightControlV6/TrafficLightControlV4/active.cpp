@@ -6,7 +6,7 @@ active *active::Instance = NULL;
 
 active *active::GetInstance(OutputFormat *myOutputFormat)
 {
-  myOutputFormatActive = *myOutputFormat;
+  myOutputFormatActive = myOutputFormat;
 
   if (Instance == NULL)
   {

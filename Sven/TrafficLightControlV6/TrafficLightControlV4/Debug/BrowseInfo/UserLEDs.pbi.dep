@@ -1,8 +1,6 @@
-C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\Debug\BrowseInfo\UserLEDs.pbi: \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\UserLEDs.cpp \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\UserLEDs.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\GPIO.h \
-  C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\regtypes.h \
+C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\Debug\BrowseInfo\UserLEDs.pbi: \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\UserLEDs.cpp \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\UserLEDs.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\iostream \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\istream \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\ostream \
@@ -71,4 +69,6 @@ C:\Users\svenm\Downloads\TrafficLightControlVTimo\TrafficLightControlV4\Debug\Br
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\time64.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\system_error \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\cerrno \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\errno.h
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\errno.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\GPIO.h \
+  C:\Users\nikla\OneDrive\Desktop\TrafficLightControlV4\regtypes.h

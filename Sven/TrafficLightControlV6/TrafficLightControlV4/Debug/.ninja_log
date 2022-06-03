@@ -156,3 +156,14 @@
 2	741	6753666892705197	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/Green.o	1306e252455e00d7
 9	786	6753666893134044	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/flashing.o	91c511c47128bbbe
 793	940	6753666894779650	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Exe/TrafficLightControl.out	a97743238d92b9e1
+5941	6805	6759758580134661	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/GPIO.o	56348166cade6db
+7922	8745	6759758599664103	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/LightControl.o	28830e3e1f58b1b6
+11258	11814	6759758630287528	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/state.o	786649b1faeaf384
+11838	12410	6759758636225073	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/UserButtons.o	f5a0ca3b0e8dd19d
+12431	12977	6759758641850533	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/UserLEDs.o	8251f9a59289d302
+5567	6084	6759762420896989	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/OutputFormat.o	9e49eeb5b15d0eea
+1122	1802	6759763084975095	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/flashing.o	f28919d84a017423
+4	1368	6759767164461580	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/active.o	378e9a5bc673e00d
+1961	2773	6759767179304139	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/flashing.o	f28919d84a017423
+2	762	6759767481438832	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/active.o	378e9a5bc673e00d
+3	692	6759767986260487	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/active.o	378e9a5bc673e00d
