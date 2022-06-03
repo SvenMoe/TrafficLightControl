@@ -22,6 +22,7 @@ class Amber : public LightControl
 {
 private:
   UserLEDs myLED;
+  static OutputFormat *myOutputFormatAmber;
 
   /**
    * Singleton instance of "Amber"-class.
@@ -43,7 +44,7 @@ public:
    * @param  None
    * @return None
    */
-  static Amber *GetInstance();
+  static Amber *GetInstance(OutputFormat *myOutputFormat = HardwareOutput::GetInstance());
 
   /**
    * Handle of concrete state "Amber".

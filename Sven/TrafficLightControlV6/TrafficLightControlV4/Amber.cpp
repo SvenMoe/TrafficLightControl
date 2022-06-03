@@ -4,8 +4,9 @@
 
 Amber *Amber::Instance = NULL;
 
-Amber *Amber::GetInstance()
+Amber *Amber::GetInstance(OutputFormat *myOutputFormat)
 {
+  myOutputFormatAmber = myOutputFormat; 
   if (Instance == NULL)
   {
     Instance = new Amber();

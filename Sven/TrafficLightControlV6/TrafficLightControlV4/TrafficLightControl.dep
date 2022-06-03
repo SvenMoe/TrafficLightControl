@@ -146,12 +146,6 @@
         </outputs>
         <file>
             <name>$PROJ_DIR$\Red.cpp</name>
-            <outputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 104</file>
-                </tool>
-            </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
@@ -206,12 +200,6 @@
         </file>
         <file>
             <name>$PROJ_DIR$\Off.cpp</name>
-            <outputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 19</file>
-                </tool>
-            </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
@@ -221,12 +209,6 @@
         </file>
         <file>
             <name>$PROJ_DIR$\RedAmber.cpp</name>
-            <outputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 54</file>
-                </tool>
-            </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
@@ -266,12 +248,6 @@
         </file>
         <file>
             <name>$PROJ_DIR$\Amber.cpp</name>
-            <outputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 115</file>
-                </tool>
-            </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
@@ -341,12 +317,6 @@
         </file>
         <file>
             <name>$PROJ_DIR$\Green.cpp</name>
-            <outputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 61</file>
-                </tool>
-            </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
