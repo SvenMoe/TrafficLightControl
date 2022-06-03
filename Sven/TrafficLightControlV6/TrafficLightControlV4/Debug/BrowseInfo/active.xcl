@@ -1,15 +1,15 @@
-"C:\Users\nikla\OneDrive\Desktop\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\active.cpp"
+"C:\Users\svenm\Documents\Studium\6.Semester\Embedded Systems\TrafficLight_StandNiklas\active.cpp"
 -std=c++17
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\nikla\OneDrive\Desktop\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\BrowseInfo\active.pbi.dep
+C:\Users\svenm\Documents\Studium\6.Semester\Embedded Systems\TrafficLight_StandNiklas\Debug\BrowseInfo\active.pbi.dep
 -o
-C:\Users\nikla\OneDrive\Desktop\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\BrowseInfo\active.pbi
+C:\Users\svenm\Documents\Studium\6.Semester\Embedded Systems\TrafficLight_StandNiklas\Debug\BrowseInfo\active.pbi
 -I
-C:\Users\nikla\OneDrive\Desktop\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4
+C:\Users\svenm\Documents\Studium\6.Semester\Embedded Systems\TrafficLight_StandNiklas
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\cpp
 -I

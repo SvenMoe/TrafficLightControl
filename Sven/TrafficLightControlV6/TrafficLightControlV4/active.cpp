@@ -4,14 +4,16 @@
 
 active *active::Instance = NULL;
 
+OutputFormat* active::myOutputFormatActive = NULL;
+
 active *active::GetInstance(OutputFormat *myOutputFormat)
 {
   myOutputFormatActive = myOutputFormat;
-
   if (Instance == NULL)
   {
     Instance = new active();
   }
+
   return Instance;
 }
 
@@ -34,6 +36,6 @@ void active::Handle()
 inline state *active::nextstate()
 {
   cout << "mode: flashing" << endl;
-  state *instance = flashing::GetInstance();
+  state *instance = flashing::GetInstance(myOutputFormatActive);
   return instance;
 }

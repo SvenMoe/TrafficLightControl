@@ -21,16 +21,17 @@ class HardwareOutput : public OutputFormat
 private:
     static HardwareOutput *Instance;
     UserLEDs myLED;
-    HardwareOutput(){}
+    HardwareOutput() {}
+
     
 
 public:
     static HardwareOutput *GetInstance();
-    void setRed() = 0;
-    void setRedAmber() = 0;
-    void setAmber() = 0;
-    void setGreen() = 0;
-    void off() = 0;
+    void setRed();
+    void setRedAmber();
+    void setAmber();
+    void setGreen();
+    void off();
 
 };
 

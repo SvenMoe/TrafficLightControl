@@ -4,8 +4,11 @@
 
 Off *Off::Instance = NULL;
 
-Off *Off::GetInstance()
+OutputFormat* Off::myOutputFormatOff = NULL;
+
+Off *Off::GetInstance(OutputFormat *myOutputFormat)
 {
+  myOutputFormatOff = myOutputFormat; 
   if (Instance == NULL)
   {
     Instance = new Off();
@@ -15,11 +18,11 @@ Off *Off::GetInstance()
 
 void Off::Handle()
 {
-  OutputFormat.off();
+  myOutputFormatOff->off();
 }
 
 LightControl *Off::nextstate()
 {
-  LightControl *instance = Off::GetInstance();
+  LightControl *instance = Off::GetInstance(myOutputFormatOff);
   return instance;
 }

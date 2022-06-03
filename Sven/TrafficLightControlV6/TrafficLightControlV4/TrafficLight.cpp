@@ -23,3 +23,4 @@ UINT8 TrafficLight::Handle()
   mystate->Handle();
   return 1;
 }
+

@@ -7,7 +7,11 @@
 #include "UserLEDs.h"
 #include "LightControl.h"
 #include "OutputFormat.h"
+#include "TrafficLight.h"
 #include <iostream>
+
+#include "HardwareOutput.h"
+#include "SoftwareOutput.h"
 
 using namespace std;
 
@@ -21,7 +25,7 @@ class Off : public LightControl
 {
 private:
   UserLEDs myLED;
-
+  static OutputFormat *myOutputFormatOff;
   /**
    * Singleton instance of "Off"-class.
    * @param  None
@@ -42,7 +46,7 @@ public:
    * @param  None
    * @return None
    */
-  static Off *GetInstance();
+  static Off *GetInstance(OutputFormat *myOutputFormat);
 
   /**
    * Handle of concrete state "Off".

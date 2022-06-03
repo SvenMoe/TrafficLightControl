@@ -4,6 +4,8 @@
 
 Amber *Amber::Instance = NULL;
 
+OutputFormat* Amber::myOutputFormatAmber = NULL;
+
 Amber *Amber::GetInstance(OutputFormat *myOutputFormat)
 {
   myOutputFormatAmber = myOutputFormat; 
@@ -16,11 +18,11 @@ Amber *Amber::GetInstance(OutputFormat *myOutputFormat)
 
 void Amber::Handle()
 {
-  OutputFormat.setAmber();
+  myOutputFormatAmber->setAmber();
 }
 
 inline LightControl *Amber::nextstate()
 {
-  LightControl *instance = Red::GetInstance();
+  LightControl *instance = Red::GetInstance(myOutputFormatAmber);
   return instance;
 }

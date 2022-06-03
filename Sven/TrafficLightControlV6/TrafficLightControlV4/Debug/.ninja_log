@@ -1,210 +1,171 @@
 # ninja log v5
-24	1044	6751819362233366	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Aus.o	6a9b70537bf0c512
-630	1140	6751620459743985	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/UserButtons.o	ccf1789c8980ef79
-1065	1764	6751819369713365	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/main.o	ecb8f4d74ac23fdd
-640	1097	6751775895392250	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/state.o	cabcf1b042d56028
-18	1026	6751819362203454	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/flashing.o	dd848fddedbf2a00
-13	665	6751620454813211	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/GPIO.o	45dc94798bfe8966
-1721	2272	6751819374814320	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/TrafficLight.o	ede1c203fa60b607
-2	1033	6751819362213428	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/active.o	2c8b8ac26557a40b
-2315	2424	6751819376375429	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Exe/TrafficLightControl.out	1c0c6104164c65d0
-1030	1714	6751819369194764	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/LightControl.o	35c8b01dcea81c4a
-1769	2308	6751819375168935	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Yellow.o	c6ac6cf37ba1ddd8
-39	1055	6751819362243339	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Red.o	2b37058bd3d22213
-1051	1897	6751819370900198	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Green.o	3d3ebaf22f5d4666
-1040	1867	6751819370740661	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/RedYellow.o	31e8e26bc262ec30
-11	759	6751824154817770	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/main.o	ecb8f4d74ac23fdd
-16	871	6751824155964702	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/TrafficLight.o	ede1c203fa60b607
-11	540	6751824433459319	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/main.o	ecb8f4d74ac23fdd
-14	645	6751824434526472	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/TrafficLight.o	ede1c203fa60b607
-2	665	6751824434626547	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/active.o	2c8b8ac26557a40b
-8	693	6751824434875538	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/flashing.o	dd848fddedbf2a00
-698	797	6751824436082299	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Exe/TrafficLightControl.out	1c0c6104164c65d0
-4	603	6751831511376905	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/UserLEDs.o	bb73ef900cdac57a
-609	729	6751831512643516	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Exe/TrafficLightControl.out	29bffcc69a8b27db
-18	813	6751832405735130	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Green.o	3d3ebaf22f5d4666
-14	836	6751832405844846	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Aus.o	6a9b70537bf0c512
-9	845	6751832405894707	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/flashing.o	dd848fddedbf2a00
-4	887	6751832406193907	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/active.o	2c8b8ac26557a40b
-817	1378	6751832411439996	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/main.o	ecb8f4d74ac23fdd
-853	1525	6751832412896274	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Red.o	2b37058bd3d22213
-842	1559	6751832413085479	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/RedYellow.o	31e8e26bc262ec30
-894	1574	6751832413394654	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/TrafficLight.o	ede1c203fa60b607
-1384	1897	6751832416676140	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Yellow.o	c6ac6cf37ba1ddd8
-1905	2005	6751832417783252	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Exe/TrafficLightControl.out	29bffcc69a8b27db
-18	734	6751832705021081	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/main.o	ecb8f4d74ac23fdd
-3	887	6751832706546986	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/active.o	2c8b8ac26557a40b
-10	911	6751832706666664	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Aus.o	6a9b70537bf0c512
-13	936	6751832706746438	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/flashing.o	dd848fddedbf2a00
-739	1496	6751832712652516	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Red.o	2b37058bd3d22213
-943	1617	6751832713869276	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/TrafficLight.o	ede1c203fa60b607
-893	1637	6751832713949062	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/RedYellow.o	31e8e26bc262ec30
-918	1656	6751832714188423	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Green.o	3d3ebaf22f5d4666
-1502	1995	6751832717689045	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Yellow.o	c6ac6cf37ba1ddd8
-2001	2104	6751832718816292	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Exe/TrafficLightControl.out	29bffcc69a8b27db
-10	909	6751834536961837	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Red.o	2b37058bd3d22213
-16	935	6751834537071541	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/RedYellow.o	31e8e26bc262ec30
-3	972	6751834537620146	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Aus.o	6a9b70537bf0c512
-13	991	6751834537779714	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Green.o	3d3ebaf22f5d4666
-914	1391	6751834541911086	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Yellow.o	c6ac6cf37ba1ddd8
-1401	1507	6751834543084031	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Exe/TrafficLightControl.out	29bffcc69a8b27db
-3	741	6751835251700755	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Aus.o	6a9b70537bf0c512
-747	872	6751835253177852	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Exe/TrafficLightControl.out	29bffcc69a8b27db
-18	952	6751842479112519	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/main.o	ecb8f4d74ac23fdd
-22	1155	6751842481246811	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Red.o	2b37058bd3d22213
-15	1165	6751842481226866	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/flashing.o	dd848fddedbf2a00
-3	1206	6751842481526064	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/active.o	2c8b8ac26557a40b
-957	1698	6751842486642353	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/RedYellow.o	31e8e26bc262ec30
-1171	1810	6751842487859086	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/TrafficLight.o	ede1c203fa60b607
-1161	1867	6751842488407636	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Green.o	3d3ebaf22f5d4666
-1211	1893	6751842488677188	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Obj/Yellow.o	c6ac6cf37ba1ddd8
-1901	1999	6751842489783926	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/Exe/TrafficLightControl.out	29bffcc69a8b27db
-23	895	6753570634629063	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/GPIO.o	18aa1a81a030484f
-2	939	6753570634938270	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/active.o	fc7886a184d9f03c
-14	980	6753570635277371	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Aus.o	23faadbba00f6430
-17	1048	6753570636105117	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/flashing.o	160964f7d97a1857
-900	1506	6753570640705012	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/state.o	17e11497ac645008
-945	1569	6753570641323546	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/main.o	3edeac42ac8bd63
-988	1594	6753570641473172	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/LightControl.o	ad8c99fb8ee30c3c
-1054	1754	6753570643238394	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Red.o	192f8549cf3b000e
-1513	2242	6753570648093161	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Green.o	b2d8954fe0d152c0
-1576	2280	6753570648332505	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/RedYellow.o	1619da9cfc51d2d5
-1601	2308	6753570648571912	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Yellow.o	17d6dd6fa840d526
-1760	2335	6753570649020667	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/UserLEDs.o	db0b06e67df24e1c
-2250	2724	6753570653002073	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/UserButtons.o	486436186c5e69c
-2287	2801	6753570653750346	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/TrafficLight.o	d6a43890f50e9ff0
-2808	3297	6753570658746977	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Exe/TrafficLightControl.out	45433229f430e3e4
-19	715	6753572694028117	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Off.o	7f1ff7b9606bb64
-16	623	6753573176161945	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/main.o	3edeac42ac8bd63
-26	697	6753573176920526	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/TrafficLight.o	d6a43890f50e9ff0
+663	1265	6759853720953460	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/TrafficLight.o	607352478f3d037a
 2	725	6753573177139926	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/active.o	fc7886a184d9f03c
-13	743	6753573177359357	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/flashing.o	160964f7d97a1857
-747	874	6753573178755602	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Exe/TrafficLightControl.out	b15c96a1b8a65192
-1	448	6753573747604706	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/main.o	3edeac42ac8bd63
-455	556	6753573748763155	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Exe/TrafficLightControl.out	b15c96a1b8a65192
-18	730	6753578185480154	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/GPIO.o	1ac533258e9631f5
-7	903	6753578187155668	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/flashing.o	47b9d75e5100a82c
-2	940	6753578187395015	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/active.o	840ca3306c4e2d01
-23	988	6753578187873731	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Green.o	d2c6f45ed82949a3
-735	1474	6753578192920465	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Off.o	4960d8191f28361e
-911	1486	6753578193020202	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/main.o	1a7c6dcd839b0a21
-993	1517	6753578193170134	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/LightControl.o	380123926c54657
-948	1664	6753578194835683	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Red.o	8fbc7d6d0c87da9a
-1493	2031	6753578198553581	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/UserButtons.o	2f0a8b2665eedef
-1526	2086	6753578199052470	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/UserLEDs.o	df37f28044ea168b
-1482	2201	6753578200219240	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/RedYellow.o	ddf6638893994d50
-1671	2359	6753578201805009	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Yellow.o	59f8b4c5b4206dc7
-2093	2553	6753578203767782	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/state.o	a0b87da6545f18ab
-2039	2602	6753578204286983	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/TrafficLight.o	66bee046c6ebf6a4
-2610	2726	6753578205563562	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Exe/TrafficLightControl.out	2ef2e26d273235dc
-18	870	6753581136387388	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Red.o	8fbc7d6d0c87da9a
-3	893	6753581136517028	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/active.o	840ca3306c4e2d01
-13	903	6753581136477146	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/flashing.o	47b9d75e5100a82c
-24	914	6753581136507053	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Green.o	d2c6f45ed82949a3
-874	1506	6753581142718067	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/main.o	1a7c6dcd839b0a21
-898	1568	6753581143426173	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/TrafficLight.o	66bee046c6ebf6a4
-922	1625	6753581144004904	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Yellow.o	59f8b4c5b4206dc7
-1	635	6753581225431203	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/RedAmber.o	1a6f7bd30f181814
-641	749	6753581226618134	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Exe/TrafficLightControl.out	94a60be2c1c0364b
-713	1298	6753583414073670	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/RedAmber.o	1a6f7bd30f181814
-733	1306	6753583414143624	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Red.o	8fbc7d6d0c87da9a
-17	648	6753583512890369	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/main.o	1a7c6dcd839b0a21
-2	747	6753583514102420	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/active.o	840ca3306c4e2d01
-9	781	6753583514441502	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/flashing.o	47b9d75e5100a82c
-620	1131	6753583518014159	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/TrafficLight.o	66bee046c6ebf6a4
-15	703	6753584200251213	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Amber.o	f413cf4895165fc3
-18	714	6753584200271149	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Green.o	d2c6f45ed82949a3
-2	739	6753584200420746	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/active.o	840ca3306c4e2d01
-542	1107	6753584204298221	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/main.o	1a7c6dcd839b0a21
+14	980	6753570635277371	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Aus.o	23faadbba00f6430
+26	697	6753573176920526	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/TrafficLight.o	d6a43890f50e9ff0
+1601	2308	6753570648571912	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Yellow.o	17d6dd6fa840d526
+915	1439	6759849220318137	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/LightControl.o	f4fc6d53f0537a6d
 745	1401	6753584207220088	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/TrafficLight.o	66bee046c6ebf6a4
-710	1421	6753584207389632	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/RedAmber.o	1a6f7bd30f181814
-720	1436	6753584207529265	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Red.o	8fbc7d6d0c87da9a
-3	524	6753584300599442	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/flashing.o	47b9d75e5100a82c
-531	640	6753584301776804	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Exe/TrafficLightControl.out	76f40fcd3842d56c
-19	574	6753586215648281	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/LightControl.o	1cbb5139e038b3ee
-15	715	6753586217034591	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/Amber.o	14869a1bc43fbfab
-9	760	6753586217433520	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/flashing.o	8138f7ec9e3e19c8
-1	772	6753586217303855	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/active.o	e5b8ea152a3736d0
+2093	2553	6753578203767782	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/state.o	a0b87da6545f18ab
+1493	2031	6753578198553581	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/UserButtons.o	2f0a8b2665eedef
+11	796	6759866616628757	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Green.o	87a2152706f73056
+735	1474	6753578192920465	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Off.o	4960d8191f28361e
+1576	2280	6753570648332505	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/RedYellow.o	1619da9cfc51d2d5
+23	895	6753570634629063	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/GPIO.o	18aa1a81a030484f
 579	1167	6753586221552489	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/GPIO.o	b1c18d56935e5248
-767	1341	6753586223297829	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/main.o	d5a1f2f0850b35e4
+1526	2086	6753578199052470	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/UserLEDs.o	df37f28044ea168b
+5	459	6759874430895723	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+16	1234	6753665856222050	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/GPIO.o	8d6fc3ed5466da12
+1054	1754	6753570643238394	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Red.o	192f8549cf3b000e
+13	743	6753573177359357	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/flashing.o	160964f7d97a1857
+900	1506	6753570640705012	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/state.o	17e11497ac645008
+1	448	6753573747604706	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/main.o	3edeac42ac8bd63
+2250	2724	6753570653002073	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/UserButtons.o	486436186c5e69c
+1513	2242	6753570648093161	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Green.o	b2d8954fe0d152c0
+988	1594	6753570641473172	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/LightControl.o	ad8c99fb8ee30c3c
+2047	2497	6753586234893315	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/UserLEDs.o	7f3cd64ce1098e90
+1760	2335	6753570649020667	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/UserLEDs.o	db0b06e67df24e1c
+455	556	6753573748763155	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Exe/TrafficLightControl.out	b15c96a1b8a65192
+18	714	6753584200271149	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Green.o	d2c6f45ed82949a3
+19	715	6753572694028117	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/Obj/Off.o	7f1ff7b9606bb64
+2	739	6753584200420746	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/active.o	840ca3306c4e2d01
+18	730	6753578185480154	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/GPIO.o	1ac533258e9631f5
+1	772	6753586217303855	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/active.o	e5b8ea152a3736d0
+3	524	6753584300599442	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/flashing.o	47b9d75e5100a82c
+9	760	6753586217433520	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/flashing.o	8138f7ec9e3e19c8
+542	1107	6753584204298221	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/main.o	1a7c6dcd839b0a21
+993	1517	6753578193170134	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/LightControl.o	380123926c54657
+720	1436	6753584207529265	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Red.o	8fbc7d6d0c87da9a
+1482	2201	6753578200219240	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/RedYellow.o	ddf6638893994d50
+19	574	6753586215648281	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/LightControl.o	1cbb5139e038b3ee
+922	1625	6753581144004904	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Yellow.o	59f8b4c5b4206dc7
+531	640	6753584301776804	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Exe/TrafficLightControl.out	76f40fcd3842d56c
+710	1421	6753584207389632	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/RedAmber.o	1a6f7bd30f181814
+1504	2178	6753586231694256	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/RedAmber.o	757e4c07206614ed
+15	703	6753584200251213	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/Obj/Amber.o	f413cf4895165fc3
+15	715	6753586217034591	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/Amber.o	14869a1bc43fbfab
+3	350	6753591764845955	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/main.o	d5a1f2f0850b35e4
 722	1472	6753586224544493	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/Off.o	c846ceab94ab0824
 778	1498	6753586224743953	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/Green.o	5615c94b72041ca5
 1175	1866	6753586228532696	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/Red.o	85b3353fff33c022
 1479	2038	6753586230298003	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/UserButtons.o	c8d03da462b5456f
-1348	2074	6753586230487486	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/TrafficLight.o	c3da4e09daac510a
-1504	2178	6753586231694256	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/RedAmber.o	757e4c07206614ed
-1874	2367	6753586233613928	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/state.o	aaac0b2a0e258bec
-2047	2497	6753586234893315	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/UserLEDs.o	7f3cd64ce1098e90
-2504	2609	6753586236059728	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Exe/TrafficLightControl.out	b9c3adb3e2cf728
-2	514	6753591351293568	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/main.o	d5a1f2f0850b35e4
 8	613	6753591352293979	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/TrafficLight.o	c3da4e09daac510a
-620	735	6753591353540638	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Exe/TrafficLightControl.out	b9c3adb3e2cf728
-3	350	6753591764845955	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/main.o	d5a1f2f0850b35e4
+1874	2367	6753586233613928	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Obj/state.o	aaac0b2a0e258bec
 355	454	6753591765913158	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/Exe/TrafficLightControl.out	b9c3adb3e2cf728
-16	1234	6753665856222050	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/GPIO.o	8d6fc3ed5466da12
 983	1584	6753665859754627	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/LightControl.o	c506a85a9e23c2ea
 1088	1790	6753665861749291	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/Off.o	a0d79a6ce81e81b0
 1739	2368	6753665867551975	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/state.o	f669e5d06602d084
 2094	2629	6753665870216171	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/UserButtons.o	dd3714e7eac2b790
+29	819	6753666654536860	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/Red.o	fa90bf38099c0ebe
 2134	2646	6753665870325883	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/UserLEDs.o	7299d150d310e2d8
 10	859	6753666520565921	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/Amber.o	ca4c054f7425e3cc
 2	892	6753666520765419	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/active.o	c5d5f74c0d4515d4
 680	1482	6753666526877372	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/RedAmber.o	7c1e98ea14d035b8
 866	1511	6753666527226460	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/main.o	83f4854230cc07c0
 900	1577	6753666527894647	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/TrafficLight.o	a936d2ee17f1c4ad
-29	819	6753666654536860	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/Red.o	fa90bf38099c0ebe
 2	741	6753666892705197	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/Green.o	1306e252455e00d7
 9	786	6753666893134044	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Obj/flashing.o	91c511c47128bbbe
 793	940	6753666894779650	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/Exe/TrafficLightControl.out	a97743238d92b9e1
-5941	6805	6759758580134661	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/GPIO.o	56348166cade6db
-7922	8745	6759758599664103	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/LightControl.o	28830e3e1f58b1b6
-11258	11814	6759758630287528	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/state.o	786649b1faeaf384
-11838	12410	6759758636225073	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/UserButtons.o	f5a0ca3b0e8dd19d
-12431	12977	6759758641850533	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/UserLEDs.o	8251f9a59289d302
-5567	6084	6759762420896989	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/OutputFormat.o	9e49eeb5b15d0eea
-1122	1802	6759763084975095	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/flashing.o	f28919d84a017423
-4	1368	6759767164461580	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/active.o	378e9a5bc673e00d
-1961	2773	6759767179304139	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/flashing.o	f28919d84a017423
-2	762	6759767481438832	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/active.o	378e9a5bc673e00d
-3	692	6759767986260487	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/Obj/active.o	378e9a5bc673e00d
-9	1297	6759772811159921	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/active.o	fb893a6ccb57d48
-1905	2615	6759772824282981	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/flashing.o	6b61cee3db73ad26
-2641	3203	6759772830221949	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/GPIO.o	47698d02fcf60131
-3228	3740	6759772835689665	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/OutputFormat.o	39ad62738a25d2fd
-3765	4308	6759772841314865	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/UserButtons.o	dc0990e5e3acc08
-4844	5382	6759772852095823	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/LightControl.o	912c529b0a6e8f13
-8895	9496	6759772893187521	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/state.o	4665c71ecffec966
-10083	10641	6759772904750110	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/UserLEDs.o	de2130f73ba8b453
-4	1069	6759774216032383	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/active.o	39cbb72351e8e985
-1607	2437	6759774229782155	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/flashing.o	42ddb8b73caa21d
-2459	3057	6759774236031756	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/GPIO.o	b8e85e4acea0f1e8
-3586	4104	6759774246500527	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/LightControl.o	c494e4066ed8e6ec
-6238	6772	6759774273218862	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/OutputFormat.o	5fe9a6f8ae97a9e0
-6796	7371	6759774279156181	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/UserButtons.o	dc2735fbef8173ca
-7928	8444	6759774289937501	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/state.o	c9be7e6850e7614
-10023	10672	6759774311966793	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/UserLEDs.o	bf290fb2ce9bb0fb
-3	1115	6759775709470569	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/active.o	39cbb72351e8e985
-1810	2840	6759775726657878	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/flashing.o	42ddb8b73caa21d
-3	960	6759776924436763	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/active.o	39cbb72351e8e985
-1487	2271	6759776937561150	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/flashing.o	42ddb8b73caa21d
-5358	5941	6759776974278817	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/SoftwareOutput.o	ec02ce289e0618c8
-4	1091	6759779223758848	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/active.o	39cbb72351e8e985
-1113	1968	6759779232509167	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/flashing.o	42ddb8b73caa21d
-3058	3624	6759779249227724	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/HardwareOutput.o	82804cda59941c27
-5203	5988	6759779272663707	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/SoftwareOutput.o	ec02ce289e0618c8
-1211	1788	6759783852637121	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/main.o	25501f6f29513160
-2331	2879	6759783863574140	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/TrafficLight.o	a50b6d917b56173f
-685	1244	6759788097813941	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/main.o	25501f6f29513160
-2810	3365	6759788119062922	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/TrafficLight.o	a50b6d917b56173f
-5	1192	6759793350197585	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/active.o	39cbb72351e8e985
-1213	2392	6759793362228144	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/flashing.o	42ddb8b73caa21d
-3024	3715	6759793375510376	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/GPIO.o	b8e85e4acea0f1e8
-3740	4533	6759793383687537	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/main.o	25501f6f29513160
-4558	5186	6759793390249812	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/HardwareOutput.o	82804cda59941c27
-5210	5812	6759793396499701	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/LightControl.o	c494e4066ed8e6ec
-6484	7074	6759793408998933	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/OutputFormat.o	5fe9a6f8ae97a9e0
-7098	7752	6759793415874663	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/UserButtons.o	dc2735fbef8173ca
-8790	9376	6759793432139921	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/SoftwareOutput.o	ec02ce289e0618c8
-9397	9897	6759793437296517	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/state.o	c9be7e6850e7614
-10425	10970	6759793448077933	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/TrafficLight.o	a50b6d917b56173f
-10994	11564	6759793454014849	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/Obj/UserLEDs.o	bf290fb2ce9bb0fb
+1	367	6759874676590032	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/HardwareOutput.o	3e0075e10e3c73f5
+991	1588	6759849221775264	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/GPIO.o	8a304414d5457f3f
+1194	1725	6759849223161554	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/state.o	8b963602eba2c2d9
+1739	2351	6759849229394906	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/SoftwareOutput.o	f2065c82bed8e5b3
+1594	2115	6759849227071396	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/OutputFormat.o	98786f9c9a2b5a2f
+2034	2558	6759849231503914	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/UserLEDs.o	2c8798678c663a71
+2304	2751	6759849233425310	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/UserButtons.o	e0a2d2ba6bf46a79
+2	1037	6759866619042298	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+2	925	6759864125124348	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/active.o	b71660cd283e08f
+8	756	6759866616040332	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Amber.o	ff17b9dbff4326fd
+722	1274	6759866621435905	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Red.o	f2128ab5ef11f3e2
+14	718	6759866615681286	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/RedAmber.o	fcbfabb60315fb3d
+2	374	6759866943612758	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Off.o	a0e3e1894d73721
+372	460	6759874677560733	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+21	833	6759877439174748	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Off.o	a0e3e1894d73721
+3	881	6759877439683392	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Amber.o	ff17b9dbff4326fd
+13	1222	6759877442805039	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+16	1441	6759877445268458	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/active.o	b71660cd283e08f
+837	1665	6759877447552340	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Green.o	87a2152706f73056
+1448	2057	6759877451491801	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/OutputFormat.o	98786f9c9a2b5a2f
+1670	2277	6759877453695902	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/RedAmber.o	fcbfabb60315fb3d
+1873	2422	6759877455172225	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Red.o	f2128ab5ef11f3e2
+2064	2558	6759877456518373	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/TrafficLight.o	607352478f3d037a
+1	626	6759878498626826	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+6	548	6759879005387986	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/SoftwareOutput.o	f2065c82bed8e5b3
+5	952	6759879742333859	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Amber.o	ff17b9dbff4326fd
+1	1312	6759879746133684	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+8	1453	6759879747500041	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/active.o	b71660cd283e08f
+958	1624	6759879749285259	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Green.o	87a2152706f73056
+926	1649	6759879749355071	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+1319	1942	6759879752466756	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Off.o	a0e3e1894d73721
+1457	2071	6759879753743330	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Red.o	f2128ab5ef11f3e2
+1655	2210	6759879755199440	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/OutputFormat.o	98786f9c9a2b5a2f
+1630	2282	6759879755877621	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/SoftwareOutput.o	f2065c82bed8e5b3
+1950	2473	6759879757802759	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/RedAmber.o	fcbfabb60315fb3d
+2078	2585	6759879758909526	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/TrafficLight.o	607352478f3d037a
+5	564	6759880302887390	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+3	575	6759882059778995	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+6	753	6759882444089011	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+5	838	6759885422021115	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Amber.o	ff17b9dbff4326fd
+13	913	6759885423018436	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Off.o	a0e3e1894d73721
+2	1296	6759885426906369	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+10	1455	6759885428492116	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/active.o	b71660cd283e08f
+843	1570	6759885429629074	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+1303	1874	6759885432744074	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Green.o	87a2152706f73056
+1460	2079	6759885434708946	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Red.o	f2128ab5ef11f3e2
+1576	2165	6759885435526766	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/RedAmber.o	fcbfabb60315fb3d
+1882	2451	6759885438518752	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/OutputFormat.o	98786f9c9a2b5a2f
+2033	2612	6759885440104507	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/TrafficLight.o	607352478f3d037a
+2	513	6759885798251806	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+7	485	6759887073024051	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+3	619	6759887299314458	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+9	601	6759887442606712	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+12	922	6759891811903888	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+16	1009	6759891812768115	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Off.o	a0e3e1894d73721
+3	1251	6759891815241493	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+7	1336	6759891816049336	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/active.o	b71660cd283e08f
+1257	1724	6759891820018985	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/TrafficLight.o	607352478f3d037a
+5	792	6759893847796103	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Amber.o	ff17b9dbff4326fd
+13	990	6759893849950343	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Green.o	87a2152706f73056
+2	1269	6759893852812691	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+9	1322	6759893853341278	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/active.o	b71660cd283e08f
+796	1487	6759893855026757	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+997	1653	6759893856642437	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Off.o	a0e3e1894d73721
+1328	1921	6759893859365445	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/RedAmber.o	fcbfabb60315fb3d
+1494	2066	6759893860801424	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Red.o	f2128ab5ef11f3e2
+1792	2286	6759893863035606	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/TrafficLight.o	607352478f3d037a
+6	907	6759899223466013	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Amber.o	ff17b9dbff4326fd
+15	969	6759899224054442	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+2	1299	6759899227403374	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+10	1385	6759899228281052	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/active.o	b71660cd283e08f
+912	1644	6759899230894050	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Off.o	a0e3e1894d73721
+988	1664	6759899231033660	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Green.o	87a2152706f73056
+1305	1926	6759899233756381	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/HardwareOutput.o	3e0075e10e3c73f5
+1391	1999	6759899234484431	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/RedAmber.o	fcbfabb60315fb3d
+1649	2202	6759899236548902	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/Red.o	f2128ab5ef11f3e2
+1933	2426	6759899238753025	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/TrafficLight.o	607352478f3d037a
+1669	2460	6759899239122030	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/SoftwareOutput.o	f2065c82bed8e5b3
+2467	2573	6759899240268971	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+2	814	6759905242334511	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+819	918	6759905243431548	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+1	676	6759907812501719	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+682	779	6759907813578838	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+2	626	6759908032912968	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+631	704	6759908033731634	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+2	860	6759909226712807	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+864	937	6759909227530583	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+3	695	6759910321972333	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+700	778	6759910322910204	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+2	647	6759911094618525	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+651	746	6759911095655523	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+2	542	6759911465346353	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+548	633	6759911466303835	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+3	781	6759912496993096	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+785	877	6759912498030052	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+1	705	6759912991387786	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+712	809	6759912992470307	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+1	681	6759913382860237	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+687	763	6759913383728173	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+2	707	6759913786308975	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/flashing.o	33c10580b226e899
+715	801	6759913787246455	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f
+2	406	6759913975164179	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Obj/main.o	46ecd82dcaabf1c1
+412	528	6759913976320717	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/Exe/TrafficLightControl.out	98cef78073074a9f

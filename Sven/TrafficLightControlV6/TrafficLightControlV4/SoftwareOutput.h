@@ -9,6 +9,9 @@
 //#include "active.h"
 #include <iostream>
 
+
+using namespace std;
+
 /**
  * Interface class "SoftwareOutput".
  * @author 
@@ -20,16 +23,15 @@ class SoftwareOutput : public OutputFormat
 private:
 
     static SoftwareOutput *Instance;
-    SoftwareOutput(){}
+    SoftwareOutput() {}
 
 public:
     static SoftwareOutput *GetInstance();
-    void setRed() = 0;
-    void setRedAmber() = 0;
-    void setAmber() = 0;
-    void setGreen() = 0;
-    void setFlashing() = 0;
-    void off() = 0;
+    void setRed();
+    void setRedAmber();
+    void setAmber();
+    void setGreen();
+    void off();
 
 };
 

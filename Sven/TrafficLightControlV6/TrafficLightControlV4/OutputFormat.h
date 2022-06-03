@@ -4,7 +4,7 @@
 #define OUTPUTFORMAT_H
 
 #include "regtypes.h"
-#include "UserLEDs.h"
+//#include "UserLEDs.h"
 //#include "flashing.h"
 //#include "active.h"
 #include <iostream>
@@ -23,7 +23,6 @@ public:
   virtual void setRedAmber() = 0;
   virtual void setAmber() = 0;
   virtual void setGreen() = 0;
-  virtual void setFlashing() = 0;
   virtual void off() = 0;
 };
 

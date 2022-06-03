@@ -7,8 +7,12 @@
 #include "state.h"
 #include "flashing.h"
 #include "UserButtons.h"
-#include "HardwareOutput.h"
+//#include "HardwareOutput.h"
+#include "Red.h"
 #include <iostream>
+
+
+
 
 using namespace std;
 
@@ -38,7 +42,7 @@ private:
    * @param  "LightControl *myLightControl" gets the current state of LightControl
    * @return None
    */
-  active(LightControl *myLightControl = Red::GetInstance()) : myLightControl(myLightControl) {}
+  active(LightControl *myLightControl = Red::GetInstance(myOutputFormatActive)) : myLightControl(myLightControl) {}
 
 public:
   /**
@@ -46,7 +50,7 @@ public:
    * @param  None
    * @return None
    */
-  static active *GetInstance(OutputFormat *myOutputFormat = HardwareOutput::GetInstance());
+  static active *GetInstance(OutputFormat *myOutputFormat);
 
   /**
    * Handle of concrete state "active".

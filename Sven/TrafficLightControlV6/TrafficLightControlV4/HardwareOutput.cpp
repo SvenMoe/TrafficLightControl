@@ -8,7 +8,7 @@ HardwareOutput *HardwareOutput::GetInstance()
 {
   if (Instance == NULL)
   {
-    Instance = HardwareOutput::GetInstance();
+    Instance = new HardwareOutput();
   }
   return Instance;
 }

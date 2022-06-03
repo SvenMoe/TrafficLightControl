@@ -4,8 +4,11 @@
 
 RedAmber *RedAmber::Instance = NULL;
 
-RedAmber *RedAmber::GetInstance()
+OutputFormat* RedAmber::myOutputFormatRedAmber = NULL;
+
+RedAmber *RedAmber::GetInstance(OutputFormat *myOutputFormat)
 {
+  myOutputFormatRedAmber = myOutputFormat; 
   if (Instance == NULL)
   {
     Instance = new RedAmber();
@@ -15,11 +18,11 @@ RedAmber *RedAmber::GetInstance()
 
 void RedAmber::Handle()
 {
-  OutputFormat.setRedAmber();
+  myOutputFormatRedAmber->setRedAmber();
 }
 
 inline LightControl *RedAmber::nextstate()
 {
-  LightControl *instance = Green::GetInstance();
+  LightControl *instance = Green::GetInstance(myOutputFormatRedAmber);
   return instance;
 }

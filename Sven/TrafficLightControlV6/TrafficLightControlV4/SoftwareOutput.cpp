@@ -8,7 +8,7 @@ SoftwareOutput *SoftwareOutput::GetInstance()
 {
   if (Instance == NULL)
   {
-    Instance = SoftwareOutput::GetInstance();
+    Instance = new SoftwareOutput();
   }
   return Instance;
 }
@@ -31,15 +31,6 @@ inline void SoftwareOutput::setAmber()
 inline void SoftwareOutput::setGreen()
 {
     cout << "GREEN led on!" << endl;
-}
-
-inline void SoftwareOutput::setFlashing()
-{
-    for(int i=0; i<1000000; i++){}
-    cout << "AMBER led on!" << endl;
-    for(int i=0; i<1000000; i++){}
-    cout << "AMBER led off!" << endl;
-
 }
 
 inline void SoftwareOutput::off()

@@ -10,6 +10,9 @@
 #include "OutputFormat.h"
 #include <iostream>
 
+#include "HardwareOutput.h"
+#include "SoftwareOutput.h"
+
 using namespace std;
 
 /**
@@ -21,6 +24,7 @@ using namespace std;
 class RedAmber : public LightControl
 {
 private:
+  static OutputFormat *myOutputFormatRedAmber;
   UserLEDs myLED;
 
   /**
@@ -43,7 +47,8 @@ public:
    * @param  None
    * @return None
    */
-  static RedAmber *GetInstance();
+  static RedAmber *GetInstance(OutputFormat *myOutputFormat);
+
 
   /**
    * Handle of concrete state "RedAmber".

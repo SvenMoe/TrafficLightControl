@@ -10,6 +10,9 @@
 #include "OutputFormat.h"
 #include <iostream>
 
+#include "HardwareOutput.h"
+#include "SoftwareOutput.h"
+
 using namespace std;
 
 /**
@@ -44,7 +47,7 @@ public:
    * @param  None
    * @return None
    */
-  static Amber *GetInstance(OutputFormat *myOutputFormat = HardwareOutput::GetInstance());
+  static Amber *GetInstance(OutputFormat *myOutputFormat);
 
   /**
    * Handle of concrete state "Amber".

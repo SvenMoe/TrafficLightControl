@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\nikla\OneDrive\Desktop\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.general.xcl" --backend -f "C:\Users\nikla\OneDrive\Desktop\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\svenm\Documents\Studium\6.Semester\Embedded Systems\TrafficLight_StandNiklas\settings\TrafficLightControl.Debug.general.xcl" --backend -f "C:\Users\svenm\Documents\Studium\6.Semester\Embedded Systems\TrafficLight_StandNiklas\settings\TrafficLightControl.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\nikla\OneDrive\Desktop\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\nikla\OneDrive\Desktop\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\svenm\Documents\Studium\6.Semester\Embedded Systems\TrafficLight_StandNiklas\settings\TrafficLightControl.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\svenm\Documents\Studium\6.Semester\Embedded Systems\TrafficLight_StandNiklas\settings\TrafficLightControl.Debug.driver.xcl" 
 
 @echo off 
 :end

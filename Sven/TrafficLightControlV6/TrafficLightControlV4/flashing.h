@@ -11,7 +11,6 @@
 #include "Amber.h"
 #include "active.h"
 #include <iostream>
-
 using namespace std;
 
 /**
@@ -24,6 +23,7 @@ class flashing : public state
 {
 private:
   LightControl *myLightControl = nullptr;
+  static OutputFormat *myOutputFormatFlashing;
 
   /**
    * Singleton instance of "flashing"-class.
@@ -45,7 +45,8 @@ public:
    * @param  None
    * @return None
    */
-  static flashing *GetInstance();
+  static flashing *GetInstance(OutputFormat *myOutputFormat);
+
 
   /**
    * Handle of concrete state "flashing".

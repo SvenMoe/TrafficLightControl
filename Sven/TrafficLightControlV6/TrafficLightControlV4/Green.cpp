@@ -4,8 +4,11 @@
 
 Green *Green::Instance = NULL;
 
-Green *Green::GetInstance()
+OutputFormat* Green::myOutputFormatGreen = NULL;
+
+Green *Green::GetInstance(OutputFormat *myOutputFormat)
 {
+  myOutputFormatGreen = myOutputFormat; 
   if (Instance == NULL)
   {
     Instance = new Green();
@@ -15,11 +18,11 @@ Green *Green::GetInstance()
 
 void Green::Handle()
 {
-  OutputFormat->setGreen();
+  myOutputFormatGreen->setGreen();
 }
 
 inline LightControl *Green::nextstate()
 {
-  LightControl *instance = Amber::GetInstance();
+  LightControl *instance = Amber::GetInstance(myOutputFormatGreen);
   return instance;
 }

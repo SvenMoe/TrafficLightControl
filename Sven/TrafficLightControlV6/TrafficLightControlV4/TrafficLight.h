@@ -41,6 +41,7 @@ public:
    * @return zero for cancelling the program, otherwise it returns one
    */
   UINT8 Handle();
+
 };
 
 #endif

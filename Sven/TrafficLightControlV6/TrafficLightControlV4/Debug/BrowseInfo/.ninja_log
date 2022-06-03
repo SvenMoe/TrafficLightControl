@@ -3,705 +3,301 @@
 10	137	6751279570000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/active.xcl	984766527bf3d989
 1202	1497	6751842505451052	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part1.pbi	6cfead8970e61e35
 15	573	6751842496190674	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/main.pbi	b40b05cbbae90d9a
+5154	6819	6751865444438204	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/state.pbi	572978fa2f2b53c8
 1530	1776	6751842508239067	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl.pbd	e254ce521edcffba
-2	953	6751835331689086	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl.pbw	d3fd34eacae9643b
+3	1067	6751842569656699	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl.pbw	d3fd34eacae9643b
 13	111	6751279570000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLight.xcl	bdb685635d6b656b
+1121	1307	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/UserLEDs.xcl	9ae3cba1b4d99d90
 13	116	6751105960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/mode.xcl	64fba6735aaabdd9
 32	251	6751736990000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/LightControl.xcl	fa18b8ca12ed0d81
-575	1227	6751842502708389	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLight.pbi	44f335d76b1e3fb2
 1173	1484	6751842505311415	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part0.pbi	4d4997e1e7bba002
+575	1227	6751842502708389	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLight.pbi	44f335d76b1e3fb2
+62	445	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/LightControl.xcl	b3423e05d20408e6
+7283	7628	6751865452681623	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part2.pbi	b6eb8f75f5a33032
 1	122	6751279570000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/flashing.xcl	fd80c7d22976499c
 7	592	6751842496320333	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/active.pbi	a08291f8360d5af4
 11	55	6751262880597086	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/mode.pbi	1ab0656cc035e68d
-13	135	6751810920000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Red.xcl	13b506a2b1780d1c
+3	543	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/active.xcl	18583efa264283d0
 21	608	6751842496410107	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/flashing.pbi	2503a24369dbce0
+13	135	6751810920000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Red.xcl	13b506a2b1780d1c
 4	433	6751835258172817	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Aus.pbi	28200fbaf2975767
+548	779	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/main.xcl	853b30c4b870de35
 1230	1526	6751842505740277	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part2.pbi	2c1b0f55a66df8c7
+309	437	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/LightControl.xcl	c86627b209bd22b9
 611	1188	6751842502299485	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/RedYellow.pbi	dbc6ff2d1cc1b0b7
+200	364	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Green.xcl	11b2ae53886823af
 127	233	6751279570000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/UserButtons.xcl	d6d2a4f65e168551
 6	129	6751279570000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/GPIO.xcl	6f03884b307c705e
+48	423	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/active.xcl	2b8aede07fd3a22a
 2	142	6751810920000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/RedYellow.xcl	225b5fd3e521b8e3
 10	448	6751279634260834	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/GPIO.pbi	a13697e37bee2cf1
 7	490	6751279634689721	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/UserButtons.pbi	66e798360fec72df
+539	787	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Red.xcl	48956fdd155c9deb
 224	312	6751279570000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/state.xcl	d9aeda34420e6bea
 8	527	6751775902374468	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/state.pbi	ad51863dc8847016
 2	286	6751736990000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Aus.xcl	5f499d39281562b1
+4828	6635	6751865442613078	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLight.pbi	83525de182ed6667
+5110	6766	6751865443999370	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/UserButtons.pbi	a3af27fa1a336c6
 10	633	6751816914092173	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/LightControl.pbi	b37c29b68bea1bd3
 7	153	6751748460000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Yellow.xcl	6b7f645029a0a2a8
+2041	3017	6753585994754380	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Off.pbi	880053f5b0692dbe
 606	1199	6751842502409195	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Red.pbi	2aa07659d6c76881
+6	409	6753591358248930	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLight.pbi	7fa401f5348bb40
 595	1170	6751842502100032	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Yellow.pbi	bed6c7ba8c8f5fe0
 1191	1372	6751842504194402	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part3.pbi	1771ed829af65c3a
 8	182	6751810920000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Green.xcl	4bbe575f7521752b
+7741	7992	6751865456331876	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl.pbd	ee97488183ad9e78
 26	603	6751842496420109	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/Green.pbi	36c92c98e7ff356a
 2	468	6751831518040167	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/UserLEDs.pbi	d5627ba1759e507c
 3	77	6751831340000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/UserLEDs.xcl	d0c6a36f4795e097
-3	1067	6751842569656699	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl.pbw	d3fd34eacae9643b
-48	423	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/active.xcl	2b8aede07fd3a22a
-62	445	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/LightControl.xcl	b3423e05d20408e6
 57	461	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/flashing.xcl	23e913bec850ee83
+2	331	6753666679430400	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	ad676fa18851b03e
 39	555	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Aus.xcl	dd9243207e50b02
 454	883	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/GPIO.xcl	907aa69c4c91a974
 440	915	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Red.xcl	42591c5c70f828ff
 498	1031	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/RedYellow.xcl	ec0d6282008454e4
 560	1087	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Green.xcl	2e49f1f337c15eb4
+1413	1669	6751865390000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Yellow.xcl	5b661e96c19ce22
+3572	5107	6751865427298497	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Green.pbi	1df88cb3baa5775b
 906	1407	6751865380000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/main.xcl	e7f4dc875864971d
+1492	1758	6751865390000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/UserLEDs.xcl	458ed125c27d22dd
+1709	3340	6751865409447959	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/GPIO.pbi	9d2e188a31802dca
 928	1483	6751865390000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/UserButtons.xcl	9f65f4d8606320f1
 1040	1539	6751865390000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/state.xcl	172904fbe98865f6
-1413	1669	6751865390000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Yellow.xcl	5b661e96c19ce22
-1492	1758	6751865390000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/UserLEDs.xcl	458ed125c27d22dd
 1545	1869	6751865390000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLight.xcl	5534747cefa9bf78
-1109	3156	6751865407652763	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/active.pbi	34ebbe15b4e66ebe
-1763	3300	6751865409308337	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/main.pbi	a81875408675d126
-1709	3340	6751865409447959	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/GPIO.pbi	9d2e188a31802dca
-1876	3569	6751865411602199	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Aus.pbi	d4bf77583678ee2c
-3159	4517	6751865421336158	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/LightControl.pbi	57bffbf5e5b5f0de
-3342	4808	6751865424373219	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/flashing.pbi	a37c3a3e5b12e79e
-3572	5107	6751865427298497	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Green.pbi	1df88cb3baa5775b
-3303	5151	6751865427817112	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Red.pbi	958aa56e55e4cba3
-4520	5848	6751865434668785	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/RedYellow.pbi	87cd78ec73ce8661
-4828	6635	6751865442613078	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLight.pbi	83525de182ed6667
-5110	6766	6751865443999370	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/UserButtons.pbi	a3af27fa1a336c6
-5154	6819	6751865444438204	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/state.pbi	572978fa2f2b53c8
-6772	7278	6751865449181001	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part1.pbi	99766b099a864d36
 6822	7328	6751865449679688	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part0.pbi	a7a11d87cb5dca62
+2	519	6753572166454253	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/active.pbi	34ebbe15b4e66ebe
+518	678	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/LightControl.xcl	e932abdee3e8e2a8
+5	616	6753572167446176	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/main.pbi	a81875408675d126
+1876	3569	6751865411602199	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Aus.pbi	d4bf77583678ee2c
+2139	2665	6753578109708288	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/LightControl.pbi	905933bb2c2033ff
+3159	4517	6751865421336158	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/LightControl.pbi	57bffbf5e5b5f0de
+10	624	6753572167515993	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/flashing.pbi	a37c3a3e5b12e79e
+3303	5151	6751865427817112	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Red.pbi	958aa56e55e4cba3
+3214	3522	6753578118335215	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl_part0.pbi	dacc60da60d4a4d3
+4520	5848	6751865434668785	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/RedYellow.pbi	87cd78ec73ce8661
+172	334	6753591837345008	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbd	be733f628faa4508
+9	616	6759891845782490	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Off.pbi	34773b134772ba64
+6772	7278	6751865449181001	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part1.pbi	99766b099a864d36
 5853	7512	6751865451464886	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/Yellow.pbi	35283f23eb0f74c4
 6638	7554	6751865451893736	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/UserLEDs.pbi	c1256337c08d45fc
-7283	7628	6751865452681623	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part2.pbi	b6eb8f75f5a33032
 7558	7737	6751865453778701	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl_part3.pbi	eeecd1a9c3d9c05b
-7741	7992	6751865456331876	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl.pbd	ee97488183ad9e78
 7999	9479	6751865470783645	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/TrafficLightControl.pbw	eaf0f26f191cc2d8
-2	519	6753572166454253	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/active.pbi	34ebbe15b4e66ebe
-5	616	6753572167446176	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/main.pbi	a81875408675d126
-10	624	6753572167515993	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/_Sven_fertig/TrafficLightControl/Debug/BrowseInfo/flashing.pbi	a37c3a3e5b12e79e
 413	563	6753578080000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/GPIO.xcl	65642200a78b19f5
 364	570	6753578080000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/flashing.xcl	a0b59f0dc7907ad6
 423	581	6753578080000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Green.xcl	d435d3e1460934df
+105	532	6753579455432063	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/RedAmber.pbi	b66eda58c9ab795c
 417	615	6753578080000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/active.xcl	fede90aa076d1eed
 575	751	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/LightControl.xcl	770fc4cffb917f7e
 585	763	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/main.xcl	c7750038eff4b394
 566	797	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Red.xcl	7382a2710dd7eb46
 622	811	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/RedYellow.xcl	3100476936f41ac2
 816	1097	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/UserButtons.xcl	49ceacbc13531f7d
+195	535	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Off.xcl	12b872ff55d786ae
+6	509	6759891844715305	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/active.pbi	cd97747e6ea29d3e
 802	1106	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Yellow.xcl	c9005ea78e6754a4
 757	1116	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Off.xcl	66ef5b8c0aee87ea
 1112	1294	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/state.xcl	c980bdccd6bc72bb
-1121	1307	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/UserLEDs.xcl	9ae3cba1b4d99d90
 1101	1315	6753578090000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLight.xcl	1f7917cd744edc08
 768	1853	6753578101580036	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/active.pbi	a48f861f335ad4e
+524	756	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/GPIO.xcl	8d6979e788e6ac3a
 1312	2068	6753578103734282	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/GPIO.pbi	974d973030cea0b5
 1299	2137	6753578104412465	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Off.pbi	aca3e5a52d18ed91
 1441	2180	6753578104861255	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Green.pbi	fed0380b38355aa4
 1856	2477	6753578107833308	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/main.pbi	95bd742c700debc4
 2072	2620	6753578109259494	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/flashing.pbi	7e1c31fb0e93ce62
-2139	2665	6753578109708288	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/LightControl.pbi	905933bb2c2033ff
 2183	2864	6753578111702954	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/RedYellow.pbi	a4bd6e46da7625ea
 2480	3136	6753578114415696	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/UserLEDs.pbi	1b9a53720aca0580
+945	1132	6759891850954289	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part3.pbi	e8238b872002c7d2
 2668	3211	6753578115163732	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Red.pbi	3f4c016dd8e16084
 2624	3301	6753578116061310	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLight.pbi	930490a97e42ad56
+2415	3060	6759809854500429	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/LightControl.pbi	57627c1f90e61734
 2867	3503	6753578118095861	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/state.pbi	4f4ef90766c57047
-3214	3522	6753578118335215	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl_part0.pbi	dacc60da60d4a4d3
 3304	3595	6753578119053296	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl_part1.pbi	28b9ebc6385a5d37
+344	1476	6753591848257860	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbw	395c97ec324a1ad5
 3139	3669	6753578119741448	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/UserButtons.pbi	35b5583a3fb904a2
-3671	3890	6753578122005389	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl_part2.pbi	4aee4dbe26e76448
-3506	3956	6753578122633994	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Yellow.pbi	4822a27781aa100e
-3960	4092	6753578124020003	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl_part3.pbi	78cbc286f75c6c78
-4096	4321	6753578126323877	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl.pbd	5834c5d0361df3ca
-4330	5584	6753578138591299	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl.pbw	e9185498ee36e25b
-2	99	6753579450000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/RedAmber.xcl	facbf54a6616c13e
-9	211	6753579452260340	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl_part3.pbi	c3a5fc5820174b1b
-105	532	6753579455432063	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/RedAmber.pbi	b66eda58c9ab795c
+336	518	6753666681335465	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	356536621a473bfa
 536	709	6753579457248201	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl_part2.pbi	f31a55237c0a06b0
+3506	3956	6753578122633994	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/Yellow.pbi	4822a27781aa100e
+9	211	6753579452260340	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl_part3.pbi	c3a5fc5820174b1b
 716	885	6753579459003894	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl.pbd	5834c5d0361df3ca
 895	2127	6753579471021023	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/TrafficLightControl.pbw	e9185498ee36e25b
+2	99	6753579450000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV2/Debug/BrowseInfo/RedAmber.xcl	facbf54a6616c13e
 1	166	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/flashing.xcl	a3667480e5b27c1e
+3527	4595	6753586010542973	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/RedAmber.pbi	38785e68aa44dbb8
 6	195	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/active.xcl	bb51f2e1968ca2db
 24	207	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Off.xcl	ccfd00261b52fac2
 17	219	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Amber.xcl	3b8750bedfe5b7c2
 171	305	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/GPIO.xcl	5c508f60c41133d7
 224	353	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Red.xcl	a5e7dcd2b738eb26
-200	364	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Green.xcl	11b2ae53886823af
 211	379	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/main.xcl	6beab2a1ed975690
-309	437	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/LightControl.xcl	c86627b209bd22b9
 356	499	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/RedAmber.xcl	73930dfa3fa773b7
 384	550	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLight.xcl	26399e60b3714a9a
 369	566	6753585960000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/state.xcl	a486426137132d0a
 442	662	6753585970000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/UserButtons.xcl	80d967d5f853c570
 504	705	6753585970000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/UserLEDs.xcl	48cece1fc9c8ecf8
-573	1828	6753585982694208	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/main.pbi	59162f224d152db5
+3	465	6753591783278300	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/main.pbi	59162f224d152db5
 555	1842	6753585982823856	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/active.pbi	cdefbdd9c1d720ca
 711	1964	6753585984040603	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/GPIO.pbi	b892495a61455f7
+4835	4942	6759809873354435	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part4.pbi	3e39443fec3251ae
 668	2028	6753585984549246	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Green.pbi	58d5aaaa919e1f6
+716	882	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/SoftwareOutput.xcl	7eb1d18b5304cfa6
 1831	2797	6753585992557123	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Amber.pbi	ce3e3571611d05bb
 1845	2815	6753585992630139	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/flashing.pbi	6ae0b0efcf8fbb6e
 1968	2916	6753585993737102	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/LightControl.pbi	5a0764e0109c5ff6
-2041	3017	6753585994754380	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Off.pbi	880053f5b0692dbe
-2802	3525	6753585999823106	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLight.pbi	7fa401f5348bb40
 2818	3550	6753586000062482	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/UserButtons.pbi	6ae69d28b7e08221
 2920	3633	6753586000920168	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/state.pbi	49cf01646ee929ff
 3019	4309	6753586004753331	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/Red.pbi	13f4f83b797b39d8
 3553	4324	6753586004783252	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part0.pbi	197890572aabb4e
-3636	4329	6753586007555835	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part1.pbi	bbec1c526e7d1ea
-3527	4595	6753586010542973	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/RedAmber.pbi	38785e68aa44dbb8
-4598	4848	6753586013106115	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part2.pbi	132c791ed6309f20
-4312	4857	6753586013165948	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/UserLEDs.pbi	1c98069ed27a8101
-4861	4989	6753586014522603	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part3.pbi	1d847d6ed3fe9670
-4994	5202	6753586016646637	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbd	be733f628faa4508
-5214	6322	6753586027558514	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbw	395c97ec324a1ad5
-6	433	6753589439538713	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLight.pbi	7fa401f5348bb40
-2	442	6753589439548400	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/main.pbi	59162f224d152db5
-438	630	6753589441573275	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part2.pbi	132c791ed6309f20
-447	639	6753589441662990	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part1.pbi	bbec1c526e7d1ea
-648	821	6753589443487838	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbd	be733f628faa4508
-829	1928	6753589454270389	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbw	395c97ec324a1ad5
-1	390	6753589963913026	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLight.pbi	7fa401f5348bb40
-394	616	6753589966216644	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part2.pbi	132c791ed6309f20
-624	821	6753589968271036	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbd	be733f628faa4508
-829	2038	6753589980106251	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbw	395c97ec324a1ad5
-2	401	6753591358248930	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/main.pbi	59162f224d152db5
-6	409	6753591358248930	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLight.pbi	7fa401f5348bb40
-404	602	6753591360351054	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part1.pbi	bbec1c526e7d1ea
-412	612	6753591360440804	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part2.pbi	132c791ed6309f20
-619	798	6753591362301716	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbd	be733f628faa4508
-808	1989	6753591373860022	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbw	395c97ec324a1ad5
-3	465	6753591783278300	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/main.pbi	59162f224d152db5
 2	167	6753591835688561	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part1.pbi	bbec1c526e7d1ea
-172	334	6753591837345008	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbd	be733f628faa4508
-344	1476	6753591848257860	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl.pbw	395c97ec324a1ad5
-4	163	6753643260000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/flashing.xcl	1faeaccab4ab02ea
-22	194	6753643260000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Amber.xcl	8709fdc97ad48662
-170	476	6753643260000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/active.xcl	55b4899660c8c285
-201	518	6753643260000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/main.xcl	b9e7874c2ffd67a3
-482	886	6753643260000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Green.xcl	31f7ab1b63b19ddf
-524	988	6753643270000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Off.xcl	d3abf4248fec765
-892	1286	6753643270000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Red.xcl	8f2ccdf3391d9558
-994	1393	6753643270000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/GPIO.xcl	597d7e415ee94b00
-1293	1777	6753643270000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/LightControl.xcl	cfc035fef4db004a
-1400	1804	6753643270000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.xcl	b332517f8133a66e
-1810	2272	6753643280000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.xcl	d23f4be0d375d414
-1783	2310	6753643280000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/state.xcl	60ef639500b5b9e0
-2280	2684	6753643280000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.xcl	6c40506868982db4
-2690	3093	6753643290000000	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.xcl	e891531a6aba544c
-2324	3570	6753643296518722	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	ce18930461df6f6a
-3101	4342	6753643304272105	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	8a3e351c1e4fe6bf
-3574	4711	6753643308012144	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/LightControl.pbi	4d299a2a01fbf0cb
-4347	5698	6753643317747735	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	f88a8f7d42982c36
-4717	5874	6753643319554358	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/GPIO.pbi	eea3471703a94596
-5703	6908	6753643329807611	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	194ac6e5432bb64
-5879	7031	6753643331164887	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	f6d95d81c97ead09
-7036	8055	6753643341340038	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/state.pbi	5cbabc6686db66e1
-6913	8078	6753643341183802	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Off.pbi	dbfa84bb06f021ab
-8060	9229	6753643353009242	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	270152a3a49abfc1
-8084	9276	6753643353438826	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.pbi	41471cce1cca54e6
-9281	10450	6753643365342444	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.pbi	ee2d0cd883111bdf
-9234	10478	6753643365440094	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	996634a3249a3663
-10485	10829	6753643368691835	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	1608ab25dd39b299
-10835	11336	6753643374218825	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	2f1ad527ff56bf91
-10455	11568	6753643376542843	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	61d89164ba8e0c32
-11343	12040	6753643381112914	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	50b8da05f1cef3c1
-11573	12201	6753643382802176	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	8de8db6b9a0c6246
-12209	12859	6753643388983453	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cf6f11fa200b6389
-12867	15767	6753643417565659	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	b4f993d09a639a1
-7	963	6753644397294901	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	ce18930461df6f6a
-40	1073	6753644398447132	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	f6d95d81c97ead09
-967	1976	6753644407342997	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	f88a8f7d42982c36
-1077	2061	6753644408290243	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Off.pbi	dbfa84bb06f021ab
-2067	2615	6753644413719612	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	50b8da05f1cef3c1
-1980	3080	6753644418494701	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	996634a3249a3663
-2623	3124	6753644418982927	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	2f1ad527ff56bf91
-3085	3549	6753644423231944	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	8de8db6b9a0c6246
-3558	4027	6753644427977819	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cf6f11fa200b6389
-4039	6074	6753644447556597	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	b4f993d09a639a1
-4	936	6753646118905738	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	194ac6e5432bb64
-941	1394	6753646123553790	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	2f1ad527ff56bf91
-1402	1935	6753646128885538	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cf6f11fa200b6389
-1947	4776	6753646156823230	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	b4f993d09a639a1
-2	999	6753646319159780	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	194ac6e5432bb64
-13	1300	6753646322362640	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	270152a3a49abfc1
-1003	1553	6753646324833079	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	2f1ad527ff56bf91
-1305	1864	6753646328231361	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	8de8db6b9a0c6246
-1874	2431	6753646333816852	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cf6f11fa200b6389
-2440	4892	6753646357955930	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	b4f993d09a639a1
-4	995	6753646520592720	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	194ac6e5432bb64
-1000	1483	6753646525289689	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	2f1ad527ff56bf91
-1490	2012	6753646530806927	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cf6f11fa200b6389
-2021	4176	6753646551953575	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	b4f993d09a639a1
-3	1242	6753646818126745	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	270152a3a49abfc1
-1247	1881	6753646824434930	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	8de8db6b9a0c6246
-1893	2452	6753646830215773	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cf6f11fa200b6389
-2460	5300	6753646857987431	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	b4f993d09a639a1
-7	1212	6753647328296503	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	270152a3a49abfc1
-1217	1648	6753647332680985	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	8de8db6b9a0c6246
-1657	2133	6753647337504907	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cf6f11fa200b6389
-2142	4567	6753647361370570	C:/Users/t.kempf/Documents/Mosbach/6.Semester/Embedded_Systems_Hess/Labor/Traffic_Light_Control2/Sven/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	b4f993d09a639a1
-191	519	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Amber.xcl	72769850be042895
-195	535	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Off.xcl	12b872ff55d786ae
-3	543	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/active.xcl	18583efa264283d0
-69	552	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/flashing.xcl	ad7b5797c5c70104
-524	756	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/GPIO.xcl	8d6979e788e6ac3a
-548	779	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/main.xcl	853b30c4b870de35
-539	787	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Red.xcl	48956fdd155c9deb
-557	806	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/LightControl.xcl	50b46e8ac846406b
+412	612	6753591360440804	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part2.pbi	132c791ed6309f20
+4312	4857	6753586013165948	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/UserLEDs.pbi	1c98069ed27a8101
 760	955	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Green.xcl	2253dc4fb17f9eaf
+4861	4989	6753586014522603	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLightControlV3/Debug/BrowseInfo/TrafficLightControl_part3.pbi	1d847d6ed3fe9670
+533	1034	6759885474244515	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/OutputFormat.pbi	c676022bdb5b8423
+54	356	6759809820000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.xcl	99c16e378a7fdbe4
+832	980	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/UserLEDs.xcl	6b6310edede7aab7
+915	2168	6753666918997589	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	aa988aae74abf901
+989	1193	6753662900000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.xcl	8bd89104a71f0093
+362	512	6759809820000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/HardwareOutput.xcl	ec713d3478b8cb55
+191	519	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Amber.xcl	72769850be042895
+69	552	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/flashing.xcl	ad7b5797c5c70104
+557	806	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/LightControl.xcl	50b46e8ac846406b
 783	984	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.xcl	1972e710f90ab3ca
 814	1016	6753662890000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/state.xcl	4a3395eba49640b8
-989	1193	6753662900000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.xcl	8bd89104a71f0093
 1023	1208	6753662900000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.xcl	e027823466146dfd
 1197	1379	6753662900000000	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.xcl	d12337eebdc59912
-791	1665	6753662904980577	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	25abe685b20725c4
-962	1717	6753662905519145	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	550951a3c54f8a7a
-1212	1922	6753662907563672	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	b3ef8ae3122f6077
-1384	2012	6753662908451293	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	d33015681f9756f
+2	498	6753666551547211	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	25abe685b20725c4
+6	507	6753666551646945	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	550951a3c54f8a7a
+2	439	6753666902037997	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	b3ef8ae3122f6077
+6	426	6753666901918343	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	d33015681f9756f
 1720	2306	6753662911391074	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/GPIO.pbi	bb274ccffb8718da
 1667	2358	6753662911899696	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/LightControl.pbi	31cdf5ec8502f9c8
-1925	2547	6753662913794623	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	95b853779aff72ca
-2014	2611	6753662914439762	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	5e181f6f0c3ad27e
-2308	2903	6753662917371923	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	4d61b46e6a1dde83
+12	558	6753666552149860	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	95b853779aff72ca
+510	1147	6753666558045853	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	5e181f6f0c3ad27e
+533	1180	6753666558384442	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	4d61b46e6a1dde83
 2361	2931	6753662917641196	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/state.pbi	91af05674a731a6b
 2550	3116	6753662919486283	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Off.pbi	964e279b31947e91
 2614	3176	6753662920094649	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.pbi	54448d192fc83bc6
-2934	3199	6753662920373884	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	4cac32e4b811905
-3118	3381	6753662922199006	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	badb9ffe8b35afe8
-2905	3428	6753662922607924	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	ad676fa18851b03e
-3179	3673	6753662925081295	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.pbi	e23e794a07a8ce1a
-3431	3700	6753662925390480	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	356536621a473bfa
-3677	3823	6753662926617198	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	dfcade2dde848fd3
-3826	4038	6753662928771427	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	a78fd87145786dbe
-4046	5272	6753662940656528	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	aa988aae74abf901
-3	450	6753665881942353	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	25abe685b20725c4
-8	457	6753665881962307	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	4d61b46e6a1dde83
-453	664	6753665884162855	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	badb9ffe8b35afe8
-461	670	6753665884222410	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	356536621a473bfa
-676	846	6753665885977724	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	a78fd87145786dbe
-854	1961	6753665896740681	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	aa988aae74abf901
-2	540	6753666104994648	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	25abe685b20725c4
-12	555	6753666105134283	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	4d61b46e6a1dde83
-9	562	6753666105144255	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	b3ef8ae3122f6077
-6	621	6753666105832239	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	550951a3c54f8a7a
-542	776	6753666107421946	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	badb9ffe8b35afe8
-558	783	6753666107441892	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	356536621a473bfa
-623	842	6753666108080231	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	4cac32e4b811905
-848	1021	6753666109875448	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	a78fd87145786dbe
-1031	2170	6753666121040397	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	aa988aae74abf901
-13	526	6753666227863161	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	4d61b46e6a1dde83
-10	536	6753666227942941	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	b3ef8ae3122f6077
-2	544	6753666228022732	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	550951a3c54f8a7a
-6	563	6753666228232170	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	25abe685b20725c4
-530	748	6753666230121007	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	356536621a473bfa
-547	756	6753666230190824	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	4cac32e4b811905
-566	768	6753666230320479	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	badb9ffe8b35afe8
-773	980	6753666232444933	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	a78fd87145786dbe
-989	2087	6753666243126467	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	aa988aae74abf901
-2	498	6753666551547211	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	25abe685b20725c4
-6	507	6753666551646945	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	550951a3c54f8a7a
-9	530	6753666551860627	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	b3ef8ae3122f6077
-12	558	6753666552149860	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	95b853779aff72ca
-501	1123	6753666557805985	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	d33015681f9756f
-510	1147	6753666558045853	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	5e181f6f0c3ad27e
-533	1180	6753666558384442	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	4d61b46e6a1dde83
-561	1189	6753666558464232	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	ad676fa18851b03e
-1126	1368	6753666560319264	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	badb9ffe8b35afe8
-1150	1389	6753666560528727	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	4cac32e4b811905
-1191	1426	6753666560894494	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	356536621a473bfa
-1432	1652	6753666563151433	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	a78fd87145786dbe
-1657	2816	6753666574414537	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	aa988aae74abf901
-2	331	6753666679430400	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	ad676fa18851b03e
-336	518	6753666681335465	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	356536621a473bfa
-524	688	6753666683032343	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	a78fd87145786dbe
-695	1848	6753666694315133	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	aa988aae74abf901
-6	426	6753666901918343	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	d33015681f9756f
-2	439	6753666902037997	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	b3ef8ae3122f6077
-431	671	6753666904403891	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	badb9ffe8b35afe8
 443	680	6753666904493714	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	4cac32e4b811905
+431	671	6753666904403891	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	badb9ffe8b35afe8
+3179	3673	6753662925081295	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.pbi	e23e794a07a8ce1a
+3677	3823	6753662926617198	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	dfcade2dde848fd3
 684	911	6753666906804788	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	a78fd87145786dbe
-915	2168	6753666918997589	C:/Users/svenm/Downloads/TrafficLightControlVTimo/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	aa988aae74abf901
-6	2772	6759758410000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Amber.xcl	f42b1fa688b95876
-2782	5188	6759758440000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.xcl	8acd0e761edccad9
-3	268	6759758650000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/flashing.xcl	3feb2a14b460d13f
-296	649	6759758650000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/LightControl.xcl	eb1315ae51cb672
-701	1278	6759758660000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Green.xcl	1fde438bbab4fc38
-1304	1593	6759758660000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/GPIO.xcl	7181d533f1acd0d6
-1608	1830	6759758660000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.xcl	9b6433891af9c56c
-1856	2606	6759758676424834	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	e023f7a3a71d51ae
-2624	2837	6759758670000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.xcl	5135f4746e8c52a1
-2855	3195	6759758680000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Off.xcl	970caac1e29a21da
-3211	3607	6759758680000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/state.xcl	b0dc384481c61b1b
-3619	3872	6759758680000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Red.xcl	97a2973e9bfd195c
-3892	4799	6759758698612381	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	937363bb70a638ad
-4810	4926	6759758690000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.xcl	c329db48096bf839
-4949	5237	6759758700000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.xcl	648fee93d2a8daf0
-5256	5498	6759758700000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.xcl	9b14ca0a5aaf64a5
-5515	6078	6759758711266895	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-6091	6661	6759758717203903	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-6674	7262	6759758723142972	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Off.pbi	24ea12c05165c4d9
-7274	7767	6759758728141323	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	fb8d024787fc33fc
-7780	8293	6759758733453777	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/GPIO.pbi	f63c0f295d19cd3e
-8299	8784	6759758738297307	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	d5686d693889ef76
-8797	9280	6759758743296884	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/LightControl.pbi	73fa9c539f4f6486
-9286	9757	6759758748140162	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.pbi	b4d24c961a4573e5
-9773	10273	6759758753295661	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	57f324596c14f277
-10289	10871	6759758759234704	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/state.pbi	eacc596e7a8c2d9e
-10889	11427	6759758764857039	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.pbi	9fe3850fe439e10c
-11441	12172	6759758772201519	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	1518a6dbf3d456a0
-12186	12475	6759758775170528	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-12496	12736	6759758777981903	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	5a83a87aee9c2d87
-12751	13008	6759758780637139	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	67ba46c5f7f59b24
-13029	13190	6759758782356441	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	ab3f661efcb6cd3e
-13207	13435	6759758784855865	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	97364af8701af8fa
-13454	17975	6759758829696956	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-3	749	6759760759323005	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-760	1081	6759760762410408	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	67ba46c5f7f59b24
-1094	1358	6759760765387588	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	97364af8701af8fa
-1389	4408	6759760793876343	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-3	509	6759761007771051	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-521	754	6759761010282290	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	67ba46c5f7f59b24
-775	1050	6759761012981974	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	97364af8701af8fa
-3	2019	6759761107049993	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-3	502	6759761353135690	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-514	742	6759761355510483	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	67ba46c5f7f59b24
-764	1017	6759761358307948	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	97364af8701af8fa
-1033	3410	6759761381253697	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-4	140	6759762420000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.xcl	1ac0880e32468208
-170	279	6759762430000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/OutputFormat.xcl	901816611607b59a
-300	414	6759762430000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.xcl	1b3efb145a490e2b
-439	964	6759762438194349	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	a483959be128a8d1
-973	1601	6759762444516803	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-1613	2284	6759762451197752	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/OutputFormat.pbi	15ac4b627127e55f
-2296	2950	6759762457934779	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.pbi	a4b3e733a77b0065
-2965	3208	6759762460590808	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	8e7b59c7d65aca69
-3231	3329	6759762461840910	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part4.pbi	1307b1f0f03b8b4b
-3342	3614	6759762464497794	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	435c37425dc67651
-3632	3970	6759762467934475	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	9cbb8f68d1bf346a
-3982	4303	6759762471215224	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-4322	6259	6759762490589277	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-4	526	6759762631886339	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-538	776	6759762634426495	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	9cbb8f68d1bf346a
-798	1125	6759762637871391	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-1152	3505	6759762660932418	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-4	594	6759762972949160	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	fb8d024787fc33fc
-600	1281	6759762979979752	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-1295	1956	6759762986698142	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-1966	2558	6759762992792171	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	57f324596c14f277
-2572	2891	6759762995917812	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	9cbb8f68d1bf346a
-2903	3184	6759762999041461	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	435c37425dc67651
-3205	3513	6759763002167148	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-3527	3809	6759763005291607	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-3834	5718	6759763023884377	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-5	568	6759763786723165	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	d5686d693889ef76
-580	850	6759763789503989	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	9cbb8f68d1bf346a
-873	1169	6759763792737090	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-1197	3366	6759763814032642	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-8	791	6759764018469973	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	d5686d693889ef76
-804	1098	6759764021309758	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	9cbb8f68d1bf346a
-1110	1423	6759764024794792	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-1441	3482	6759764044976129	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-4	674	6759764155284082	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-684	1441	6759764163096773	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	57f324596c14f277
-1452	1806	6759764166533383	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	435c37425dc67651
-1821	2082	6759764169502498	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	9cbb8f68d1bf346a
-2108	2423	6759764172783266	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-2450	4555	6759764193250990	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-6	698	6759765017323431	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-710	1379	6759765023945979	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-1395	2054	6759765031126546	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-3	2406	6759765136090218	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-4	663	6759765204878056	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-677	1018	6759765208247491	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-1036	1348	6759765211734348	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-1373	3274	6759765230458557	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-3	568	6759767229688149	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-580	1099	6759767234958713	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	fb8d024787fc33fc
-1105	1641	6759767240231661	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-1650	2518	6759767247372123	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	57f324596c14f277
-2532	2798	6759767251918297	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	9cbb8f68d1bf346a
-2819	3159	6759767255354796	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	435c37425dc67651
-3170	3527	6759767259104393	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-3544	3923	6759767263166317	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-3945	5841	6759767281916156	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-5	546	6759767538459122	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-558	798	6759767541041379	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-824	1112	6759767544152053	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-1128	3557	6759767567846042	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-4	638	6759767677371880	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-651	951	6759767680496725	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-3	334	6759767745617016	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-361	2258	6759767764276880	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-4	730	6759768048002441	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-742	1085	6759768051592274	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-1098	1503	6759768055776855	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-1532	3814	6759768078042936	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-4	1829	6759770594757085	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	fb8d024787fc33fc
-1844	2697	6759770602614918	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	efd6e8e5d1112ce8
-2716	4149	6759770616055820	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	2bb454b2a09376ad
-4162	5718	6759770633753997	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	57f324596c14f277
-5732	6303	6759770639617318	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	abbc83e92618b51d
-6323	6941	6759770645947904	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	435c37425dc67651
-6963	7621	6759770652865072	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	9cbb8f68d1bf346a
-7644	8233	6759770658832747	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	ba5f22aa7e9b3223
-8261	10933	6759770684583032	C:/Users/nikla/OneDrive/Desktop/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	94c6665e2b02e260
-<<<<<<< Updated upstream
-223	735	6759791580000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.xcl	9cee5cd4dcbdfd76
-760	1071	6759791580000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.xcl	b28eedd6464dac22
-1097	1443	6759791580000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.xcl	988bbf2888e6e53d
-1466	1857	6759791590000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Off.xcl	9ed760d1cbbc0c2
-1887	2178	6759791590000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/GPIO.xcl	cfb344dd588f748d
-2207	2623	6759791600000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/LightControl.xcl	3f1f0b7b2fa8c679
-2659	2966	6759791600000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Green.xcl	252a00a740c914cd
-2993	3314	6759791600000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.xcl	c18667d76a020612
-3337	3774	6759791610000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.xcl	2bddbb15bc2fb141
-3797	4156	6759791610000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.xcl	fd1f0cde7c5789b4
-4181	4482	6759791610000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.xcl	3d66e692135c5a74
-4504	4824	6759791620000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/OutputFormat.xcl	301e021a40956ce
-4854	5250	6759791620000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Red.xcl	ffba63318f053
-5278	5665	6759791630000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.xcl	17a972c0dfb0408f
-5694	6029	6759791630000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/state.xcl	8ce56d7cbcd6b58b
-6055	7835	6759791653307464	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	11fe8f7894147b66
-7855	10093	6759791675576783	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/GPIO.pbi	33782952d08580f6
-10128	10932	6759791680000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.xcl	9ff81feb28c46fc8
-10969	13998	6759791715251925	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	1f409c2ffc026400
-14023	16274	6759791736947489	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	35de75ac727a7427
-16305	16989	6759791740000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.xcl	f31df7bd0d2302bd
-17019	20243	6759791777437752	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-20279	23627	6759791811436074	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-23649	25342	6759791828624767	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Off.pbi	d168819b692d6e57
-25368	26145	6759791836647393	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/OutputFormat.pbi	cfcdab8c44a1dee5
-26168	26810	6759791843356936	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	bb084a205fc263f7
-26833	27432	6759791849662512	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/LightControl.pbi	f63ff92a1813df56
-27457	28075	6759791855610396	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	5f6a974c9f2c6279
-28097	28808	6759791863398820	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-28827	29573	6759791870988596	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.pbi	1f977fcc37b65727
-29593	30060	6759791875824069	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.pbi	319ba4c56dcfa674
-30077	30585	6759791881198934	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/state.pbi	eb4b2f0b22ad34ae
-30602	31056	6759791885886434	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.pbi	9a040ea428247940
-31073	31936	6759791894352287	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	e1101e7f470af81e
-31955	32267	6759791897920393	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-32301	32395	6759791899249606	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part4.pbi	94ef7f27c818e2b8
-32412	32785	6759791903076972	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-32815	33038	6759791905686675	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	3136ec45b77edad3
-33068	33308	6759791908426772	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-33340	33601	6759791911286960	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-33637	35874	6759791933431697	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-=======
-52	8753	6759772260000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.xcl	b2bff623eb959867
-8765	9641	6759772280000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.xcl	680661e4045faef3
-9670	10453	6759772290000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.xcl	be4312ecb3cf6c73
-10482	10927	6759772290000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.xcl	160ebf53de372a44
-10946	11210	6759772290000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/LightControl.xcl	e531f8249efe18f3
-11228	11533	6759772300000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Green.xcl	1787f9cdda9e8e0b
-11544	11760	6759772300000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.xcl	14958e88859a4c0c
-11785	11940	6759772300000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/GPIO.xcl	3e21eabe5af36ccd
-11965	12185	6759772300000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Off.xcl	680461eda33fca12
-12199	12569	6759772310000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.xcl	5d029eb6cccd3ae0
-12592	12956	6759772310000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Red.xcl	1fb3029962405610
-12966	13208	6759772310000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.xcl	fb0d6e5a0ac54659
-13229	13508	6759772320000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/state.xcl	7b738e56afeb5e5c
-13522	13811	6759772320000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/OutputFormat.xcl	c9c95f375d39a2a2
-13836	14099	6759772320000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.xcl	54acf1802b5d67e6
-14125	14370	6759772330000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.xcl	60876f12e97d500d
-14395	15012	6759772337266722	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	1f409c2ffc026400
-15027	15143	6759772330000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.xcl	dbec3523d81e9f9c
-15162	15701	6759772344142753	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	11fe8f7894147b66
-15719	16230	6759772349454019	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	35de75ac727a7427
-16241	16727	6759772354453769	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/GPIO.pbi	33782952d08580f6
-16743	17238	6759772359453968	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Off.pbi	d168819b692d6e57
-17253	17751	6759772364609586	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	bb084a205fc263f7
-17761	18365	6759772370703087	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/LightControl.pbi	f63ff92a1813df56
-18384	18902	6759772376171820	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-18920	19402	6759772381172255	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	5f6a974c9f2c6279
-19422	19942	6759772386484350	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-19954	20439	6759772391484019	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/OutputFormat.pbi	cfcdab8c44a1dee5
-20455	21149	6759772398672771	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.pbi	9a040ea428247940
-21169	21673	6759772403828497	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/state.pbi	eb4b2f0b22ad34ae
-21690	22173	6759772408827406	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.pbi	1f977fcc37b65727
-22192	22682	6759772413983608	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.pbi	319ba4c56dcfa674
-22701	23204	6759772419141057	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-23221	23714	6759772424296208	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	e1101e7f470af81e
-23732	23979	6759772426952076	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-24010	24110	6759772428201412	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part4.pbi	94ef7f27c818e2b8
-24118	24360	6759772430702122	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-24394	24649	6759772433670538	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	3136ec45b77edad3
-24677	24932	6759772436483314	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-24958	25245	6759772439608103	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-25283	27229	6759772459138137	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-83	2098	6759773406045875	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-2108	2689	6759773412451835	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-2711	3119	6759773416826702	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-5	2053	6759773533150706	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	173	6759774310000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.xcl	9cee5cd4dcbdfd76
-232	354	6759774310000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.xcl	988bbf2888e6e53d
-379	806	6759774320000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.xcl	b28eedd6464dac22
-828	1270	6759774320000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Off.xcl	9ed760d1cbbc0c2
-1306	1646	6759774330000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Green.xcl	252a00a740c914cd
-1667	2033	6759774330000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/LightControl.xcl	3f1f0b7b2fa8c679
-2050	2312	6759774330000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.xcl	2bddbb15bc2fb141
-2339	2951	6759774340000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.xcl	c18667d76a020612
-2973	3208	6759774340000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/GPIO.xcl	cfb344dd588f748d
-3231	3352	6759774340000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.xcl	3d66e692135c5a74
-3371	3723	6759774340000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/state.xcl	8ce56d7cbcd6b58b
-3735	3981	6759774350000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.xcl	17a972c0dfb0408f
-3997	4220	6759774350000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.xcl	fd1f0cde7c5789b4
-4251	4561	6759774350000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Red.xcl	ffba63318f053
-4572	4858	6759774360000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/OutputFormat.xcl	301e021a40956ce
-4872	5394	6759774368086014	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	11fe8f7894147b66
-5412	5918	6759774373397940	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/GPIO.pbi	33782952d08580f6
-5935	6058	6759774370000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.xcl	9ff81feb28c46fc8
-6073	6195	6759774370000000	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.xcl	f31df7bd0d2302bd
-6213	6798	6759774382149022	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	35de75ac727a7427
-6816	7324	6759774387461314	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	1f409c2ffc026400
-7337	7832	6759774392461754	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Off.pbi	d168819b692d6e57
-7849	8332	6759774397460904	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-8351	8932	6759774403553418	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Red.pbi	5f6a974c9f2c6279
-8950	9472	6759774408867017	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/LightControl.pbi	f63ff92a1813df56
-9490	10036	6759774414490674	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-10053	10605	6759774420271702	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Green.pbi	bb084a205fc263f7
-10618	11141	6759774425584122	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/OutputFormat.pbi	cfcdab8c44a1dee5
-11159	11767	6759774431833989	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.pbi	9a040ea428247940
-11776	12352	6759774437615337	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/RedAmber.pbi	e1101e7f470af81e
-12368	13008	6759774444177301	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/state.pbi	eb4b2f0b22ad34ae
-13016	13619	6759774450271965	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserButtons.pbi	1f977fcc37b65727
-13630	14251	6759774456677252	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-14267	14831	6759774462458535	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/UserLEDs.pbi	319ba4c56dcfa674
-14848	15111	6759774465270016	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-15142	15398	6759774468083698	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-15414	15744	6759774471520965	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part2.pbi	3136ec45b77edad3
-15759	16057	6759774474801676	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-16075	16233	6759774476364492	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part4.pbi	94ef7f27c818e2b8
-16251	16543	6759774479489725	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-16572	18724	6759774501050423	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	533	6759775443541839	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	1f409c2ffc026400
-547	1255	6759775450728816	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	35de75ac727a7427
-1264	1951	6759775457447134	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-1964	2620	6759775464321696	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-2638	3337	6759775471509738	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-3354	3615	6759775474322108	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-3637	4029	6759775478227765	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-4047	4386	6759775481821833	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-4403	4789	6759775485884613	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-4813	7336	6759775511039670	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-5	501	6759775909543521	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-518	748	6759775912051416	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-778	1060	6759775915164880	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-1088	3017	6759775933969256	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-3	663	6759776246633180	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	1f409c2ffc026400
-673	1223	6759776252101310	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	35de75ac727a7427
-1241	1902	6759776258975597	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-1920	2494	6759776264912718	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-2510	3028	6759776270225593	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-3035	3292	6759776272881770	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-3317	3572	6759776275694030	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-3594	3839	6759776278350304	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-3872	4153	6759776281475052	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-4174	6822	6759776307255580	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-114	813	6759776830376752	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.pbi	9a040ea428247940
-828	1130	6759776833970817	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1155	1522	6759776837876958	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-1549	3304	6759776855220273	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-5	535	6759776985993176	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.pbi	9a040ea428247940
-553	786	6759776988549448	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-816	1247	6759776992913091	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-1270	3764	6759777017392821	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	543	6759777583470046	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-551	1380	6759777591750463	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/SoftwareOutput.pbi	9a040ea428247940
-1400	1670	6759777594875841	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1690	1971	6759777597845473	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1995	2312	6759777601281872	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2341	4733	6759777625031124	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	958	6759778345504570	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	1f409c2ffc026400
-967	1629	6759778352222450	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	35de75ac727a7427
-1645	2307	6759778358941673	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-2324	2859	6759778364566447	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-2877	3484	6759778370816880	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-3502	3797	6759778373784387	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-3813	4205	6759778378003364	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-4222	4583	6759778381597089	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-4599	4974	6759778385659732	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-4994	7301	6759778408627116	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-33	909	6759779183916392	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/active.pbi	1f409c2ffc026400
-928	1608	6759779190947579	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/flashing.pbi	35de75ac727a7427
-1625	2306	6759779197823326	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-2321	3079	6759779205478376	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-4	535	6759779291243414	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/HardwareOutput.pbi	2f8e9e4b32106655
-553	1062	6759779296504185	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1082	1333	6759779299262651	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1364	1647	6759779302372871	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1679	1957	6759779305325037	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-1976	2326	6759779309097439	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2343	4925	6759779334660309	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-7	753	6759782880361378	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-774	1386	6759782886658989	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1400	1789	6759782890700979	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1821	2101	6759782893848775	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-2134	2524	6759782897808014	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2546	4913	6759782921215734	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-5	576	6759783512008151	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-588	1171	6759783517870910	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1183	1452	6759783520773071	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1484	1783	6759783524064818	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1801	2253	6759783528705969	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2284	4695	6759783552178584	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-5	620	6759783883575213	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-638	1201	6759783889325267	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1217	1470	6759783892047439	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1501	1798	6759783895294140	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1825	2113	6759783898463587	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2140	4285	6759783919063421	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-3	522	6759784357348968	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-539	1024	6759784362433837	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1043	1356	6759784365664776	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1390	1679	6759784368943532	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1698	2041	6759784372571672	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2065	4157	6759784393260537	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-5	485	6759784805537682	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-501	1024	6759784810849399	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1043	1341	6759784813863987	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1360	1638	6759784816937443	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1669	1940	6759784820061831	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-1967	3689	6759784837093382	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	547	6759785508399706	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-564	1147	6759785514197980	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1157	1652	6759785517590879	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1681	1926	6759785522121804	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1957	2239	6759785525246670	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2261	4102	6759785543527655	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-7	541	6759785741060465	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-558	1245	6759785748053704	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1264	1577	6759785751349322	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1599	2011	6759785755690077	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-2041	2506	6759785758860056	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2548	5068	6759785785580794	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	545	6759786250212738	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-562	1120	6759786255878337	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1138	1395	6759786258745092	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1422	1799	6759786262735463	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1817	2132	6759786265858801	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2151	4074	6759786285077339	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-7	1069	6759786957401251	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-7	580	6759787020279588	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-590	849	6759787023036257	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-880	1142	6759787026009325	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1168	1456	6759787029051610	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-1497	3487	6759787049017370	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-5	674	6759787469050619	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-691	1433	6759787476589103	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1452	1740	6759787479551610	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1757	2093	6759787483145546	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-2114	2426	6759787486582591	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2446	4673	6759787508300372	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	539	6759788022817205	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/main.pbi	29540a4c7943687e
-556	1198	6759788029223406	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLight.pbi	7fe0278c2bed06d1
-1210	1569	6759788033128877	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part3.pbi	10005937935490f7
-1586	1868	6759788035940191	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part1.pbi	768a3494306b14b3
-1885	2241	6759788039690528	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-2278	4187	6759788058908299	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-5	575	6759788369325107	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	11fe8f7894147b66
-592	1221	6759788375648492	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-1249	1630	6759788379932316	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-1666	5929	6759788422255891	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	474	6759788479128706	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	11fe8f7894147b66
-487	726	6759788481631271	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-759	1165	6759788485848125	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-1190	3413	6759788507722447	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
-4	535	6759789453255479	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/Amber.pbi	11fe8f7894147b66
-545	912	6759789457199730	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl_part0.pbi	6e5e8f59e557b982
-927	1335	6759789461204549	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbd	cdb7380aec554f3c
-1362	3773	6759789485308926	C:/Users/nikla/OneDrive/Desktop/TrafficLightControl/Sven/TrafficLightControlV6/TrafficLightControlV4/Debug/BrowseInfo/TrafficLightControl.pbw	ee58cf43878a0e25
->>>>>>> Stashed changes
+391	541	6759809820000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/main.xcl	ba47d893c9b9b733
+3	634	6759891845952380	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+695	827	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Red.xcl	470ef35e59a66f2a
+1038	1552	6759885479430637	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/RedAmber.pbi	968207c9e86c0f6c
+2	498	6759885468888835	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Amber.pbi	937bfde7eb01a639
+477	940	6759891849034196	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLight.pbi	e23fc7631674d3a8
+62	370	6759809820000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Green.xcl	154ba0662aec7481
+57	386	6759809820000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/active.xcl	4c7aeb9f19caaa83
+47	402	6759809820000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Amber.xcl	4657093dec28cc6
+374	524	6759809820000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/GPIO.xcl	bfa8c4fa7ae0dec7
+407	566	6759809820000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Off.xcl	f986d2341f5397cc
+529	690	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/RedAmber.xcl	9bd3738cb6186660
+570	711	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/state.xcl	2be076deec02b95f
+546	724	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/OutputFormat.xcl	48f75eaacc4c0720
+683	839	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLight.xcl	28f3d262a6b9e06c
+844	1009	6759809830000000	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/UserButtons.xcl	dd87e7d69f807711
+887	2254	6759809846451956	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/GPIO.pbi	8c39e5d038a8a59e
+513	1017	6759885474074990	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Green.pbi	68faba0fb9881446
+4	557	6759889457976773	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/HardwareOutput.pbi	ad799dac32281fe0
+12	475	6759891844363154	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/main.pbi	ae3f6f2c487ea253
+23	794	6759887451875489	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/SoftwareOutput.pbi	911da02daae2f780
+4002	4672	6759809870631731	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/UserLEDs.pbi	55459dc41319f521
+1045	1575	6759885479630119	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Red.pbi	b4578423e779bb3a
+4177	4831	6759809872237422	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/state.pbi	a8d19badc72f0fde
+512	776	6759891847388214	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part1.pbi	c0a8618b57492e74
+619	861	6759891848245904	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part2.pbi	5f6264189bef6431
+4503	5093	6759809874870383	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/UserButtons.pbi	b01a1975dcb9eedc
+638	882	6759891848455483	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+1136	1346	6759891853088411	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+1352	2232	6759891861654495	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+8	829	6759893835808175	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Amber.pbi	937bfde7eb01a639
+11	867	6759893836276935	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+14	877	6759893836336760	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/main.pbi	ae3f6f2c487ea253
+4	933	6759893836945140	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/active.pbi	cd97747e6ea29d3e
+16	540	6759893895246460	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Green.pbi	68faba0fb9881446
+2	553	6759893895376178	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Amber.pbi	937bfde7eb01a639
+11	559	6759893895396063	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/main.pbi	ae3f6f2c487ea253
+7	576	6759893895605538	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+542	1085	6759893900694645	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Off.pbi	34773b134772ba64
+557	1123	6759893901073659	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLight.pbi	e23fc7631674d3a8
+563	1129	6759893901093647	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Red.pbi	b4578423e779bb3a
+580	1142	6759893901263245	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/RedAmber.pbi	968207c9e86c0f6c
+1088	1331	6759893903168074	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+1126	1369	6759893903547046	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part3.pbi	e8238b872002c7d2
+1145	1376	6759893903616879	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part2.pbi	5f6264189bef6431
+1132	1382	6759893903636855	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part1.pbi	c0a8618b57492e74
+1386	1595	6759893905812273	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+1602	2478	6759893914340602	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+8	483	6759899261681268	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Amber.pbi	937bfde7eb01a639
+10	503	6759899261880448	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Off.pbi	34773b134772ba64
+2	544	6759899262299323	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+5	551	6759899262369144	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/active.pbi	cd97747e6ea29d3e
+506	1086	6759899267712025	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/HardwareOutput.pbi	ad799dac32281fe0
+554	1122	6759899268071093	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/SoftwareOutput.pbi	911da02daae2f780
+547	1128	6759899268111007	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Green.pbi	68faba0fb9881446
+486	1213	6759899268998586	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/main.pbi	ae3f6f2c487ea253
+13	329	6759899324451242	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+9	634	6759899327468377	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/Red.pbi	b4578423e779bb3a
+2	648	6759899327627947	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/RedAmber.pbi	968207c9e86c0f6c
+6	662	6759899327767587	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLight.pbi	e23fc7631674d3a8
+335	674	6759899327917177	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part1.pbi	c0a8618b57492e74
+652	918	6759899330350655	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part2.pbi	5f6264189bef6431
+665	931	6759899330480599	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part3.pbi	e8238b872002c7d2
+937	1261	6759899333765669	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+1269	2198	6759899342872965	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+5	648	6759905250757165	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+651	862	6759905252911409	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+872	1152	6759905255813644	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+2	871	6759905320771488	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+4	491	6759907847076922	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+498	749	6759907849667608	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+757	1012	6759907852282547	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+1021	2139	6759907863154584	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+4	439	6759908070128779	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+443	675	6759908072501671	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+682	958	6759908075341676	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+965	2061	6759908085973870	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+2	449	6759909300894022	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+456	631	6759909302719137	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+640	843	6759909304853695	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+850	1762	6759909313734432	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+2	453	6759910125201143	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+459	704	6759910127713977	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+708	979	6759910130457162	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+988	2029	6759910140594225	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+3	496	6759910347790891	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+502	767	6759910350517845	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+2	218	6759910404543034	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+227	1134	6759910413429277	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+4	489	6759911124131407	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+494	738	6759911126654660	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+745	1034	6759911129616849	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+1045	2163	6759911140566043	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+2	500	6759911498985347	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+2	179	6759911553768271	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+184	386	6759911555832751	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+397	1309	6759911564699331	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+5	524	6759912528805977	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+528	794	6759912531528685	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+802	1091	6759912534490765	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+1100	2283	6759912546009957	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+4	369	6759913004153740	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+377	596	6759913006418185	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+604	848	6759913008951135	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+859	1948	6759913019623239	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+3	458	6759913430468249	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+465	705	6759913432954624	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+715	990	6759913435801308	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+1002	2121	6759913446761828	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+2	352	6759913803923974	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/flashing.pbi	29ca13c12d04f96e
+356	538	6759913805799508	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part0.pbi	483f19eb197738c6
+548	779	6759913808200220	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+788	1851	6759913818546421	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084
+4	480	6759914025827072	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/main.pbi	ae3f6f2c487ea253
+484	740	6759914028440099	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl_part1.pbi	c0a8618b57492e74
+748	1030	6759914031332346	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbd	57cbbc8ed5731923
+1040	2129	6759914041953934	C:/Users/svenm/Documents/Studium/6.Semester/Embedded Systems/TrafficLight_StandNiklas/Debug/BrowseInfo/TrafficLightControl.pbw	2d09f9c576991084

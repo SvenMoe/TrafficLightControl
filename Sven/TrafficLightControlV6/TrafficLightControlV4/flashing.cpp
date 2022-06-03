@@ -4,8 +4,11 @@
 
 flashing *flashing::Instance = NULL;
 
-flashing *flashing::GetInstance()
+OutputFormat* flashing::myOutputFormatFlashing = NULL;
+
+flashing *flashing::GetInstance(OutputFormat *myOutputFormat)
 {
+  myOutputFormatFlashing = myOutputFormat;
   if (Instance == NULL)
   {
     Instance = new flashing();
@@ -13,13 +16,22 @@ flashing *flashing::GetInstance()
   return Instance;
 }
 
+
+
 void flashing::Handle()
 {
+  myLightControl = Off::GetInstance(myOutputFormatFlashing);
+  myLightControl->Handle();
+  for(int i = 0; i < 500; i++)
+  {
+  }
+  myLightControl = Amber::GetInstance(myOutputFormatFlashing);
+  myLightControl->Handle();
 }
 
 inline state *flashing::nextstate()
 {
   cout << "mode: active" << endl;
-  state *instance = active::GetInstance();
+  state *instance = active::GetInstance(myOutputFormatFlashing);
   return instance;
 }
