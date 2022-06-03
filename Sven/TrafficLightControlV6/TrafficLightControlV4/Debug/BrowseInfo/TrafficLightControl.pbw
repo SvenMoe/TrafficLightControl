@@ -67267,7 +67267,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
     },
     "name": "OUTPUTFORMAT_H",
     "origin": "user_include",
@@ -67281,7 +67281,7 @@
     "location": {
       "column": "7",
       "line": "17",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
     },
     "members": [
       {
@@ -67292,7 +67292,7 @@
         "location": {
           "column": "3",
           "line": "21",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
         },
         "name": "OutputFormat",
         "origin": "user_include",
@@ -67306,7 +67306,7 @@
         "location": {
           "column": "16",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
         },
         "name": "setRed",
         "origin": "user_include",
@@ -67320,7 +67320,7 @@
         "location": {
           "column": "16",
           "line": "23",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
         },
         "name": "setRedAmber",
         "origin": "user_include",
@@ -67334,7 +67334,7 @@
         "location": {
           "column": "16",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
         },
         "name": "setAmber",
         "origin": "user_include",
@@ -67348,7 +67348,7 @@
         "location": {
           "column": "16",
           "line": "25",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
         },
         "name": "setGreen",
         "origin": "user_include",
@@ -67362,7 +67362,7 @@
         "location": {
           "column": "16",
           "line": "26",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
         },
         "name": "setFlashing",
         "origin": "user_include",
@@ -67376,7 +67376,7 @@
         "location": {
           "column": "16",
           "line": "27",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\OutputFormat.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\OutputFormat.h"
         },
         "name": "off",
         "origin": "user_include",
@@ -69379,7 +69379,7 @@
     "location": {
       "column": "21",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -69393,7 +69393,7 @@
     "location": {
       "column": "21",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -69407,7 +69407,7 @@
     "location": {
       "column": "16",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.cpp"
     },
     "name": "Handle",
     "origin": "project_file",
@@ -69421,7 +69421,7 @@
     "location": {
       "column": "25",
       "line": "20",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
@@ -69435,7 +69435,7 @@
     "location": {
       "column": "10",
       "line": "23",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.cpp"
     },
     "name": "instance",
     "origin": "project_file",
@@ -69449,7 +69449,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
     },
     "name": "FLASHING_H",
     "origin": "user_include",
@@ -69463,7 +69463,7 @@
     "location": {
       "column": "7",
       "line": "23",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
     },
     "members": [
       {
@@ -69474,7 +69474,7 @@
         "location": {
           "column": "17",
           "line": "26",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "myLightControl",
         "origin": "user_include",
@@ -69488,7 +69488,7 @@
         "location": {
           "column": "20",
           "line": "33",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -69502,7 +69502,7 @@
         "location": {
           "column": "20",
           "line": "33",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -69516,7 +69516,7 @@
         "location": {
           "column": "3",
           "line": "40",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "flashing",
         "origin": "user_include",
@@ -69530,7 +69530,7 @@
         "location": {
           "column": "20",
           "line": "48",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -69544,7 +69544,7 @@
         "location": {
           "column": "20",
           "line": "48",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -69558,7 +69558,7 @@
         "location": {
           "column": "8",
           "line": "56",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -69572,7 +69572,7 @@
         "location": {
           "column": "8",
           "line": "56",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -69586,7 +69586,7 @@
         "location": {
           "column": "10",
           "line": "63",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -69600,7 +69600,7 @@
         "location": {
           "column": "10",
           "line": "63",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\flashing.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\flashing.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -71693,7 +71693,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
     },
     "name": "AMBER_H",
     "origin": "user_include",
@@ -71707,7 +71707,7 @@
     "location": {
       "column": "7",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
     },
     "members": [
       {
@@ -71718,7 +71718,7 @@
         "location": {
           "column": "12",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "myLED",
         "origin": "user_include",
@@ -71732,7 +71732,7 @@
         "location": {
           "column": "17",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -71746,7 +71746,7 @@
         "location": {
           "column": "17",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -71760,7 +71760,7 @@
         "location": {
           "column": "3",
           "line": "38",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "Amber",
         "origin": "user_include",
@@ -71774,7 +71774,7 @@
         "location": {
           "column": "17",
           "line": "46",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -71788,7 +71788,7 @@
         "location": {
           "column": "17",
           "line": "46",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -71802,7 +71802,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -71816,7 +71816,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -71830,7 +71830,7 @@
         "location": {
           "column": "17",
           "line": "61",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -71844,7 +71844,7 @@
         "location": {
           "column": "17",
           "line": "61",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -71975,7 +71975,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
     },
     "name": "USERBUTTONS_H",
     "origin": "user_include",
@@ -71989,7 +71989,7 @@
     "location": {
       "column": "7",
       "line": "17",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
     },
     "members": [
       {
@@ -72000,7 +72000,7 @@
         "location": {
           "column": "8",
           "line": "20",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
         },
         "name": "myGPIOB",
         "origin": "user_include",
@@ -72014,7 +72014,7 @@
         "location": {
           "column": "8",
           "line": "21",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
         },
         "name": "getPinB3",
         "origin": "user_include",
@@ -72028,7 +72028,7 @@
         "location": {
           "column": "8",
           "line": "21",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
         },
         "name": "getPinB3",
         "origin": "user_include",
@@ -72042,7 +72042,7 @@
         "location": {
           "column": "8",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
         },
         "name": "getPinB5",
         "origin": "user_include",
@@ -72056,7 +72056,7 @@
         "location": {
           "column": "8",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
         },
         "name": "getPinB5",
         "origin": "user_include",
@@ -72070,7 +72070,7 @@
         "location": {
           "column": "3",
           "line": "30",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
         },
         "name": "UserButtons",
         "origin": "user_include",
@@ -72084,7 +72084,7 @@
         "location": {
           "column": "9",
           "line": "37",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
         },
         "name": "getButton",
         "origin": "user_include",
@@ -72098,7 +72098,7 @@
         "location": {
           "column": "9",
           "line": "37",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.h"
         },
         "name": "getButton",
         "origin": "user_include",
@@ -72117,7 +72117,7 @@
     "location": {
       "column": "23",
       "line": "8",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\regtypes.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\regtypes.h"
     },
     "name": "UINT8",
     "origin": "user_include",
@@ -72131,7 +72131,7 @@
     "location": {
       "column": "24",
       "line": "9",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\regtypes.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\regtypes.h"
     },
     "name": "UINT16",
     "origin": "user_include",
@@ -72145,7 +72145,7 @@
     "location": {
       "column": "22",
       "line": "10",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\regtypes.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\regtypes.h"
     },
     "name": "UINT32",
     "origin": "user_include",
@@ -72159,7 +72159,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
     },
     "name": "GREEN_H",
     "origin": "user_include",
@@ -72173,7 +72173,7 @@
     "location": {
       "column": "7",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
     },
     "members": [
       {
@@ -72184,7 +72184,7 @@
         "location": {
           "column": "12",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "myLED",
         "origin": "user_include",
@@ -72198,7 +72198,7 @@
         "location": {
           "column": "17",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -72212,7 +72212,7 @@
         "location": {
           "column": "17",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -72226,7 +72226,7 @@
         "location": {
           "column": "3",
           "line": "38",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "Green",
         "origin": "user_include",
@@ -72240,7 +72240,7 @@
         "location": {
           "column": "17",
           "line": "46",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -72254,7 +72254,7 @@
         "location": {
           "column": "17",
           "line": "46",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -72268,7 +72268,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -72282,7 +72282,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -72296,7 +72296,7 @@
         "location": {
           "column": "17",
           "line": "61",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -72310,7 +72310,7 @@
         "location": {
           "column": "17",
           "line": "61",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -72329,7 +72329,7 @@
     "location": {
       "column": "9",
       "line": "6",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
     },
     "name": "UserLEDs_H",
     "origin": "user_include",
@@ -72343,7 +72343,7 @@
     "location": {
       "column": "7",
       "line": "19",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
     },
     "members": [
       {
@@ -72354,7 +72354,7 @@
         "location": {
           "column": "8",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "myGPIOA",
         "origin": "user_include",
@@ -72368,7 +72368,7 @@
         "location": {
           "column": "10",
           "line": "23",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "PinRed",
         "origin": "user_include",
@@ -72382,7 +72382,7 @@
         "location": {
           "column": "10",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "PinAmber",
         "origin": "user_include",
@@ -72396,7 +72396,7 @@
         "location": {
           "column": "10",
           "line": "25",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "PinGreen",
         "origin": "user_include",
@@ -72410,7 +72410,7 @@
         "location": {
           "column": "3",
           "line": "33",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "UserLEDs",
         "origin": "user_include",
@@ -72424,7 +72424,7 @@
         "location": {
           "column": "3",
           "line": "33",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "UserLEDs",
         "origin": "user_include",
@@ -72438,7 +72438,7 @@
         "location": {
           "column": "8",
           "line": "40",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "redLED",
         "origin": "user_include",
@@ -72452,7 +72452,7 @@
         "location": {
           "column": "8",
           "line": "40",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "redLED",
         "origin": "user_include",
@@ -72466,7 +72466,7 @@
         "location": {
           "column": "8",
           "line": "47",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "amberLED",
         "origin": "user_include",
@@ -72480,7 +72480,7 @@
         "location": {
           "column": "8",
           "line": "47",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "amberLED",
         "origin": "user_include",
@@ -72494,7 +72494,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "greenLED",
         "origin": "user_include",
@@ -72508,7 +72508,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "greenLED",
         "origin": "user_include",
@@ -72522,7 +72522,7 @@
         "location": {
           "column": "8",
           "line": "62",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "amberLEDToggle",
         "origin": "user_include",
@@ -72536,7 +72536,7 @@
         "location": {
           "column": "8",
           "line": "62",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "amberLEDToggle",
         "origin": "user_include",
@@ -72550,7 +72550,7 @@
         "location": {
           "column": "8",
           "line": "69",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "allLEDs",
         "origin": "user_include",
@@ -72564,7 +72564,7 @@
         "location": {
           "column": "8",
           "line": "69",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.h"
         },
         "name": "allLEDs",
         "origin": "user_include",
@@ -72583,7 +72583,7 @@
     "location": {
       "column": "7",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.cpp"
     },
     "name": "GPIO",
     "origin": "project_file",
@@ -72597,7 +72597,7 @@
     "location": {
       "column": "12",
       "line": "38",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.cpp"
     },
     "name": "select_datadirection",
     "origin": "project_file",
@@ -72611,7 +72611,7 @@
     "location": {
       "column": "12",
       "line": "54",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.cpp"
     },
     "name": "set_bit",
     "origin": "project_file",
@@ -72625,7 +72625,7 @@
     "location": {
       "column": "12",
       "line": "60",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.cpp"
     },
     "name": "delete_bit",
     "origin": "project_file",
@@ -72639,7 +72639,7 @@
     "location": {
       "column": "12",
       "line": "66",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.cpp"
     },
     "name": "toggle_bit",
     "origin": "project_file",
@@ -72653,7 +72653,7 @@
     "location": {
       "column": "12",
       "line": "82",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.cpp"
     },
     "name": "write_port",
     "origin": "project_file",
@@ -72667,7 +72667,7 @@
     "location": {
       "column": "10",
       "line": "84",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.cpp"
     },
     "name": "bsrr_variable",
     "origin": "project_file",
@@ -72681,7 +72681,7 @@
     "location": {
       "column": "15",
       "line": "85",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.cpp"
     },
     "name": "pin",
     "origin": "project_file",
@@ -73090,7 +73090,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
     },
     "name": "ACTIVE_H",
     "origin": "user_include",
@@ -73104,7 +73104,7 @@
     "location": {
       "column": "7",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
     },
     "members": [
       {
@@ -73115,7 +73115,7 @@
         "location": {
           "column": "8",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "buttonReset",
         "origin": "user_include",
@@ -73129,7 +73129,7 @@
         "location": {
           "column": "15",
           "line": "25",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "button",
         "origin": "user_include",
@@ -73143,7 +73143,7 @@
         "location": {
           "column": "17",
           "line": "26",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "myLightControl",
         "origin": "user_include",
@@ -73157,7 +73157,7 @@
         "location": {
           "column": "24",
           "line": "27",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "myOutputFormatActive",
         "origin": "user_include",
@@ -73171,7 +73171,7 @@
         "location": {
           "column": "18",
           "line": "34",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -73185,7 +73185,7 @@
         "location": {
           "column": "18",
           "line": "34",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -73199,7 +73199,7 @@
         "location": {
           "column": "3",
           "line": "41",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "active",
         "origin": "user_include",
@@ -73213,7 +73213,7 @@
         "location": {
           "column": "18",
           "line": "49",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -73227,7 +73227,7 @@
         "location": {
           "column": "18",
           "line": "49",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -73241,7 +73241,7 @@
         "location": {
           "column": "8",
           "line": "57",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -73255,7 +73255,7 @@
         "location": {
           "column": "8",
           "line": "57",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -73269,7 +73269,7 @@
         "location": {
           "column": "10",
           "line": "64",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -73283,7 +73283,7 @@
         "location": {
           "column": "10",
           "line": "64",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -73346,7 +73346,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
     },
     "name": "REDAMBER_H",
     "origin": "user_include",
@@ -73360,7 +73360,7 @@
     "location": {
       "column": "7",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
     },
     "members": [
       {
@@ -73371,7 +73371,7 @@
         "location": {
           "column": "12",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "myLED",
         "origin": "user_include",
@@ -73385,7 +73385,7 @@
         "location": {
           "column": "20",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -73399,7 +73399,7 @@
         "location": {
           "column": "20",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -73413,7 +73413,7 @@
         "location": {
           "column": "3",
           "line": "38",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "RedAmber",
         "origin": "user_include",
@@ -73427,7 +73427,7 @@
         "location": {
           "column": "20",
           "line": "46",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -73441,7 +73441,7 @@
         "location": {
           "column": "20",
           "line": "46",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -73455,7 +73455,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -73469,7 +73469,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -73483,7 +73483,7 @@
         "location": {
           "column": "17",
           "line": "61",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -73497,7 +73497,7 @@
         "location": {
           "column": "17",
           "line": "61",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -73516,7 +73516,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
     },
     "name": "RED_H",
     "origin": "user_include",
@@ -73530,7 +73530,7 @@
     "location": {
       "column": "7",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
     },
     "members": [
       {
@@ -73541,7 +73541,7 @@
         "location": {
           "column": "12",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "myLED",
         "origin": "user_include",
@@ -73555,7 +73555,7 @@
         "location": {
           "column": "15",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -73569,7 +73569,7 @@
         "location": {
           "column": "15",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -73583,7 +73583,7 @@
         "location": {
           "column": "3",
           "line": "38",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "Red",
         "origin": "user_include",
@@ -73597,7 +73597,7 @@
         "location": {
           "column": "15",
           "line": "46",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -73611,7 +73611,7 @@
         "location": {
           "column": "15",
           "line": "46",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -73625,7 +73625,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -73639,7 +73639,7 @@
         "location": {
           "column": "8",
           "line": "54",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -73653,7 +73653,7 @@
         "location": {
           "column": "17",
           "line": "61",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -73667,7 +73667,7 @@
         "location": {
           "column": "17",
           "line": "61",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -73686,7 +73686,7 @@
     "location": {
       "column": "17",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -73700,7 +73700,7 @@
     "location": {
       "column": "17",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -73714,7 +73714,7 @@
     "location": {
       "column": "14",
       "line": "18",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.cpp"
     },
     "name": "Handle",
     "origin": "project_file",
@@ -73728,7 +73728,7 @@
     "location": {
       "column": "23",
       "line": "34",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
@@ -73742,7 +73742,7 @@
     "location": {
       "column": "10",
       "line": "37",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\active.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\active.cpp"
     },
     "name": "instance",
     "origin": "project_file",
@@ -73756,7 +73756,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\LightControl.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\LightControl.h"
     },
     "name": "LIGHTCONTROL_H",
     "origin": "user_include",
@@ -73770,7 +73770,7 @@
     "location": {
       "column": "7",
       "line": "14",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\LightControl.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\LightControl.h"
     },
     "members": [
       {
@@ -73781,7 +73781,7 @@
         "location": {
           "column": "3",
           "line": "18",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\LightControl.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\LightControl.h"
         },
         "name": "LightControl",
         "origin": "user_include",
@@ -73795,7 +73795,7 @@
         "location": {
           "column": "16",
           "line": "19",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\LightControl.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\LightControl.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -73809,7 +73809,7 @@
         "location": {
           "column": "25",
           "line": "20",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\LightControl.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\LightControl.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -73828,7 +73828,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
     },
     "name": "GPIO_H",
     "origin": "user_include",
@@ -73842,7 +73842,7 @@
     "location": {
       "column": "7",
       "line": "17",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
     },
     "members": [
       {
@@ -73853,7 +73853,7 @@
         "location": {
           "column": "20",
           "line": "20",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "MODER",
         "origin": "user_include",
@@ -73867,7 +73867,7 @@
         "location": {
           "column": "20",
           "line": "21",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "OTYPER",
         "origin": "user_include",
@@ -73881,7 +73881,7 @@
         "location": {
           "column": "20",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "OSPEEDR",
         "origin": "user_include",
@@ -73895,7 +73895,7 @@
         "location": {
           "column": "20",
           "line": "23",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "PUPDR",
         "origin": "user_include",
@@ -73909,7 +73909,7 @@
         "location": {
           "column": "20",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "IDR",
         "origin": "user_include",
@@ -73923,7 +73923,7 @@
         "location": {
           "column": "20",
           "line": "25",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "BSRR",
         "origin": "user_include",
@@ -73937,7 +73937,7 @@
         "location": {
           "column": "20",
           "line": "26",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "RCC_AHB1ENR",
         "origin": "user_include",
@@ -73951,7 +73951,7 @@
         "location": {
           "column": "3",
           "line": "35",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "GPIO",
         "origin": "user_include",
@@ -73965,7 +73965,7 @@
         "location": {
           "column": "3",
           "line": "35",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "GPIO",
         "origin": "user_include",
@@ -73979,7 +73979,7 @@
         "location": {
           "column": "8",
           "line": "43",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "select_datadirection",
         "origin": "user_include",
@@ -73993,7 +73993,7 @@
         "location": {
           "column": "8",
           "line": "43",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "select_datadirection",
         "origin": "user_include",
@@ -74007,7 +74007,7 @@
         "location": {
           "column": "8",
           "line": "50",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "set_bit",
         "origin": "user_include",
@@ -74021,7 +74021,7 @@
         "location": {
           "column": "8",
           "line": "50",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "set_bit",
         "origin": "user_include",
@@ -74035,7 +74035,7 @@
         "location": {
           "column": "8",
           "line": "57",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "delete_bit",
         "origin": "user_include",
@@ -74049,7 +74049,7 @@
         "location": {
           "column": "8",
           "line": "57",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "delete_bit",
         "origin": "user_include",
@@ -74063,7 +74063,7 @@
         "location": {
           "column": "8",
           "line": "64",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "toggle_bit",
         "origin": "user_include",
@@ -74077,7 +74077,7 @@
         "location": {
           "column": "8",
           "line": "64",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "toggle_bit",
         "origin": "user_include",
@@ -74091,7 +74091,7 @@
         "location": {
           "column": "10",
           "line": "71",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "read_port",
         "origin": "user_include",
@@ -74105,7 +74105,7 @@
         "location": {
           "column": "8",
           "line": "78",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "write_port",
         "origin": "user_include",
@@ -74119,7 +74119,7 @@
         "location": {
           "column": "8",
           "line": "78",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\GPIO.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\GPIO.h"
         },
         "name": "write_port",
         "origin": "user_include",
@@ -74467,7 +74467,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
     },
     "name": "OFF_H",
     "origin": "user_include",
@@ -74481,7 +74481,7 @@
     "location": {
       "column": "7",
       "line": "20",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
     },
     "members": [
       {
@@ -74492,7 +74492,7 @@
         "location": {
           "column": "12",
           "line": "23",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "myLED",
         "origin": "user_include",
@@ -74506,7 +74506,7 @@
         "location": {
           "column": "15",
           "line": "30",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -74520,7 +74520,7 @@
         "location": {
           "column": "15",
           "line": "30",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -74534,7 +74534,7 @@
         "location": {
           "column": "3",
           "line": "37",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "Off",
         "origin": "user_include",
@@ -74548,7 +74548,7 @@
         "location": {
           "column": "15",
           "line": "45",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -74562,7 +74562,7 @@
         "location": {
           "column": "15",
           "line": "45",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -74576,7 +74576,7 @@
         "location": {
           "column": "8",
           "line": "53",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -74590,7 +74590,7 @@
         "location": {
           "column": "8",
           "line": "53",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -74604,7 +74604,7 @@
         "location": {
           "column": "17",
           "line": "60",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -74618,7 +74618,7 @@
         "location": {
           "column": "17",
           "line": "60",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -74630,14 +74630,14 @@
     "scope": null
   },
   {
-    "ID": "c:HardwareOutput.h@63@macro@HARDWAREOUTPUT_H",
+    "ID": "c:HardwareOutput.h@66@macro@HARDWAREOUTPUT_H",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "HARDWAREOUTPUT_H",
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
     },
     "name": "HARDWAREOUTPUT_H",
     "origin": "user_include",
@@ -74651,7 +74651,7 @@
     "location": {
       "column": "7",
       "line": "17",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
     },
     "members": [
       {
@@ -74662,7 +74662,7 @@
         "location": {
           "column": "28",
           "line": "21",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -74676,7 +74676,7 @@
         "location": {
           "column": "28",
           "line": "21",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -74690,7 +74690,7 @@
         "location": {
           "column": "5",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "HardwareOutput",
         "origin": "user_include",
@@ -74704,7 +74704,7 @@
         "location": {
           "column": "28",
           "line": "25",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -74718,7 +74718,7 @@
         "location": {
           "column": "28",
           "line": "25",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -74732,7 +74732,7 @@
         "location": {
           "column": "10",
           "line": "26",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "setRed",
         "origin": "user_include",
@@ -74746,7 +74746,7 @@
         "location": {
           "column": "10",
           "line": "27",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "setRedAmber",
         "origin": "user_include",
@@ -74760,7 +74760,7 @@
         "location": {
           "column": "10",
           "line": "28",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "setAmber",
         "origin": "user_include",
@@ -74774,7 +74774,7 @@
         "location": {
           "column": "10",
           "line": "29",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "setGreen",
         "origin": "user_include",
@@ -74788,7 +74788,7 @@
         "location": {
           "column": "10",
           "line": "30",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "setFlashing",
         "origin": "user_include",
@@ -74802,7 +74802,7 @@
         "location": {
           "column": "10",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.h"
         },
         "name": "off",
         "origin": "user_include",
@@ -74821,7 +74821,7 @@
     "location": {
       "column": "15",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -74835,7 +74835,7 @@
     "location": {
       "column": "15",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -74849,7 +74849,7 @@
     "location": {
       "column": "13",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.cpp"
     },
     "name": "Handle",
     "origin": "project_file",
@@ -74863,21 +74863,21 @@
     "location": {
       "column": "29",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:Amber.cpp@284@S@Amber@F@nextstate#@instance",
+    "ID": "c:Amber.cpp@306@S@Amber@F@nextstate#@instance",
     "What": "Variable",
     "defdec": "Def",
     "display": "instance",
     "location": {
       "column": "17",
       "line": "23",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Amber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Amber.cpp"
     },
     "name": "instance",
     "origin": "project_file",
@@ -74891,7 +74891,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\state.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\state.h"
     },
     "name": "STATE_H",
     "origin": "user_include",
@@ -74905,7 +74905,7 @@
     "location": {
       "column": "7",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\state.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\state.h"
     },
     "members": [
       {
@@ -74916,7 +74916,7 @@
         "location": {
           "column": "3",
           "line": "20",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\state.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\state.h"
         },
         "name": "state",
         "origin": "user_include",
@@ -74930,7 +74930,7 @@
         "location": {
           "column": "16",
           "line": "21",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\state.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\state.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -74944,7 +74944,7 @@
         "location": {
           "column": "18",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\state.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\state.h"
         },
         "name": "nextstate",
         "origin": "user_include",
@@ -75049,7 +75049,7 @@
     "location": {
       "column": "33",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -75063,7 +75063,7 @@
     "location": {
       "column": "33",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -75077,7 +75077,7 @@
     "location": {
       "column": "24",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "setRed",
     "origin": "project_file",
@@ -75091,7 +75091,7 @@
     "location": {
       "column": "24",
       "line": "23",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "setRedAmber",
     "origin": "project_file",
@@ -75105,7 +75105,7 @@
     "location": {
       "column": "24",
       "line": "30",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "setAmber",
     "origin": "project_file",
@@ -75119,7 +75119,7 @@
     "location": {
       "column": "24",
       "line": "37",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "setGreen",
     "origin": "project_file",
@@ -75133,21 +75133,21 @@
     "location": {
       "column": "24",
       "line": "44",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "setFlashing",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:HardwareOutput.cpp@794@S@HardwareOutput@F@setFlashing#@i",
+    "ID": "c:HardwareOutput.cpp@841@S@HardwareOutput@F@setFlashing#@i",
     "What": "Variable",
     "defdec": "Def",
     "display": "i",
     "location": {
       "column": "14",
       "line": "48",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "i",
     "origin": "project_file",
@@ -75161,7 +75161,7 @@
     "location": {
       "column": "24",
       "line": "55",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\HardwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\HardwareOutput.cpp"
     },
     "name": "off",
     "origin": "project_file",
@@ -75175,7 +75175,7 @@
     "location": {
       "column": "5",
       "line": "11",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\main.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\main.cpp"
     },
     "name": "main",
     "origin": "project_file",
@@ -75189,7 +75189,7 @@
     "location": {
       "column": "17",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\main.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\main.cpp"
     },
     "name": "myOutputFormat",
     "origin": "project_file",
@@ -75203,7 +75203,7 @@
     "location": {
       "column": "16",
       "line": "19",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\main.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\main.cpp"
     },
     "name": "myTrafficLight",
     "origin": "project_file",
@@ -75217,7 +75217,7 @@
     "location": {
       "column": "15",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -75231,7 +75231,7 @@
     "location": {
       "column": "15",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -75245,7 +75245,7 @@
     "location": {
       "column": "13",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.cpp"
     },
     "name": "Handle",
     "origin": "project_file",
@@ -75259,7 +75259,7 @@
     "location": {
       "column": "29",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
@@ -75273,7 +75273,7 @@
     "location": {
       "column": "17",
       "line": "23",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Green.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Green.cpp"
     },
     "name": "instance",
     "origin": "project_file",
@@ -75287,7 +75287,7 @@
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
     },
     "name": "TRAFFICLIGHT_H",
     "origin": "user_include",
@@ -75301,7 +75301,7 @@
     "location": {
       "column": "7",
       "line": "19",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
     },
     "members": [
       {
@@ -75312,7 +75312,7 @@
         "location": {
           "column": "8",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
         },
         "name": "buttonReset",
         "origin": "user_include",
@@ -75326,7 +75326,7 @@
         "location": {
           "column": "15",
           "line": "23",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
         },
         "name": "button",
         "origin": "user_include",
@@ -75340,7 +75340,7 @@
         "location": {
           "column": "10",
           "line": "24",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
         },
         "name": "mystate",
         "origin": "user_include",
@@ -75354,7 +75354,7 @@
         "location": {
           "column": "17",
           "line": "25",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
         },
         "name": "myOutputFormat",
         "origin": "user_include",
@@ -75368,7 +75368,7 @@
         "location": {
           "column": "3",
           "line": "35",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
         },
         "name": "TrafficLight",
         "origin": "user_include",
@@ -75382,7 +75382,7 @@
         "location": {
           "column": "9",
           "line": "42",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -75396,7 +75396,7 @@
         "location": {
           "column": "9",
           "line": "42",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.h"
         },
         "name": "Handle",
         "origin": "user_include",
@@ -75408,14 +75408,14 @@
     "scope": null
   },
   {
-    "ID": "c:SoftwareOutput.h@63@macro@SOFTWAREOUTPUT_H",
+    "ID": "c:SoftwareOutput.h@66@macro@SOFTWAREOUTPUT_H",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "SOFTWAREOUTPUT_H",
     "location": {
       "column": "9",
       "line": "4",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
     },
     "name": "SOFTWAREOUTPUT_H",
     "origin": "user_include",
@@ -75429,7 +75429,7 @@
     "location": {
       "column": "7",
       "line": "17",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
     },
     "members": [
       {
@@ -75440,7 +75440,7 @@
         "location": {
           "column": "28",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -75454,7 +75454,7 @@
         "location": {
           "column": "28",
           "line": "22",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "Instance",
         "origin": "user_include",
@@ -75468,7 +75468,7 @@
         "location": {
           "column": "5",
           "line": "23",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "SoftwareOutput",
         "origin": "user_include",
@@ -75482,7 +75482,7 @@
         "location": {
           "column": "28",
           "line": "26",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -75496,7 +75496,7 @@
         "location": {
           "column": "28",
           "line": "26",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "GetInstance",
         "origin": "user_include",
@@ -75510,7 +75510,7 @@
         "location": {
           "column": "10",
           "line": "27",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "setRed",
         "origin": "user_include",
@@ -75524,7 +75524,7 @@
         "location": {
           "column": "10",
           "line": "28",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "setRedAmber",
         "origin": "user_include",
@@ -75538,7 +75538,7 @@
         "location": {
           "column": "10",
           "line": "29",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "setAmber",
         "origin": "user_include",
@@ -75552,7 +75552,7 @@
         "location": {
           "column": "10",
           "line": "30",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "setGreen",
         "origin": "user_include",
@@ -75566,7 +75566,7 @@
         "location": {
           "column": "10",
           "line": "31",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "setFlashing",
         "origin": "user_include",
@@ -75580,7 +75580,7 @@
         "location": {
           "column": "10",
           "line": "32",
-          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.h"
+          "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.h"
         },
         "name": "off",
         "origin": "user_include",
@@ -75599,7 +75599,7 @@
     "location": {
       "column": "11",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -75613,7 +75613,7 @@
     "location": {
       "column": "11",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -75627,7 +75627,7 @@
     "location": {
       "column": "11",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.cpp"
     },
     "name": "Handle",
     "origin": "project_file",
@@ -75641,7 +75641,7 @@
     "location": {
       "column": "27",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
@@ -75655,7 +75655,7 @@
     "location": {
       "column": "17",
       "line": "23",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Red.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Red.cpp"
     },
     "name": "instance",
     "origin": "project_file",
@@ -75669,7 +75669,7 @@
     "location": {
       "column": "11",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -75683,7 +75683,7 @@
     "location": {
       "column": "11",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -75697,7 +75697,7 @@
     "location": {
       "column": "11",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.cpp"
     },
     "name": "Handle",
     "origin": "project_file",
@@ -75711,7 +75711,7 @@
     "location": {
       "column": "20",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
@@ -75725,7 +75725,7 @@
     "location": {
       "column": "17",
       "line": "23",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\Off.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\Off.cpp"
     },
     "name": "instance",
     "origin": "project_file",
@@ -75739,7 +75739,7 @@
     "location": {
       "column": "21",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -75753,7 +75753,7 @@
     "location": {
       "column": "21",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -75767,7 +75767,7 @@
     "location": {
       "column": "16",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.cpp"
     },
     "name": "Handle",
     "origin": "project_file",
@@ -75781,7 +75781,7 @@
     "location": {
       "column": "32",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
@@ -75795,7 +75795,7 @@
     "location": {
       "column": "17",
       "line": "23",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\RedAmber.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\RedAmber.cpp"
     },
     "name": "instance",
     "origin": "project_file",
@@ -75809,7 +75809,7 @@
     "location": {
       "column": "33",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.cpp"
     },
     "name": "Instance",
     "origin": "project_file",
@@ -75823,7 +75823,7 @@
     "location": {
       "column": "33",
       "line": "7",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.cpp"
     },
     "name": "GetInstance",
     "origin": "project_file",
@@ -75837,7 +75837,7 @@
     "location": {
       "column": "24",
       "line": "16",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.cpp"
     },
     "name": "setRed",
     "origin": "project_file",
@@ -75851,7 +75851,7 @@
     "location": {
       "column": "24",
       "line": "21",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.cpp"
     },
     "name": "setRedAmber",
     "origin": "project_file",
@@ -75865,7 +75865,7 @@
     "location": {
       "column": "24",
       "line": "26",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.cpp"
     },
     "name": "setAmber",
     "origin": "project_file",
@@ -75879,7 +75879,7 @@
     "location": {
       "column": "24",
       "line": "31",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.cpp"
     },
     "name": "setGreen",
     "origin": "project_file",
@@ -75893,7 +75893,7 @@
     "location": {
       "column": "24",
       "line": "36",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.cpp"
     },
     "name": "setFlashing",
     "origin": "project_file",
@@ -75907,7 +75907,7 @@
     "location": {
       "column": "24",
       "line": "45",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\SoftwareOutput.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\SoftwareOutput.cpp"
     },
     "name": "off",
     "origin": "project_file",
@@ -75921,7 +75921,7 @@
     "location": {
       "column": "21",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\TrafficLight.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\TrafficLight.cpp"
     },
     "name": "Handle",
     "origin": "project_file",
@@ -75935,7 +75935,7 @@
     "location": {
       "column": "19",
       "line": "9",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "getPinB3",
     "origin": "project_file",
@@ -75949,7 +75949,7 @@
     "location": {
       "column": "19",
       "line": "20",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "getPinB5",
     "origin": "project_file",
@@ -75963,7 +75963,7 @@
     "location": {
       "column": "20",
       "line": "33",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "getButton",
     "origin": "project_file",
@@ -75977,7 +75977,7 @@
     "location": {
       "column": "8",
       "line": "38",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "PB3",
     "origin": "project_file",
@@ -75991,7 +75991,7 @@
     "location": {
       "column": "8",
       "line": "39",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "PB5",
     "origin": "project_file",
@@ -76005,7 +76005,7 @@
     "location": {
       "column": "8",
       "line": "40",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "state",
     "origin": "project_file",
@@ -76019,7 +76019,7 @@
     "location": {
       "column": "8",
       "line": "41",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
@@ -76033,7 +76033,7 @@
     "location": {
       "column": "13",
       "line": "47",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "i",
     "origin": "project_file",
@@ -76047,7 +76047,7 @@
     "location": {
       "column": "10",
       "line": "57",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "state",
     "origin": "project_file",
@@ -76061,7 +76061,7 @@
     "location": {
       "column": "13",
       "line": "59",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "i",
     "origin": "project_file",
@@ -76075,7 +76075,7 @@
     "location": {
       "column": "10",
       "line": "61",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserButtons.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserButtons.cpp"
     },
     "name": "nextstate",
     "origin": "project_file",
@@ -76089,7 +76089,7 @@
     "location": {
       "column": "11",
       "line": "5",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.cpp"
     },
     "name": "UserLEDs",
     "origin": "project_file",
@@ -76103,7 +76103,7 @@
     "location": {
       "column": "16",
       "line": "14",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.cpp"
     },
     "name": "redLED",
     "origin": "project_file",
@@ -76117,7 +76117,7 @@
     "location": {
       "column": "16",
       "line": "30",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.cpp"
     },
     "name": "amberLED",
     "origin": "project_file",
@@ -76131,7 +76131,7 @@
     "location": {
       "column": "16",
       "line": "44",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.cpp"
     },
     "name": "greenLED",
     "origin": "project_file",
@@ -76145,7 +76145,7 @@
     "location": {
       "column": "16",
       "line": "58",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.cpp"
     },
     "name": "amberLEDToggle",
     "origin": "project_file",
@@ -76159,7 +76159,7 @@
     "location": {
       "column": "16",
       "line": "68",
-      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControlV4\\UserLEDs.cpp"
+      "path": "C:\\Users\\nikla\\OneDrive\\Desktop\\TrafficLightControl\\Sven\\TrafficLightControlV6\\TrafficLightControlV4\\UserLEDs.cpp"
     },
     "name": "allLEDs",
     "origin": "project_file",
