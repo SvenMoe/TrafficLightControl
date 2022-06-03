@@ -8,51 +8,41 @@ HardwareOutput *HardwareOutput::GetInstance()
 {
   if (Instance == NULL)
   {
-    Instance = new HardwareOutput();
+    Instance = HardwareOutput::GetInstance();
   }
   return Instance;
 }
 
-inline HardwareOutput::setRed()
+inline void HardwareOutput::setRed()
 {
     myLED.redLED(1);
     myLED.amberLED(0);
     myLED.greenLED(0);
 }
 
-inline HardwareOutput::setRedAmber()
+inline void HardwareOutput::setRedAmber()
 {
     myLED.redLED(1);
     myLED.amberLED(1);
     myLED.greenLED(0);
 }
 
-inline HardwareOutput::setAmber()
+inline void HardwareOutput::setAmber()
 {
     myLED.redLED(0);
     myLED.amberLED(1);
     myLED.greenLED(0);
 }
 
-inline HardwareOutput::setGreen()
+inline void HardwareOutput::setGreen()
 {
     myLED.redLED(0);
     myLED.amberLED(0);
     myLED.greenLED(1);
 }
 
-inline HardwareOutput::setFlashing()
-{
-    myLightControl = Off::GetInstance();
-    myLightControl->Handle();
-    for (int i = 0; i < 5000; i++)
-    {
-    }
-    myLightControl = Amber::GetInstance();
-    myLightControl->Handle();
-}
 
-inline HardwareOutput::off()
+inline void HardwareOutput::off()
 {
     myLED.redLED(0);
     myLED.amberLED(0);

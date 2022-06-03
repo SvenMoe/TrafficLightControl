@@ -1,238 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <fileVersion>5</fileVersion>
-    <fileChecksum>1711119319</fileChecksum>
+    <fileChecksum>4245076084</fileChecksum>
     <configuration>
         <name>Debug</name>
         <outputs>
             <file>$PROJ_DIR$\Red.cpp</file>
-            <file>$PROJ_DIR$\Off.h</file>
-            <file>$PROJ_DIR$\LightControl.h</file>
-            <file>$PROJ_DIR$\LightControl.cpp</file>
+            <file>$PROJ_DIR$\Red.h</file>
             <file>$PROJ_DIR$\main.cpp</file>
-            <file>$PROJ_DIR$\Off.cpp</file>
-            <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
-            <file>$PROJ_DIR$\Debug\List\TrafficLightControl.map</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\iostream</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xstddef</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\iosfwd</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\clocale</file>
-            <file>$TOOLKIT_DIR$\inc\c\xlocale_lconv.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\cwchar</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\ostream</file>
-            <file>$PROJ_DIR$\RedYellow.cpp</file>
-            <file>$TOOLKIT_DIR$\inc\c\time.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\UserButtons.o</file>
-            <file>$PROJ_DIR$\Debug\Obj\LightControl.o</file>
-            <file>$PROJ_DIR$\Debug\Obj\Yellow.o</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\GPIO.o</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\system_error</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xiosbase</file>
-            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\ios</file>
-            <file>$PROJ_DIR$\Aus.h</file>
-            <file>$PROJ_DIR$\Debug\Exe\TrafficLightControl.out</file>
-            <file>$PROJ_DIR$\Debug\Obj\Aus.o</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\istream</file>
-            <file>$PROJ_DIR$\Debug\Obj\Green.o</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\errno.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\exception</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
-            <file>$TOOLKIT_DIR$\config\linker\ST\stm32f401xE.icf</file>
-            <file>$TOOLKIT_DIR$\inc\c\xmemnew</file>
+            <file>$PROJ_DIR$\UserButtons.cpp</file>
+            <file>$PROJ_DIR$\UserLEDs.h</file>
+            <file>$PROJ_DIR$\flashing.cpp</file>
+            <file>$PROJ_DIR$\RedAmber.h</file>
+            <file>$PROJ_DIR$\HardwareOutput.h</file>
             <file>$PROJ_DIR$\TrafficLight.h</file>
+            <file>$PROJ_DIR$\Green.h</file>
+            <file>$PROJ_DIR$\Off.cpp</file>
+            <file>$PROJ_DIR$\RedAmber.cpp</file>
+            <file>$PROJ_DIR$\GPIO.h</file>
+            <file>$PROJ_DIR$\OutputFormat.h</file>
+            <file>$PROJ_DIR$\TrafficLight.cpp</file>
+            <file>$PROJ_DIR$\UserLEDs.cpp</file>
             <file>$TOOLKIT_DIR$\inc\cpp\cstdlib</file>
-            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
-            <file>$PROJ_DIR$\Debug\Obj\Off.o</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
-            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\cstring</file>
-            <file>$PROJ_DIR$\Debug\Obj\RedAmber.o</file>
-            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xutility</file>
+            <file>$PROJ_DIR$\Amber.h</file>
             <file>$TOOLKIT_DIR$\inc\cpp\cstddef</file>
-            <file>$PROJ_DIR$\RedYellow.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\UserLEDs.o</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xlocnum</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\stdexcept</file>
-            <file>$TOOLKIT_DIR$\inc\c\float.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\cstdint</file>
+            <file>$PROJ_DIR$\Debug\Obj\Off.o</file>
+            <file>$PROJ_DIR$\flashing.h</file>
+            <file>$PROJ_DIR$\Amber.cpp</file>
+            <file>$PROJ_DIR$\regtypes.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\exception</file>
+            <file>$PROJ_DIR$\LightControl.cpp</file>
+            <file>$PROJ_DIR$\OutputFormat.cpp</file>
             <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\streambuf</file>
-            <file>$PROJ_DIR$\Debug\Obj\RedYellow.o</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\cstdint</file>
             <file>$TOOLKIT_DIR$\inc\cpp\cfloat</file>
-            <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
             <file>$TOOLKIT_DIR$\inc\cpp\ctime</file>
             <file>$TOOLKIT_DIR$\inc\cpp\limits</file>
-            <file>$PROJ_DIR$\Debug\Obj\TrafficLight.o</file>
-            <file>$PROJ_DIR$\Aus.cpp</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\initializer_list</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xtr1common</file>
             <file>$TOOLKIT_DIR$\inc\cpp\xlocale</file>
-            <file>$PROJ_DIR$\Debug\Obj\active.o</file>
             <file>$TOOLKIT_DIR$\inc\cpp\cmath</file>
+            <file>$PROJ_DIR$\SoftwareOutput.h</file>
             <file>$TOOLKIT_DIR$\inc\c\time64.h</file>
+            <file>$PROJ_DIR$\Off.h</file>
             <file>$TOOLKIT_DIR$\inc\cpp\cwctype</file>
+            <file>$PROJ_DIR$\GPIO.cpp</file>
+            <file>$PROJ_DIR$\state.cpp</file>
+            <file>$PROJ_DIR$\UserButtons.h</file>
+            <file>$PROJ_DIR$\state.h</file>
+            <file>$PROJ_DIR$\Green.cpp</file>
+            <file>$PROJ_DIR$\LightControl.h</file>
+            <file>$PROJ_DIR$\RedYellow.h</file>
+            <file>$PROJ_DIR$\SoftwareOutput.cpp</file>
+            <file>$TOOLKIT_DIR$\inc\c\float.h</file>
+            <file>$PROJ_DIR$\active.cpp</file>
+            <file>$PROJ_DIR$\HardwareOutput.cpp</file>
+            <file>$PROJ_DIR$\active.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\RedYellow.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\xmemnew</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\cstring</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\RedAmber.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\UserLEDs.o</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xlocnum</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xutility</file>
+            <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xstddef</file>
+            <file>$PROJ_DIR$\Debug\Obj\Green.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\errno.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\utility</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LightControl.o</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\cstdio</file>
+            <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\xatomic.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\TrafficLightControl.out</file>
+            <file>$PROJ_DIR$\RedYellow.cpp</file>
+            <file>$PROJ_DIR$\Debug\List\TrafficLightControl.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\Yellow.o</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\ios</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\iostream</file>
+            <file>$PROJ_DIR$\Debug\Obj\GPIO.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\UserButtons.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\xlocale_lconv.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\iosfwd</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\cwchar</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\ostream</file>
+            <file>$TOOLKIT_DIR$\lib\dlpprt7M_tl_nc.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
             <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xstring</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\system_error</file>
+            <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Aus.o</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\istream</file>
+            <file>$TOOLKIT_DIR$\lib\dlpp7M_tl_nc.a</file>
+            <file>$PROJ_DIR$\Aus.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\clocale</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xiosbase</file>
+            <file>$PROJ_DIR$\Debug\Obj\state.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\xctype.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\cerrno</file>
+            <file>$PROJ_DIR$\Debug\Obj\OutputFormat.o</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\new</file>
             <file>$PROJ_DIR$\Debug\Obj\Red.o</file>
             <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\cstdio</file>
-            <file>$TOOLKIT_DIR$\inc\c\xatomic.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xlocinfo</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xmemory0</file>
-            <file>$PROJ_DIR$\state.cpp</file>
-            <file>$PROJ_DIR$\UserLEDs.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\locale.h</file>
-            <file>$PROJ_DIR$\Red.h</file>
-            <file>$TOOLKIT_DIR$\lib\dlpprt7M_tl_nc.a</file>
-            <file>$PROJ_DIR$\UserButtons.cpp</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xstring</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\climits</file>
-            <file>$PROJ_DIR$\regtypes.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\wctype.h</file>
-            <file>$PROJ_DIR$\UserLEDs.cpp</file>
-            <file>$TOOLKIT_DIR$\inc\c\xstddef0</file>
-            <file>$PROJ_DIR$\TrafficLight.cpp</file>
-            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
-            <file>$PROJ_DIR$\Yellow.cpp</file>
-            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\type_traits</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\cctype</file>
-            <file>$PROJ_DIR$\RedAmber.cpp</file>
-            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
-            <file>$TOOLKIT_DIR$\lib\dlpp7M_tl_nc.a</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\new</file>
-            <file>$PROJ_DIR$\Debug\Obj\state.o</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\utility</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\typeinfo</file>
             <file>$PROJ_DIR$\Debug\Obj\flashing.o</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
-            <file>$PROJ_DIR$\Yellow.h</file>
-            <file>$PROJ_DIR$\state.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\xxexception</file>
-            <file>$TOOLKIT_DIR$\inc\c\xctype.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\typeinfo</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\cctype</file>
+            <file>$TOOLKIT_DIR$\inc\c\wctype.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xlocinfo</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\climits</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xmemory0</file>
+            <file>$TOOLKIT_DIR$\inc\c\xstddef0</file>
+            <file>$TOOLKIT_DIR$\inc\c\locale.h</file>
             <file>$PROJ_DIR$\Debug\Obj\Amber.o</file>
-            <file>$PROJ_DIR$\RedAmber.h</file>
-            <file>$PROJ_DIR$\UserButtons.h</file>
-            <file>$TOOLKIT_DIR$\inc\cpp\cerrno</file>
-            <file>$PROJ_DIR$\Amber.cpp</file>
-            <file>$PROJ_DIR$\flashing.cpp</file>
-            <file>$PROJ_DIR$\flashing.h</file>
-            <file>$PROJ_DIR$\GPIO.h</file>
-            <file>$PROJ_DIR$\Green.cpp</file>
-            <file>$PROJ_DIR$\Green.h</file>
-            <file>$PROJ_DIR$\active.cpp</file>
-            <file>$PROJ_DIR$\active.h</file>
-            <file>$PROJ_DIR$\Amber.h</file>
-            <file>$PROJ_DIR$\GPIO.cpp</file>
-            <file>$PROJ_DIR$\HardwareOutput.h</file>
-            <file>$PROJ_DIR$\OutputFormat.h</file>
-            <file>$PROJ_DIR$\SoftwareOutput.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\OutputFormat.o</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xxexception</file>
             <file>$PROJ_DIR$\Debug\Obj\HardwareOutput.o</file>
             <file>$PROJ_DIR$\Debug\Obj\SoftwareOutput.o</file>
-            <file>$PROJ_DIR$\SoftwareOutput.cpp</file>
-            <file>$PROJ_DIR$\OutputFormat.cpp</file>
-            <file>$PROJ_DIR$\HardwareOutput.cpp</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Yellow.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\type_traits</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\config\linker\ST\stm32f401xE.icf</file>
+            <file>$PROJ_DIR$\Yellow.cpp</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\xtr1common</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\streambuf</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Aus.cpp</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\initializer_list</file>
+            <file>$TOOLKIT_DIR$\inc\cpp\stdexcept</file>
+            <file>$PROJ_DIR$\Debug\Obj\active.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\TrafficLight.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
         </outputs>
         <file>
             <name>$PROJ_DIR$\Red.cpp</name>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 87 92 2 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 116 124 127 85 122 130</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\LightControl.cpp</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 19</file>
+                    <file> 104</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 2 92 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35</file>
+                    <file> 1 22 42 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 6 9 17 4 12 13</file>
                 </tool>
             </inputs>
         </file>
         <file>
             <name>$PROJ_DIR$\main.cpp</name>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 41 92 117 122 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 112 121 2 130 85 1 127 87 116 124 126 129 131</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\Off.cpp</name>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 1 92 85 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 122 2 130</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\RedYellow.cpp</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 63</file>
+                    <file> 51</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 54 92 2 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 124 111 87 85 122</file>
+                    <file> 8 22 39 12 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 40 20 42 13 4 35 17 1 6 9 48 7 33</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\Debug\Exe\TrafficLightControl.out</name>
-            <outputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 7</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 39 73 115 109 23 33 19 47 44 78 50 106 68 18 55 43 103 104 88 61 97</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\Aus.cpp</name>
+            <name>$PROJ_DIR$\UserButtons.cpp</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 31</file>
+                    <file> 76</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 29 92 85 122 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 2</file>
+                    <file> 39 22 12 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\state.cpp</name>
+            <name>$PROJ_DIR$\flashing.cpp</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
@@ -242,22 +200,52 @@
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 112 92 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35</file>
+                    <file> 20 22 40 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 42 13 4 12 35 17 1 6 9 48 39 7</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\UserButtons.cpp</name>
+            <name>$PROJ_DIR$\Off.cpp</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 18</file>
+                    <file> 19</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 117 92 122 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35</file>
+                    <file> 35 22 4 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 12 42 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RedAmber.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 6 22 42 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 9 17 1 4 12 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\TrafficLight.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 135</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 8 22 39 12 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 40 20 42 13 4 35 17 1 6 9 48 7</file>
                 </tool>
             </inputs>
         </file>
@@ -266,127 +254,43 @@
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 55</file>
+                    <file> 56</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 85 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 122 92</file>
+                    <file> 4 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 12 22</file>
                 </tool>
             </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\TrafficLight.cpp</name>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 41 92 117 122 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 112 121 2 130 85 1 127 87 116 124 126 129</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\Yellow.cpp</name>
-            <outputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 20</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 111 92 2 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 87 116 124 85 122</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\RedAmber.cpp</name>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 116 92 2 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 124 127 87 85 122 130</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>[ROOT_NODE]</name>
-            <outputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 30 7</file>
-                </tool>
-            </outputs>
         </file>
         <file>
             <name>$PROJ_DIR$\Amber.cpp</name>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 127 92 2 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 87 116 124 85 122 130</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\flashing.cpp</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 109</file>
+                    <file> 115</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 121 92 112 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 2 130 85 122 1 127 87 116 124 126 117 129</file>
+                    <file> 17 22 42 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 1 6 9 4 12 13</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\Green.cpp</name>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 124 92 2 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 127 87 116 85 122 130</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\active.cpp</name>
+            <name>$PROJ_DIR$\LightControl.cpp</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 73</file>
+                    <file> 65</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 126 92 112 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 121 2 130 85 122 1 127 87 116 124 117 129</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\GPIO.cpp</name>
-            <outputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 23</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 122 92 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\SoftwareOutput.cpp</name>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 131 92 130 85 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 122</file>
+                    <file> 42 22 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62</file>
                 </tool>
             </inputs>
         </file>
@@ -395,28 +299,246 @@
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 132</file>
+                    <file> 102</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 130 92 85 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 122</file>
+                    <file> 13 22 4 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\GPIO.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 12 22 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\state.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40 22 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Green.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9 22 42 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 17 1 6 4 12 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\SoftwareOutput.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 118</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 33 22 13 4 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\active.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 133</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48 22 40 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 20 42 13 4 12 35 17 1 6 9 39 7</file>
                 </tool>
             </inputs>
         </file>
         <file>
             <name>$PROJ_DIR$\HardwareOutput.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117</file>
+                </tool>
+            </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 129 92 130 85 8 32 15 28 57 91 36 99 48 79 77 56 74 51 110 65 71 42 21 22 38 62 25 72 49 46 45 11 86 114 12 76 93 58 37 9 95 53 26 70 113 100 90 83 60 14 67 64 59 13 27 105 40 52 107 10 80 34 81 108 82 101 6 66 17 75 24 118 35 122</file>
+                    <file> 7 22 13 4 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\TrafficLightControl.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 123 133 115 106 75 61 65 51 19 104 54 97 135 76 56 127 122 92 83 26 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\RedYellow.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 22 42 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 9 120 1 4 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 71 69</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Yellow.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 120 22 42 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 1 6 9 4 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Aus.cpp</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 93 22 4 12 74 91 82 73 57 111 59 119 129 105 85 136 32 55 98 137 125 16 64 94 130 126 96 31 52 134 53 95 114 99 78 36 109 132 23 60 113 18 86 131 116 121 87 112 27 84 30 28 45 80 89 103 50 58 63 79 66 81 68 107 110 108 67 29 77 34 88 101 62 42</file>
                 </tool>
             </inputs>
         </file>
         <forcedrebuild>
             <name>[MULTI_TOOL]</name>
             <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Red.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\main.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\UserButtons.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\flashing.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Off.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\RedAmber.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\TrafficLight.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\UserLEDs.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Amber.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\LightControl.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\OutputFormat.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\GPIO.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\state.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Green.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\SoftwareOutput.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\active.cpp</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\HardwareOutput.cpp</name>
+            <tool>ICCARM</tool>
         </forcedrebuild>
         <forcedrebuild>
             <name>[REBUILD_ALL]</name>

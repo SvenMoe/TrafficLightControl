@@ -5,6 +5,7 @@
 
 #include "regtypes.h"
 #include "OutputFormat.h"
+#include "UserLEDs.h"
 //#include "flashing.h"
 //#include "active.h"
 #include <iostream>
@@ -19,7 +20,9 @@ class HardwareOutput : public OutputFormat
 
 private:
     static HardwareOutput *Instance;
+    UserLEDs myLED;
     HardwareOutput(){}
+    
 
 public:
     static HardwareOutput *GetInstance();
@@ -27,7 +30,6 @@ public:
     void setRedAmber() = 0;
     void setAmber() = 0;
     void setGreen() = 0;
-    void setFlashing() = 0;
     void off() = 0;
 
 };

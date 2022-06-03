@@ -8,41 +8,41 @@ SoftwareOutput *SoftwareOutput::GetInstance()
 {
   if (Instance == NULL)
   {
-    Instance = new SoftwareOutput();
+    Instance = SoftwareOutput::GetInstance();
   }
   return Instance;
 }
 
-inline SoftwareOutput::setRed()
+inline void SoftwareOutput::setRed()
 {
     cout << "RED led on!" << endl;
 }
 
-inline SoftwareOutput::setRedAmber()
+inline void SoftwareOutput::setRedAmber()
 {
     cout << "REDAMBER led on!" << endl;
 }
 
-inline SoftwareOutput::setAmber()
+inline void SoftwareOutput::setAmber()
 {
     cout << "AMBER led on!" << endl;
 }
 
-inline SoftwareOutput::setGreen()
+inline void SoftwareOutput::setGreen()
 {
     cout << "GREEN led on!" << endl;
 }
 
-inline SoftwareOutput::setFlashing()
+inline void SoftwareOutput::setFlashing()
 {
-    for(i=0; i<1000000; i++){}
+    for(int i=0; i<1000000; i++){}
     cout << "AMBER led on!" << endl;
-    for(i=0; i<1000000; i++){}
+    for(int i=0; i<1000000; i++){}
     cout << "AMBER led off!" << endl;
 
 }
 
-inline SoftwareOutput::off()
+inline void SoftwareOutput::off()
 {
     cout << "All leds off!" << endl;
 }
