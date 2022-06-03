@@ -32,7 +32,7 @@ public:
    * @param  "state *mystate" gets the current state of the Traffic Light.
    * @return None
    */
-  TrafficLight(state *mystate = active::GetInstance(), OutputFormat *myOutputFormat = new HardwareOutput) : mystate(mystate), myOutputFormat(myOutputFormat) {}
+  TrafficLight(state *mystate = active::GetInstance(*myOutputFormat), OutputFormat *myOutputFormat = new HardwareOutput) : mystate(mystate), myOutputFormat(myOutputFormat) {}
 
   /**
    * Handle to switch between active and flashing state.

@@ -15,7 +15,6 @@ flashing *flashing::GetInstance()
 
 void flashing::Handle()
 {
-
 }
 
 inline state *flashing::nextstate()

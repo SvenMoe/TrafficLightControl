@@ -7,6 +7,7 @@
 #include "state.h"
 #include "flashing.h"
 #include "UserButtons.h"
+#include "HardwareOutput.h"
 #include <iostream>
 
 using namespace std;
@@ -23,6 +24,7 @@ private:
   bool buttonReset = true;
   UserButtons button;
   LightControl *myLightControl;
+  OutputFormat *myOutputFormatActive;
 
   /**
    * Singleton instance of "active"-class.
@@ -44,7 +46,7 @@ public:
    * @param  None
    * @return None
    */
-  static active *GetInstance();
+  static active *GetInstance(OutputFormat *myOutputFormat = new HardwareOutput);
 
   /**
    * Handle of concrete state "active".
