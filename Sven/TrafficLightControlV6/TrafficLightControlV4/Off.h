@@ -4,7 +4,6 @@
 #define OFF_H
 
 #include "regtypes.h"
-#include "UserLEDs.h"
 #include "LightControl.h"
 #include "OutputFormat.h"
 #include "TrafficLight.h"
@@ -24,7 +23,7 @@ using namespace std;
 class Off : public LightControl
 {
 private:
-  UserLEDs myLED;
+
   static OutputFormat *myOutputFormatOff;
   /**
    * Singleton instance of "Off"-class.

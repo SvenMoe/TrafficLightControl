@@ -6,7 +6,6 @@
 #include "regtypes.h"
 #include "LightControl.h"
 #include "Green.h"
-#include "UserLEDs.h"
 #include "OutputFormat.h"
 #include <iostream>
 
@@ -25,7 +24,6 @@ class RedAmber : public LightControl
 {
 private:
   static OutputFormat *myOutputFormatRedAmber;
-  UserLEDs myLED;
 
   /**
    * Singleton instance of "RedAmber"-class.

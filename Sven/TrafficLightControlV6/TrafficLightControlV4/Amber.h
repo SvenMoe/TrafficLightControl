@@ -6,7 +6,6 @@
 #include "regtypes.h"
 #include "LightControl.h"
 #include "Red.h"
-#include "UserLEDs.h"
 #include "OutputFormat.h"
 #include <iostream>
 
@@ -24,7 +23,6 @@ using namespace std;
 class Amber : public LightControl
 {
 private:
-  UserLEDs myLED;
   static OutputFormat *myOutputFormatAmber;
 
   /**
