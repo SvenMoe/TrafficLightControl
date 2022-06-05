@@ -5,17 +5,17 @@
 UINT8 TrafficLight::Handle()
 {
 
-  if (button.getButton() == 'O')
+  if (myInputFormat->getButton() == 'O')
   {
     buttonReset = true;
   }
-  if (button.getButton() == 'B' && buttonReset == true)
+  if (myInputFormat->getButton() == 'B' && buttonReset == true)
   {
     mystate = mystate->nextstate();
     buttonReset = false;
   }
 
-  if (button.getButton() == 'X')
+  if (myInputFormat->getButton() == 'X')
   {
     return 0;
   }

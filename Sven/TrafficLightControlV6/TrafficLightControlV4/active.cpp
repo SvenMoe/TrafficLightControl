@@ -5,10 +5,12 @@
 active *active::Instance = NULL;
 
 OutputFormat* active::myOutputFormatActive = NULL;
+InputFormat* active::myInputFormatActive = NULL;
 
-active *active::GetInstance(OutputFormat *myOutputFormat)
+active *active::GetInstance(OutputFormat *myOutputFormat, InputFormat *myInputFormat)
 {
   myOutputFormatActive = myOutputFormat;
+  myInputFormatActive = myInputFormat;
   if (Instance == NULL)
   {
     Instance = new active();
@@ -20,11 +22,11 @@ active *active::GetInstance(OutputFormat *myOutputFormat)
 void active::Handle()
 {
 
-  if (button.getButton() == 'O')
+  if (myInputFormatActive->getButton() == 'O')
   {
     buttonReset = true;
   }
-  if (button.getButton() == 'F' && buttonReset == true)
+  if (myInputFormatActive->getButton() == 'F' && buttonReset == true)
   {
     myLightControl = myLightControl->nextstate();
     buttonReset = false;
@@ -36,6 +38,6 @@ void active::Handle()
 inline state *active::nextstate()
 {
   cout << "mode: flashing" << endl;
-  state *instance = flashing::GetInstance(myOutputFormatActive);
+  state *instance = flashing::GetInstance(myOutputFormatActive, myInputFormatActive);
   return instance;
 }

@@ -6,13 +6,14 @@
 #include "regtypes.h"
 #include "state.h"
 #include "flashing.h"
-#include "UserButtons.h"
 //#include "HardwareOutput.h"
 #include "Red.h"
 #include <iostream>
 
 
-
+#include "InputFormat.h"
+#include "SoftwareInput.h"
+#include "HardwareInput.h"
 
 using namespace std;
 
@@ -26,9 +27,9 @@ class active : public state
 {
 private:
   bool buttonReset = true;
-  UserButtons button;
   LightControl *myLightControl;
   static OutputFormat *myOutputFormatActive;
+  static InputFormat *myInputFormatActive;
 
   /**
    * Singleton instance of "active"-class.
@@ -50,7 +51,7 @@ public:
    * @param  None
    * @return None
    */
-  static active *GetInstance(OutputFormat *myOutputFormat);
+  static active *GetInstance(OutputFormat *myOutputFormat, InputFormat *myInputFormat);
 
   /**
    * Handle of concrete state "active".

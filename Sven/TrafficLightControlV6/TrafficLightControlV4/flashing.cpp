@@ -5,10 +5,12 @@
 flashing *flashing::Instance = NULL;
 
 OutputFormat* flashing::myOutputFormatFlashing = NULL;
+InputFormat* flashing::myInputFormatFlashing = NULL;
 
-flashing *flashing::GetInstance(OutputFormat *myOutputFormat)
+flashing *flashing::GetInstance(OutputFormat *myOutputFormat, InputFormat *myInputFormat)
 {
   myOutputFormatFlashing = myOutputFormat;
+  myInputFormatFlashing = myInputFormat;
   if (Instance == NULL)
   {
     Instance = new flashing();
@@ -32,6 +34,6 @@ void flashing::Handle()
 inline state *flashing::nextstate()
 {
   cout << "mode: active" << endl;
-  state *instance = active::GetInstance(myOutputFormatFlashing);
+  state *instance = active::GetInstance(myOutputFormatFlashing, myInputFormatFlashing);
   return instance;
 }

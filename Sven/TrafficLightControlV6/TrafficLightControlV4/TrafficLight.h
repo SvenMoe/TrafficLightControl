@@ -4,7 +4,7 @@
 #define TRAFFICLIGHT_H
 
 #include "regtypes.h"
-#include "UserButtons.h"
+#include "InputFormat.h"
 #include "state.h"
 #include "flashing.h"
 #include "active.h"
@@ -20,8 +20,8 @@ class TrafficLight
 {
 private:
   bool buttonReset = true;
-  UserButtons button;
   OutputFormat *myOutputFormat;
+  InputFormat *myInputFormat;
   state *mystate;
 
   // flashing myflashing;
@@ -33,7 +33,7 @@ public:
    * @param  "state *mystate" gets the current state of the Traffic Light.
    * @return None
    */
-  TrafficLight(state *mystate, OutputFormat *myOutputFormat) : mystate(mystate), myOutputFormat(myOutputFormat) {}
+  TrafficLight(state *mystate, OutputFormat *myOutputFormat, InputFormat *myInputFormat) : mystate(mystate), myOutputFormat(myOutputFormat), myInputFormat(myInputFormat) {}
 
   /**
    * Handle to switch between active and flashing state.

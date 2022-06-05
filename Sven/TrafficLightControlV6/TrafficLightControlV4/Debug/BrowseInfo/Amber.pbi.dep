@@ -1,8 +1,8 @@
-C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\Debug\BrowseInfo\Amber.pbi: \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\Amber.cpp \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\Amber.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\regtypes.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\LightControl.h \
+C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\Debug\BrowseInfo\Amber.pbi: \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\Amber.cpp \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\Amber.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\regtypes.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\LightControl.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\iostream \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\istream \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\ostream \
@@ -72,11 +72,11 @@ C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_Stand
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\system_error \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\cpp\cerrno \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\errno.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\Red.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\RedAmber.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\Green.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\UserLEDs.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\GPIO.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\OutputFormat.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\HardwareOutput.h \
-  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_StandNiklas\SoftwareOutput.h
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\Red.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\RedAmber.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\Green.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\UserLEDs.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\GPIO.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\OutputFormat.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\HardwareOutput.h \
+  C:\Users\svenm\Documents\Studium\6.Semester\Embedded\ Systems\TrafficLight_meinNeusterStand_2\SoftwareOutput.h

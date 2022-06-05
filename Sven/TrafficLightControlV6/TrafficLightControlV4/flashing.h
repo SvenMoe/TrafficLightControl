@@ -11,6 +11,11 @@
 #include "Amber.h"
 #include "active.h"
 #include <iostream>
+
+#include "InputFormat.h"
+#include "SoftwareInput.h"
+#include "HardwareInput.h"
+
 using namespace std;
 
 /**
@@ -24,7 +29,7 @@ class flashing : public state
 private:
   LightControl *myLightControl = nullptr;
   static OutputFormat *myOutputFormatFlashing;
-
+  static InputFormat *myInputFormatFlashing;
   /**
    * Singleton instance of "flashing"-class.
    * @param  None
@@ -45,7 +50,7 @@ public:
    * @param  None
    * @return None
    */
-  static flashing *GetInstance(OutputFormat *myOutputFormat);
+  static flashing *GetInstance(OutputFormat *myOutputFormat, InputFormat *myInputFormat);
 
 
   /**

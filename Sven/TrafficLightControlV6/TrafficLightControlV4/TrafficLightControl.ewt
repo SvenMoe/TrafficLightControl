@@ -2876,10 +2876,22 @@
         <name>$PROJ_DIR$\Green.h</name>
     </file>
     <file>
+        <name>$PROJ_DIR$\HardwareInput.cpp</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\HardwareInput.h</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\HardwareOutput.cpp</name>
     </file>
     <file>
         <name>$PROJ_DIR$\HardwareOutput.h</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\InputFormat.cpp</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\InputFormat.h</name>
     </file>
     <file>
         <name>$PROJ_DIR$\LightControl.cpp</name>
@@ -2916,6 +2928,12 @@
     </file>
     <file>
         <name>$PROJ_DIR$\regtypes.h</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\SoftwareInput.cpp</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\SoftwareInput.h</name>
     </file>
     <file>
         <name>$PROJ_DIR$\SoftwareOutput.cpp</name>
