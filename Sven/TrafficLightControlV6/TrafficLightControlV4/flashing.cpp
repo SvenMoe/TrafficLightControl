@@ -24,7 +24,7 @@ void flashing::Handle()
 {
   myLightControl = Off::GetInstance(myOutputFormatFlashing);
   myLightControl->Handle();
-  for(int i = 0; i < 500; i++)
+  for(UINT32 i = 0; i < 500; i++)
   {
   }
   myLightControl = Amber::GetInstance(myOutputFormatFlashing);

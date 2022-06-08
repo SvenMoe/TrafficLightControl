@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['lightcontrol_0',['LightControl',['../class_light_control.html',1,'']]],
-  ['lightcontrol_2ecpp_1',['LightControl.cpp',['../_light_control_8cpp.html',1,'']]],
-  ['lightcontrol_2eh_2',['LightControl.h',['../_light_control_8h.html',1,'']]]
+  ['inputformat_0',['InputFormat',['../class_input_format.html',1,'InputFormat'],['../class_input_format.html#a7c03651c7ea40b70736f70953a7f0569',1,'InputFormat::InputFormat()']]],
+  ['inputformat_2ecpp_1',['InputFormat.cpp',['../_input_format_8cpp.html',1,'']]],
+  ['inputformat_2eh_2',['InputFormat.h',['../_input_format_8h.html',1,'']]]
 ];

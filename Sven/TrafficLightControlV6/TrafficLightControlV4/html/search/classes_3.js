@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['lightcontrol_0',['LightControl',['../class_light_control.html',1,'']]]
+  ['hardwareinput_0',['HardwareInput',['../class_hardware_input.html',1,'']]],
+  ['hardwareoutput_1',['HardwareOutput',['../class_hardware_output.html',1,'']]]
 ];

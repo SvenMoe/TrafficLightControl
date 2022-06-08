@@ -1,0 +1,43 @@
+\hypertarget{_hardware_output_8h_source}{}\doxysection{Hardware\+Output.\+h}
+\mbox{\hyperlink{_hardware_output_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#ifndef HARDWAREOUTPUT\_H}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#define HARDWAREOUTPUT\_H}}
+\DoxyCodeLine{5 }
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_output_format_8h}{OutputFormat.h}}"{}}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_user_l_e_ds_8h}{UserLEDs.h}}"{}}}
+\DoxyCodeLine{9 \textcolor{comment}{//\#include "{}flashing.h"{}}}
+\DoxyCodeLine{10 \textcolor{comment}{//\#include "{}active.h"{}}}
+\DoxyCodeLine{11 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{12 }
+\DoxyCodeLine{18 \textcolor{keyword}{class }\mbox{\hyperlink{class_hardware_output}{HardwareOutput}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_output_format}{OutputFormat}}}
+\DoxyCodeLine{19 \{}
+\DoxyCodeLine{20 }
+\DoxyCodeLine{21 \textcolor{keyword}{private}:}
+\DoxyCodeLine{22     \textcolor{keyword}{static} \mbox{\hyperlink{class_hardware_output}{HardwareOutput}} *Instance;}
+\DoxyCodeLine{23     \mbox{\hyperlink{class_user_l_e_ds}{UserLEDs}} myLED;}
+\DoxyCodeLine{24     \mbox{\hyperlink{class_hardware_output}{HardwareOutput}}() \{\}}
+\DoxyCodeLine{25 }
+\DoxyCodeLine{26     }
+\DoxyCodeLine{27 }
+\DoxyCodeLine{28 \textcolor{keyword}{public}:}
+\DoxyCodeLine{34     \textcolor{keyword}{static} \mbox{\hyperlink{class_hardware_output}{HardwareOutput}} *\mbox{\hyperlink{class_hardware_output_a200ef12e524ac45fee1e82b720b2ad6e}{GetInstance}}();}
+\DoxyCodeLine{35     }
+\DoxyCodeLine{41     \textcolor{keywordtype}{void} \mbox{\hyperlink{class_hardware_output_a140d5a19cdd270d59c6a468691fb94d8}{setRed}}();}
+\DoxyCodeLine{42     }
+\DoxyCodeLine{48     \textcolor{keywordtype}{void} \mbox{\hyperlink{class_hardware_output_a3dab8264bb93f939a1845affdf3a25c7}{setRedAmber}}();}
+\DoxyCodeLine{49     }
+\DoxyCodeLine{55     \textcolor{keywordtype}{void} \mbox{\hyperlink{class_hardware_output_aa2d8479bfb9b11ed41e3f5fb0fc44cb5}{setAmber}}();}
+\DoxyCodeLine{56     }
+\DoxyCodeLine{62     \textcolor{keywordtype}{void} \mbox{\hyperlink{class_hardware_output_a04836e0b27bd8e20774ba8bc2f676aff}{setGreen}}();}
+\DoxyCodeLine{63     }
+\DoxyCodeLine{69     \textcolor{keywordtype}{void} \mbox{\hyperlink{class_hardware_output_aa68d820ec665a84db1310401ab4b6f3e}{off}}();}
+\DoxyCodeLine{70 }
+\DoxyCodeLine{71 \};}
+\DoxyCodeLine{72 }
+\DoxyCodeLine{73 }
+\DoxyCodeLine{74 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

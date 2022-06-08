@@ -8,28 +8,32 @@
 \DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
 \DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_light_control_8h}{LightControl.h}}"{}}}
 \DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_green_8h}{Green.h}}"{}}}
-\DoxyCodeLine{9 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_user_l_e_ds_8h}{UserLEDs.h}}"{}}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_output_format_8h}{OutputFormat.h}}"{}}}
 \DoxyCodeLine{10 \textcolor{preprocessor}{\#include <iostream>}}
 \DoxyCodeLine{11 }
-\DoxyCodeLine{12 \textcolor{keyword}{using namespace }std;}
-\DoxyCodeLine{13 }
-\DoxyCodeLine{20 \textcolor{keyword}{class }\mbox{\hyperlink{class_red_amber}{RedAmber}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_light_control}{LightControl}}}
-\DoxyCodeLine{21 \{}
-\DoxyCodeLine{22 \textcolor{keyword}{private}:}
-\DoxyCodeLine{23   \mbox{\hyperlink{class_user_l_e_ds}{UserLEDs}} myLED;}
-\DoxyCodeLine{24 }
-\DoxyCodeLine{30   \textcolor{keyword}{static} \mbox{\hyperlink{class_red_amber}{RedAmber}} *Instance;}
-\DoxyCodeLine{31 }
-\DoxyCodeLine{37   \mbox{\hyperlink{class_red_amber}{RedAmber}}() \{\}}
-\DoxyCodeLine{38 }
-\DoxyCodeLine{39 \textcolor{keyword}{public}:}
-\DoxyCodeLine{45   \textcolor{keyword}{static} \mbox{\hyperlink{class_red_amber}{RedAmber}} *\mbox{\hyperlink{class_red_amber_a50f205020216c25eff5cb799eac729c7}{GetInstance}}();}
-\DoxyCodeLine{46 }
-\DoxyCodeLine{53   \textcolor{keywordtype}{void} \mbox{\hyperlink{class_red_amber_aed5f0a2bf63b14e3e4ccc42f5d04565e}{Handle}}();}
-\DoxyCodeLine{54 }
-\DoxyCodeLine{60   \mbox{\hyperlink{class_light_control}{LightControl}} *\mbox{\hyperlink{class_red_amber_adf027f4b97e6ffe933a4696ebcd2409d}{nextstate}}();}
-\DoxyCodeLine{61 \};}
-\DoxyCodeLine{62 }
-\DoxyCodeLine{63 \textcolor{preprocessor}{\#endif}}
+\DoxyCodeLine{12 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_hardware_output_8h}{HardwareOutput.h}}"{}}}
+\DoxyCodeLine{13 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_software_output_8h}{SoftwareOutput.h}}"{}}}
+\DoxyCodeLine{14 }
+\DoxyCodeLine{15 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{16 }
+\DoxyCodeLine{23 \textcolor{keyword}{class }\mbox{\hyperlink{class_red_amber}{RedAmber}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_light_control}{LightControl}}}
+\DoxyCodeLine{24 \{}
+\DoxyCodeLine{25 \textcolor{keyword}{private}:}
+\DoxyCodeLine{26   \textcolor{keyword}{static} \mbox{\hyperlink{class_output_format}{OutputFormat}} *myOutputFormatRedAmber;}
+\DoxyCodeLine{27 }
+\DoxyCodeLine{33   \textcolor{keyword}{static} \mbox{\hyperlink{class_red_amber}{RedAmber}} *Instance;}
+\DoxyCodeLine{34 }
+\DoxyCodeLine{40   \mbox{\hyperlink{class_red_amber}{RedAmber}}() \{\}}
+\DoxyCodeLine{41 }
+\DoxyCodeLine{42 \textcolor{keyword}{public}:}
+\DoxyCodeLine{48   \textcolor{keyword}{static} \mbox{\hyperlink{class_red_amber}{RedAmber}} *\mbox{\hyperlink{class_red_amber_a70045e6d232d94c680657197d2bb7786}{GetInstance}}(\mbox{\hyperlink{class_output_format}{OutputFormat}} *myOutputFormat);}
+\DoxyCodeLine{49 }
+\DoxyCodeLine{50 }
+\DoxyCodeLine{57   \textcolor{keywordtype}{void} \mbox{\hyperlink{class_red_amber_aed5f0a2bf63b14e3e4ccc42f5d04565e}{Handle}}();}
+\DoxyCodeLine{58 }
+\DoxyCodeLine{64   \mbox{\hyperlink{class_light_control}{LightControl}} *\mbox{\hyperlink{class_red_amber_adf027f4b97e6ffe933a4696ebcd2409d}{nextstate}}();}
+\DoxyCodeLine{65 \};}
+\DoxyCodeLine{66 }
+\DoxyCodeLine{67 \textcolor{preprocessor}{\#endif}}
 
 \end{DoxyCode}

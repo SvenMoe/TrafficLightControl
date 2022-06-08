@@ -14,8 +14,8 @@ using namespace std;
 
 /**
  * Interface class "SoftwareOutput".
- * @author 
- * @date   May 2022
+ * @author Niklas Stein
+ * @date   June 2022
  */
 class SoftwareOutput : public OutputFormat
 {
@@ -26,11 +26,46 @@ private:
     SoftwareOutput() {}
 
 public:
+    /**
+     * Static singleton access method.
+     * @param  None
+     * @return None
+     */
     static SoftwareOutput *GetInstance();
+    
+    /**
+     * Writes "RED led on!" to the Terminal.
+     * @param  None
+     * @return None
+     */
     void setRed();
+    
+    /**
+     * Writes ""REDAMBER led on!" to the Terminal.
+     * @param  None
+     * @return None
+     */
     void setRedAmber();
+    
+    /**
+     * Writes "AMBER led on!" to the Terminal.
+     * @param  None
+     * @return None
+     */
     void setAmber();
+    
+    /**
+     * Writes "GREEN led on!" to the Terminal.
+     * @param  None
+     * @return None
+     */
     void setGreen();
+    
+    /**
+     * Writes "All leds off!" to the Terminal.
+     * @param  None
+     * @return None
+     */
     void off();
 
 };

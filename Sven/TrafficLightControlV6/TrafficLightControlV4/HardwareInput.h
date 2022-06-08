@@ -13,8 +13,8 @@ using namespace std;
 
 /**
  * Interface class "HardwareInput".
- * @author 
- * @date   May 2022
+ * @author Niklas Stein
+ * @date   June 2022
  */
 class HardwareInput : public InputFormat
 {
@@ -26,7 +26,18 @@ private:
     HardwareInput() {}
 
 public:
+    /**
+     * Static singleton access method.
+     * @param  None
+     * @return None
+     */
     static HardwareInput *GetInstance();
+    
+    /**
+     * Reads the input value from UserButtons class.
+     * @param  None
+     * @return return value from myUserButton.getButton()
+     */
     char getButton();
 
 };

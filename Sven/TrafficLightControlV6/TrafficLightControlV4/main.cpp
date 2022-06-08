@@ -1,10 +1,16 @@
 // Mainpage in Doxygen
 /** @mainpage Documentation of the Traffic Light Project
-*   @section Introduction
-*
-*   @section Basics
-*
-*/
+ *  @section  Introduction
+ *            This C++ project realizes a common traffic light, like it is used on the streets.
+ *            The project language is english.
+ *
+ *  @section  Basics
+ *            There are two operating states: active and flashing (Standby). It can be switched between these states.
+ *            But it also can be switched between Softwareinput and -output and Hardwareinput and -output.
+ *            To switch between states there are state patterns. The concrete states of these state machines are implemented as singelton pattern.
+ *  @author   Sven Moessner
+ *  @date     June 2022
+ */
 
 #include "TrafficLight.h"
 #include <iostream>
@@ -16,7 +22,9 @@
 
 using namespace std;
 
-//#define _HARDWAREPRESENT
+//If defined Hardware will be used to interact with the user.
+//Otherwise the Software Interface will be used.
+#define _HARDWAREPRESENT
 
 int main()
 {
@@ -28,6 +36,7 @@ int main()
   InputFormat *myInputFormat = SoftwareInput::GetInstance();
 #endif
 
+  //Continuous loop operating the traffic light
   TrafficLight myTrafficLight(active::GetInstance(myOutputFormat, myInputFormat), myOutputFormat, myInputFormat);
   do
   {

@@ -10,15 +10,32 @@
 
 /**
  * Interface class "state".
- * @author 
- * @date   May 2022
+ * @author Sven Moessner
+ * @date   June 2022
  */
 class state
 {
 
 public:
+  /**
+   * Constructor of "state"-class. Is empty.
+   * @param  None
+   * @return None
+   */
   state(){}
+  
+  /**
+   * Virtual Method. Will be overritten.
+   * @param  None
+   * @return None
+   */
   virtual void Handle() = 0;
+  
+  /**
+   * Virtual Method. Will be overritten.
+   * @param  None
+   * @return None
+   */
   virtual state* nextstate() = 0;
 
 };

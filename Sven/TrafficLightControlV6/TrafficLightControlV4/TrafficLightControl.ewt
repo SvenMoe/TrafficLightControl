@@ -2951,6 +2951,9 @@
         <name>$PROJ_DIR$\TrafficLight.cpp</name>
     </file>
     <file>
+        <name>$PROJ_DIR$\TrafficLight.h</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\UserButtons.cpp</name>
     </file>
     <file>

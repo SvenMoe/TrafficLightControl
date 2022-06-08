@@ -11,8 +11,8 @@ using namespace std;
 /**
  * The class GPIO serves as an interface to read inputs and manipulate outputs
  * of the STM board.
- * @author
- * @date   May 2022
+ * @author Timo Kempf
+ * @date   June 2022
  */
 class GPIO
 {
@@ -68,7 +68,7 @@ public:
    *  @param None
    *  @return data from the port
    */
-  UINT32 read_port() { return IDR; };
+  UINT32 read_port(){ return IDR; };
 
   /**
    *  @brief Simultaneous writing of all bits of a port.

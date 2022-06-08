@@ -1,40 +1,40 @@
 ###############################################################################
 #
-# IAR ELF Linker V9.20.4.327/W64 for ARM                  05/Jun/2022  17:32:58
+# IAR ELF Linker V9.20.4.327/W64 for ARM                  08/Jun/2022  12:38:35
 # Copyright 2007-2022 IAR Systems AB.
 #
 #    Output file  =
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Exe\TrafficLightControl.out
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Exe\TrafficLightControl.out
 #    Map file     =
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\List\TrafficLightControl.map
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\List\TrafficLightControl.map
 #    Command line =
 #        -f
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Exe\TrafficLightControl.out.rsp
-#        (C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\active.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\Amber.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\flashing.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\GPIO.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\Green.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\HardwareInput.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\HardwareOutput.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\InputFormat.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\LightControl.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\main.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\Off.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\OutputFormat.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\Red.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\RedAmber.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\SoftwareInput.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\SoftwareOutput.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\state.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\TrafficLight.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\UserButtons.o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\UserLEDs.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Exe\TrafficLightControl.out.rsp
+#        (C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\active.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\Amber.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\flashing.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\GPIO.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\Green.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\HardwareInput.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\HardwareOutput.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\InputFormat.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\LightControl.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\main.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\Off.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\OutputFormat.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\Red.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\RedAmber.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\SoftwareInput.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\SoftwareOutput.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\state.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\TrafficLight.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\UserButtons.o
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj\UserLEDs.o
 #        --no_out_extension -o
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Exe\TrafficLightControl.out
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Exe\TrafficLightControl.out
 #        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
 #        --map
-#        C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\List\TrafficLightControl.map
+#        C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\List\TrafficLightControl.map
 #        --config "C:\Program Files\IAR Systems\Embedded Workbench
 #        9.0\arm\config\linker\ST\stm32f401xE.icf" --semihosting --entry
 #        __iar_program_start --vfe --text_out locale)
@@ -83,7 +83,7 @@ initialize by copy { rw };
   .intvec                ro code   0x800'0000    0x40  vector_table_M.o [6]
                                  - 0x800'0040    0x40
 
-"P1":                                          0x1554
+"P1":                                          0x135c
   .text                  ro code   0x800'0040   0x13c  heap0.o [2]
   .text                  ro code   0x800'017c    0x2c  xgetmemchunk.o [2]
   .text                  ro code   0x800'01a8   0x118  active.o [1]
@@ -98,162 +98,143 @@ initialize by copy { rw };
   .text                  ro code   0x800'0548   0x100  ios.o [3]
   .text                  ro code   0x800'0648     0x6  abort.o [2]
   .text                  ro code   0x800'064e     0x4  delop4_0.o [4]
-  .text                  ro code   0x800'0652    0x22  iostream_cout.o [3]
-  .text                  ro code   0x800'0674    0x14  exit.o [7]
-  .text                  ro code   0x800'0688     0xa  delop_0.o [4]
-  .text                  ro code   0x800'0692     0x6  iostream_cout.o [3]
-  .text                  ro code   0x800'0698    0x7c  iarttio.o [7]
-  .text                  ro code   0x800'0714     0x4  heaptramp0.o [2]
-  .text                  ro code   0x800'0718     0x8  XShttio.o [2]
-  .text                  ro code   0x800'0720   0x108  SoftwareInput.o [1]
-  .text                  ro code   0x800'0828    0x20  SoftwareInput.o [1]
-  .text                  ro code   0x800'0848    0x24  SoftwareInput.o [1]
-  .text                  ro code   0x800'086c    0x10  SoftwareInput.o [1]
-  .text                  ro code   0x800'087c    0xa0  cppinit.o [2]
-  .text                  ro code   0x800'091c    0x94  iostream_cin.o [3]
-  .text                  ro code   0x800'09b0    0x5c  iostream_cout.o [3]
-  .text                  ro code   0x800'0a0c     0xa  cxxabi.o [4]
-  .text                  ro code   0x800'0a16     0x6  iostream_cout.o [3]
-  .text                  ro code   0x800'0a1c    0x90  iostream_cout.o [3]
-  .text                  ro code   0x800'0aac    0x76  ABImemcpy_unaligned.o [6]
-  .text                  ro code   0x800'0b22     0x2  iostream_cout.o [3]
-  .text                  ro code   0x800'0b24    0x74  active.o [1]
-  .text                  ro code   0x800'0b98    0x24  newop_0.o [4]
-  .text                  ro code   0x800'0bbc    0x30  Red.o [1]
-  .text                  ro code   0x800'0bec    0x10  active.o [1]
-  .text                  ro code   0x800'0bfc     0x4  nomemory.o [4]
-  .text                  ro code   0x800'0c00    0x6c  SoftwareInput.o [1]
-  .text                  ro code   0x800'0c6c    0x5e  iostream_cout.o [3]
-  .text                  ro code   0x800'0cca     0x2  iostream_cout.o [3]
-  .text                  ro code   0x800'0ccc    0x50  flashing.o [1]
-  .text                  ro code   0x800'0d1c    0x38  Off.o [1]
-  .text                  ro code   0x800'0d54    0x30  Amber.o [1]
-  .text                  ro code   0x800'0d84    0x50  TrafficLight.o [1]
-  .text                  ro code   0x800'0dd4    0x4a  iostream_cout.o [3]
-  .text                  ro code   0x800'0e1e     0x2  vectortrap_M.o [6]
-  .text                  ro code   0x800'0e20    0x38  getchar.o [2]
-  .text                  ro code   0x800'0e58    0x30  read.o [7]
-  .text                  ro code   0x800'0e88    0x48  active.o [1]
-  .rodata                const     0x800'0ed0    0x44  iostream_cout.o [3]
-  .rodata                const     0x800'0f14    0x44  iostream_cout.o [3]
-  .text                  ro code   0x800'0f58    0x38  iostream_cout.o [3]
-  .text                  ro code   0x800'0f90    0x20  putchar.o [2]
-  .text                  ro code   0x800'0fb0    0x10  write.o [7]
-  .text                  ro code   0x800'0fc0    0x1e  dwrite.o [7]
-  .text                  ro code   0x800'0fde    0x20  iarwstd.o [7]
-  .text                  ro code   0x800'0ffe    0x22  iarwrite.o [7]
-  .text                  ro code   0x800'1020    0x38  zero_init3.o [6]
-  .text                  ro code   0x800'1058    0x34  active.o [1]
-  .text                  ro code   0x800'108c    0x34  iostream_cout.o [3]
-  .text                  ro code   0x800'10c0    0x32  main.o [1]
-  .rodata                const     0x800'10f2     0x1  unwind_debug.o [7]
-  .text                  ro code   0x800'10f4    0x24  SoftwareOutput.o [1]
-  .text                  ro code   0x800'1118    0x24  SoftwareInput.o [1]
-  .text                  ro code   0x800'113c    0x30  Green.o [1]
-  .text                  ro code   0x800'116c    0x30  RedAmber.o [1]
-  .text                  ro code   0x800'119c    0x2c  iostream_cout.o [3]
-  .rodata                const     0x800'11c8    0x28  iostream_cout.o [3]
-  .rodata                const     0x800'11f0    0x28  iostream_cin.o [3]
-  .text                  ro code   0x800'1218    0x28  active.o [1]
-  .text                  ro code   0x800'1240    0x28  flashing.o [1]
-  .text                  ro code   0x800'1268    0x28  data_init.o [6]
-  .text                  ro code   0x800'1290    0x22  fpinit_M.o [5]
-  .iar.init_table        const     0x800'12b4    0x28  - Linker created -
-  .text                  ro code   0x800'12dc    0x20  cmain_call_ctors.o [6]
-  .text                  ro code   0x800'12fc    0x1e  cmain.o [6]
-  .text                  ro code   0x800'131a     0x4  low_level_init.o [2]
-  .text                  ro code   0x800'131e     0x4  exit.o [2]
-  .text                  ro code   0x800'1324     0xe  cexit.o [6]
-  .rodata                const     0x800'1334    0x1c  SoftwareOutput.o [1]
-  .text                  ro code   0x800'1350    0x1c  SoftwareOutput.o [1]
-  .text                  ro code   0x800'136c    0x1c  SoftwareOutput.o [1]
-  .text                  ro code   0x800'1388    0x1c  SoftwareOutput.o [1]
-  .text                  ro code   0x800'13a4    0x1c  SoftwareOutput.o [1]
-  .text                  ro code   0x800'13c0    0x1c  SoftwareOutput.o [1]
-  .text                  ro code   0x800'13dc    0x1c  cstartup_M.o [6]
-  .rodata                const     0x800'13f8    0x14  SoftwareOutput.o [1]
-  .text                  ro code   0x800'140c    0x14  iostream_cout.o [3]
-  .rodata                const     0x800'1420    0x10  active.o [1]
-  .rodata                const     0x800'1430    0x10  active.o [1]
-  .rodata                const     0x800'1440    0x10  active.o [1]
-  .rodata                const     0x800'1450    0x10  Amber.o [1]
-  .rodata                const     0x800'1460    0x10  flashing.o [1]
-  .rodata                const     0x800'1470    0x10  flashing.o [1]
-  .rodata                const     0x800'1480    0x10  Green.o [1]
-  .rodata                const     0x800'1490    0x10  Off.o [1]
-  .rodata                const     0x800'14a0    0x10  Red.o [1]
-  .rodata                const     0x800'14b0    0x10  RedAmber.o [1]
-  .rodata                const     0x800'14c0    0x10  SoftwareOutput.o [1]
-  .rodata                const     0x800'14d0    0x10  SoftwareOutput.o [1]
-  .rodata                const     0x800'14e0    0x10  SoftwareOutput.o [1]
-  .rodata                const     0x800'14f0    0x10  ios.o [3]
-  .rodata                const     0x800'1500    0x10  iostream_cout.o [3]
-  .text                  ro code   0x800'1510    0x10  iostream_cin.o [3]
-  .text                  ro code   0x800'1520     0xe  iostream_cout.o [3]
-  .rodata                const     0x800'1530     0xc  SoftwareInput.o [1]
-  .rodata                const     0x800'153c     0xc  SoftwareOutput.o [1]
-  .text                  ro code   0x800'1548     0xc  Amber.o [1]
-  .text                  ro code   0x800'1554     0xc  Green.o [1]
-  .text                  ro code   0x800'1560     0xc  Red.o [1]
-  .text                  ro code   0x800'156c     0xc  RedAmber.o [1]
-  SHT$$PREINIT_ARRAY               0x800'1578     0x8  <Block>
-    .preinit_array       const     0x800'1578     0x4  iostream_cout.o [3]
-    .preinit_array       const     0x800'157c     0x4  iostream_cin.o [3]
-  SHT$$INIT_ARRAY                  0x800'1580     0x4  <Block>
-    .init_array          const     0x800'1580     0x4  ios.o [3]
-  __iar_tls$$INIT_ARRAY            0x800'1584     0x0  <Block>
-  Initializer bytes      const     0x800'1584     0xc  <for P2-1>
-  .text                  ro code   0x800'1590     0x4  iostream_cout.o [3]
-  .text                  ro code   0x800'1594     0x0  cstart_call_dtors.o [6]
-  .rodata                const     0x800'1594     0x0  zero_init3.o [6]
-  .rodata                const     0x800'1594     0x0  copy_init3.o [6]
-                                 - 0x800'1594  0x1554
+  .text                  ro code   0x800'0652     0x6  iostream_cout.o [3]
+  .text                  ro code   0x800'0658    0x14  exit.o [7]
+  .text                  ro code   0x800'066c     0xa  delop_0.o [4]
+  .text                  ro code   0x800'0676     0x2  iostream_cout.o [3]
+  .text                  ro code   0x800'0678    0x7c  iarttio.o [7]
+  .text                  ro code   0x800'06f4     0x4  heaptramp0.o [2]
+  .text                  ro code   0x800'06f8     0x8  XShttio.o [2]
+  .text                  ro code   0x800'0700   0x116  GPIO.o [1]
+  .text                  ro code   0x800'0816     0x2  iostream_cout.o [3]
+  .text                  ro code   0x800'0818    0xa0  cppinit.o [2]
+  .text                  ro code   0x800'08b8    0x90  iostream_cout.o [3]
+  .text                  ro code   0x800'0948    0x5c  iostream_cout.o [3]
+  .text                  ro code   0x800'09a4     0xa  cxxabi.o [4]
+  .text                  ro code   0x800'09ae     0x2  vectortrap_M.o [6]
+  .text                  ro code   0x800'09b0    0x76  ABImemcpy_unaligned.o [6]
+  .rodata                const     0x800'0a26     0x1  unwind_debug.o [7]
+  .text                  ro code   0x800'0a28    0x74  active.o [1]
+  .text                  ro code   0x800'0a9c    0x24  newop_0.o [4]
+  .text                  ro code   0x800'0ac0    0x30  Red.o [1]
+  .text                  ro code   0x800'0af0    0x10  active.o [1]
+  .text                  ro code   0x800'0b00     0x4  nomemory.o [4]
+  .text                  ro code   0x800'0b04    0x70  UserLEDs.o [1]
+  .text                  ro code   0x800'0b74    0x64  flashing.o [1]
+  .text                  ro code   0x800'0bd8    0x38  Off.o [1]
+  .text                  ro code   0x800'0c10    0x34  active.o [1]
+  .text                  ro code   0x800'0c44    0x30  Amber.o [1]
+  .text                  ro code   0x800'0c74    0x48  active.o [1]
+  .text                  ro code   0x800'0cbc    0x5e  iostream_cout.o [3]
+  .text                  ro code   0x800'0d1a    0x58  UserButtons.o [1]
+  .text                  ro code   0x800'0d72    0x50  TrafficLight.o [1]
+  .rodata                const     0x800'0dc4    0x44  iostream_cout.o [3]
+  .rodata                const     0x800'0e08    0x44  iostream_cout.o [3]
+  .text                  ro code   0x800'0e4c    0x38  iostream_cout.o [3]
+  .text                  ro code   0x800'0e84    0x20  putchar.o [2]
+  .text                  ro code   0x800'0ea4    0x10  write.o [7]
+  .text                  ro code   0x800'0eb4    0x1e  dwrite.o [7]
+  .text                  ro code   0x800'0ed2    0x20  iarwstd.o [7]
+  .text                  ro code   0x800'0ef2    0x22  iarwrite.o [7]
+  .text                  ro code   0x800'0f14    0x38  zero_init3.o [6]
+  .text                  ro code   0x800'0f4c    0x34  HardwareInput.o [1]
+  .text                  ro code   0x800'0f80    0x32  main.o [1]
+  .text                  ro code   0x800'0fb4    0x30  HardwareOutput.o [1]
+  .text                  ro code   0x800'0fe4    0x30  Green.o [1]
+  .text                  ro code   0x800'1014    0x30  RedAmber.o [1]
+  .rodata                const     0x800'1044    0x28  iostream_cout.o [3]
+  .text                  ro code   0x800'106c    0x28  active.o [1]
+  .text                  ro code   0x800'1094    0x28  flashing.o [1]
+  .text                  ro code   0x800'10bc    0x28  data_init.o [6]
+  .text                  ro code   0x800'10e4    0x22  fpinit_M.o [5]
+  .iar.init_table        const     0x800'1108    0x28  - Linker created -
+  .text                  ro code   0x800'1130    0x20  HardwareOutput.o [1]
+  .text                  ro code   0x800'1150    0x20  HardwareOutput.o [1]
+  .text                  ro code   0x800'1170    0x20  HardwareOutput.o [1]
+  .text                  ro code   0x800'1190    0x20  HardwareOutput.o [1]
+  .text                  ro code   0x800'11b0    0x20  HardwareOutput.o [1]
+  .text                  ro code   0x800'11d0    0x20  cmain_call_ctors.o [6]
+  .text                  ro code   0x800'11f0    0x1e  cmain.o [6]
+  .text                  ro code   0x800'120e     0x4  low_level_init.o [2]
+  .text                  ro code   0x800'1212     0x4  exit.o [2]
+  .text                  ro code   0x800'1218     0xe  cexit.o [6]
+  .rodata                const     0x800'1228    0x1c  HardwareOutput.o [1]
+  .text                  ro code   0x800'1244    0x1c  cstartup_M.o [6]
+  .text                  ro code   0x800'1260    0x14  iostream_cout.o [3]
+  .rodata                const     0x800'1274    0x10  active.o [1]
+  .rodata                const     0x800'1284    0x10  active.o [1]
+  .rodata                const     0x800'1294    0x10  active.o [1]
+  .rodata                const     0x800'12a4    0x10  Amber.o [1]
+  .rodata                const     0x800'12b4    0x10  flashing.o [1]
+  .rodata                const     0x800'12c4    0x10  flashing.o [1]
+  .rodata                const     0x800'12d4    0x10  Green.o [1]
+  .rodata                const     0x800'12e4    0x10  Off.o [1]
+  .rodata                const     0x800'12f4    0x10  Red.o [1]
+  .rodata                const     0x800'1304    0x10  RedAmber.o [1]
+  .rodata                const     0x800'1314    0x10  ios.o [3]
+  .rodata                const     0x800'1324    0x10  iostream_cout.o [3]
+  .text                  ro code   0x800'1334     0xe  iostream_cout.o [3]
+  .rodata                const     0x800'1344     0xc  HardwareInput.o [1]
+  .text                  ro code   0x800'1350     0xc  Amber.o [1]
+  .text                  ro code   0x800'135c     0xc  Green.o [1]
+  .text                  ro code   0x800'1368     0xc  Red.o [1]
+  .text                  ro code   0x800'1374     0xc  RedAmber.o [1]
+  SHT$$PREINIT_ARRAY               0x800'1380     0x4  <Block>
+    .preinit_array       const     0x800'1380     0x4  iostream_cout.o [3]
+  SHT$$INIT_ARRAY                  0x800'1384     0x4  <Block>
+    .init_array          const     0x800'1384     0x4  ios.o [3]
+  __iar_tls$$INIT_ARRAY            0x800'1388     0x0  <Block>
+  Initializer bytes      const     0x800'1388     0x8  <for P2-1>
+  .text                  ro code   0x800'1390     0x6  HardwareInput.o [1]
+  .text                  ro code   0x800'1396     0x4  iostream_cout.o [3]
+  .text                  ro code   0x800'139c     0x0  cstart_call_dtors.o [6]
+  .rodata                const     0x800'139c     0x0  zero_init3.o [6]
+  .rodata                const     0x800'139c     0x0  copy_init3.o [6]
+                                 - 0x800'139c  0x135c
 
-"P2", part 1 of 3:                                0xc
-  P2-1                            0x2000'0000     0xc  <Init block>
-    .data                inited   0x2000'0000     0x4  getchar.o [2]
-    .data                inited   0x2000'0004     0x8  XShttio.o [2]
-                                - 0x2000'000c     0xc
+"P2", part 1 of 3:                                0x8
+  P2-1                            0x2000'0000     0x8  <Init block>
+    .data                inited   0x2000'0000     0x8  XShttio.o [2]
+                                - 0x2000'0008     0x8
 
-"P2", part 2 of 3:                              0x190
-  .bss                   zero     0x2000'000c    0x70  iostream_cout.o [3]
-  .bss                   zero     0x2000'007c    0x70  iostream_cin.o [3]
-  .bss                   zero     0x2000'00ec    0x34  ios.o [3]
-  .bss                   zero     0x2000'0120     0xc  active.o [1]
-  .bss                   zero     0x2000'0130    0x10  ios.o [3]
-  .bss                   zero     0x2000'0140     0xc  flashing.o [1]
-  .bss                   zero     0x2000'014c     0x8  Amber.o [1]
-  .bss                   zero     0x2000'0154     0x8  Green.o [1]
-  .bss                   zero     0x2000'015c     0x8  Off.o [1]
-  .bss                   zero     0x2000'0164     0x8  Red.o [1]
-  .bss                   zero     0x2000'016c     0x8  RedAmber.o [1]
-  .bss                   zero     0x2000'0174     0x8  heap0.o [2]
-  .bss                   zero     0x2000'017c     0x4  active.o [1]
-  .bss                   zero     0x2000'0180     0x4  SoftwareInput.o [1]
-  .bss                   zero     0x2000'0184     0x4  SoftwareOutput.o [1]
-  .bss                   zero     0x2000'0188     0x4  cppinit.o [2]
-  .bss                   zero     0x2000'018c     0x4  cppinit.o [2]
-  .bss                   zero     0x2000'0190     0x4  new.o [4]
-  .bss                   zero     0x2000'0194     0x4  xgetmemchunk.o [2]
-  .bss                   zero     0x2000'0198     0x1  active.o [1]
-                                - 0x2000'0199   0x18d
+"P2", part 2 of 3:                              0x11c
+  .bss                   zero     0x2000'0008    0x70  iostream_cout.o [3]
+  .bss                   zero     0x2000'0078    0x34  ios.o [3]
+  .bss                   zero     0x2000'00ac     0xc  active.o [1]
+  .bss                   zero     0x2000'00b8    0x10  ios.o [3]
+  .bss                   zero     0x2000'00c8     0xc  flashing.o [1]
+  .bss                   zero     0x2000'00d4     0x8  Amber.o [1]
+  .bss                   zero     0x2000'00dc     0x8  Green.o [1]
+  .bss                   zero     0x2000'00e4     0x8  Off.o [1]
+  .bss                   zero     0x2000'00ec     0x8  Red.o [1]
+  .bss                   zero     0x2000'00f4     0x8  RedAmber.o [1]
+  .bss                   zero     0x2000'00fc     0x8  heap0.o [2]
+  .bss                   zero     0x2000'0104     0x4  active.o [1]
+  .bss                   zero     0x2000'0108     0x4  HardwareInput.o [1]
+  .bss                   zero     0x2000'010c     0x4  HardwareOutput.o [1]
+  .bss                   zero     0x2000'0110     0x4  cppinit.o [2]
+  .bss                   zero     0x2000'0114     0x4  cppinit.o [2]
+  .bss                   zero     0x2000'0118     0x4  new.o [4]
+  .bss                   zero     0x2000'011c     0x4  xgetmemchunk.o [2]
+  .bss                   zero     0x2000'0120     0x1  active.o [1]
+                                - 0x2000'0121   0x119
 
-"P2", part 3 of 3:                             0x41a4
-  .iar.dynexit                    0x2000'019c   0x1a4  <Block>
-    .iar.dynexit         uninit   0x2000'019c     0xc  cppinit.o [2]
-    .iar.dynexit         uninit   0x2000'01a8   0x198  <Block tail>
-  CSTACK                          0x2000'0340  0x2000  <Block>
-    CSTACK               uninit   0x2000'0340  0x2000  <Block tail>
-  HEAP                            0x2000'2340  0x2000  <Block>
-    HEAP                 uninit   0x2000'2340  0x2000  <Block tail>
-                                - 0x2000'4340  0x41a4
+"P2", part 3 of 3:                             0x419c
+  .iar.dynexit                    0x2000'0124   0x198  <Block>
+    .iar.dynexit         uninit   0x2000'0124     0xc  cppinit.o [2]
+    .iar.dynexit         uninit   0x2000'0130   0x18c  <Block tail>
+  CSTACK                          0x2000'02c0  0x2000  <Block>
+    CSTACK               uninit   0x2000'02c0  0x2000  <Block tail>
+  HEAP                            0x2000'22c0  0x2000  <Block>
+    HEAP                 uninit   0x2000'22c0  0x2000  <Block tail>
+                                - 0x2000'42c0  0x419c
 
 Unused ranges:
 
          From           To      Size
          ----           --      ----
-   0x800'1594   0x807'ffff  0x7'ea6c
-  0x2000'4340  0x2001'7fff  0x1'3cc0
+   0x800'139c   0x807'ffff  0x7'ec64
+  0x2000'42c0  0x2001'7fff  0x1'3d40
 
 
 *******************************************************************************
@@ -263,14 +244,14 @@ Unused ranges:
           Address      Size
           -------      ----
 Zero (__iar_zero_init3)
-    1 destination range, total size 0x18d:
-          0x2000'000c  0x18d
+    1 destination range, total size 0x119:
+          0x2000'0008  0x119
 
 Copy (__iar_copy_init3)
-    1 source range, total size 0xc:
-           0x800'1584    0xc
-    1 destination range, total size 0xc:
-          0x2000'0000    0xc
+    1 source range, total size 0x8:
+           0x800'1388    0x8
+    1 destination range, total size 0x8:
+          0x2000'0000    0x8
 
 Extra (__iar_cstart_call_ctors)
 
@@ -286,41 +267,42 @@ command line/config:
     ------------------------------------------------
     Total:
 
-C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj: [1]
+C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj: [1]
     Amber.o                     60       16        8
+    GPIO.o                     278
     Green.o                     60       16        8
+    HardwareInput.o             58       12        4
+    HardwareOutput.o           208       28        4
     Off.o                       56       16        8
     Red.o                       60       16        8
     RedAmber.o                  60       16        8
-    SoftwareInput.o            492       12        4
-    SoftwareOutput.o           176      108        4
     TrafficLight.o              80
+    UserButtons.o               88
+    UserLEDs.o                 112
     active.o                 1'128       48       17
-    flashing.o                 120       32       12
+    flashing.o                 140       32       12
     main.o                      50
     ------------------------------------------------
-    Total:                   2'342      280       77
+    Total:                   2'438      200       77
 
 dl7M_tln.a: [2]
     XShttio.o                    8        8        8
     abort.o                      6
     cppinit.o                  160                20
     exit.o                       4
-    getchar.o                   56        4        4
     heap0.o                    316                 8
     heaptramp0.o                 4
     low_level_init.o             4
     putchar.o                   32
     xgetmemchunk.o              44                 4
     ------------------------------------------------
-    Total:                     634       12       44
+    Total:                     578        8       40
 
 dlpp7M_tl_nc.a: [3]
     ios.o                      256       20       68
-    iostream_cin.o             164       44      112
-    iostream_cout.o            644      196      112
+    iostream_cout.o            434      196      112
     ------------------------------------------------
-    Total:                   1'064      260      292
+    Total:                     690      216      180
 
 dlpprt7M_tl_nc.a: [4]
     cxxabi.o                    10
@@ -359,16 +341,15 @@ shb_l.a: [7]
     iarttio.o                  124
     iarwrite.o                  34
     iarwstd.o                   32
-    read.o                      48
     unwind_debug.o                        1
     write.o                     16
     ------------------------------------------------
-    Total:                     304        1
+    Total:                     256        1
 
-    Gaps                         3        6        4
-    Linker created                       40   16'792
+    Gaps                         7        8
+    Linker created                       40   16'780
 ----------------------------------------------------
-    Grand Total:             4'925      599   17'213
+    Grand Total:             4'547      473   17'081
 
 
 *******************************************************************************
@@ -377,204 +358,204 @@ shb_l.a: [7]
 
 Entry                       Address   Size  Type      Object
 -----                       -------   ----  ----      ------
-.iar.dynexit$$Base      0x2000'019c          --   Gb  - Linker created -
-.iar.dynexit$$Limit     0x2000'0340          --   Gb  - Linker created -
-.iar.init_table$$Base    0x800'12b4          --   Gb  - Linker created -
-.iar.init_table$$Limit   0x800'12dc          --   Gb  - Linker created -
-?main                    0x800'12fd         Code  Gb  cmain.o [6]
-Aldata                  0x2000'0174    0x8  Data  Lc  heap0.o [2]
+.iar.dynexit$$Base      0x2000'0124          --   Gb  - Linker created -
+.iar.dynexit$$Limit     0x2000'02bc          --   Gb  - Linker created -
+.iar.init_table$$Base    0x800'1108          --   Gb  - Linker created -
+.iar.init_table$$Limit   0x800'1130          --   Gb  - Linker created -
+?main                    0x800'11f1         Code  Gb  cmain.o [6]
+Aldata                  0x2000'00fc    0x8  Data  Lc  heap0.o [2]
 Amber::GetInstance(OutputFormat *)
-                         0x800'0d55   0x1c  Code  Gb  Amber.o [1]
-Amber::Handle()          0x800'0d71    0xa  Code  Gb  Amber.o [1]
-Amber::Instance         0x2000'014c    0x4  Data  Gb  Amber.o [1]
+                         0x800'0c45   0x1c  Code  Gb  Amber.o [1]
+Amber::Handle()          0x800'0c61    0xa  Code  Gb  Amber.o [1]
+Amber::Instance         0x2000'00d4    0x4  Data  Gb  Amber.o [1]
 Amber::myOutputFormatAmber
-                        0x2000'0150    0x4  Data  Gb  Amber.o [1]
-Amber::nextstate()       0x800'1549    0xc  Code  Wk  Amber.o [1]
-BusFault_Handler         0x800'0e1f         Code  Wk  vectortrap_M.o [6]
-CSTACK$$Base            0x2000'0340          --   Gb  - Linker created -
-CSTACK$$Limit           0x2000'2340          --   Gb  - Linker created -
-DebugMon_Handler         0x800'0e1f         Code  Wk  vectortrap_M.o [6]
-DtorRecArray            0x2000'019c    0xc  Data  Lc  cppinit.o [2]
+                        0x2000'00d8    0x4  Data  Gb  Amber.o [1]
+Amber::nextstate()       0x800'1351    0xc  Code  Wk  Amber.o [1]
+BusFault_Handler         0x800'09af         Code  Wk  vectortrap_M.o [6]
+CSTACK$$Base            0x2000'02c0          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'22c0          --   Gb  - Linker created -
+DebugMon_Handler         0x800'09af         Code  Wk  vectortrap_M.o [6]
+DtorRecArray            0x2000'0124    0xc  Data  Lc  cppinit.o [2]
+GPIO::GPIO(unsigned int)
+                         0x800'0701   0x78  Code  Gb  GPIO.o [1]
+GPIO::delete_bit(unsigned int)
+                         0x800'07f5   0x1c  Code  Gb  GPIO.o [1]
+GPIO::select_datadirection(unsigned char, bool)
+                         0x800'0799   0x3c  Code  Gb  GPIO.o [1]
+GPIO::set_bit(unsigned int)
+                         0x800'07d5   0x20  Code  Gb  GPIO.o [1]
 Green::GetInstance(OutputFormat *)
-                         0x800'113d   0x1c  Code  Gb  Green.o [1]
-Green::Handle()          0x800'1159    0xa  Code  Gb  Green.o [1]
-Green::Instance         0x2000'0154    0x4  Data  Gb  Green.o [1]
+                         0x800'0fe5   0x1c  Code  Gb  Green.o [1]
+Green::Handle()          0x800'1001    0xa  Code  Gb  Green.o [1]
+Green::Instance         0x2000'00dc    0x4  Data  Gb  Green.o [1]
 Green::myOutputFormatGreen
-                        0x2000'0158    0x4  Data  Gb  Green.o [1]
-Green::nextstate()       0x800'1555    0xc  Code  Wk  Green.o [1]
-HEAP$$Base              0x2000'2340          --   Gb  - Linker created -
-HEAP$$Limit             0x2000'4340          --   Gb  - Linker created -
-HardFault_Handler        0x800'0e1f         Code  Wk  vectortrap_M.o [6]
+                        0x2000'00e0    0x4  Data  Gb  Green.o [1]
+Green::nextstate()       0x800'135d    0xc  Code  Wk  Green.o [1]
+HEAP$$Base              0x2000'22c0          --   Gb  - Linker created -
+HEAP$$Limit             0x2000'42c0          --   Gb  - Linker created -
+HardFault_Handler        0x800'09af         Code  Wk  vectortrap_M.o [6]
+HardwareInput::GetInstance()
+                         0x800'0f4d   0x34  Code  Gb  HardwareInput.o [1]
+HardwareInput::Instance
+                        0x2000'0108    0x4  Data  Gb  HardwareInput.o [1]
+HardwareInput::getButton()
+                         0x800'1391    0x6  Code  Wk  HardwareInput.o [1]
+HardwareOutput::GetInstance()
+                         0x800'0fb5   0x30  Code  Gb  HardwareOutput.o [1]
+HardwareOutput::Instance
+                        0x2000'010c    0x4  Data  Gb  HardwareOutput.o [1]
+HardwareOutput::off()    0x800'11b1   0x20  Code  Wk  HardwareOutput.o [1]
+HardwareOutput::setAmber()
+                         0x800'1171   0x20  Code  Wk  HardwareOutput.o [1]
+HardwareOutput::setGreen()
+                         0x800'1191   0x20  Code  Wk  HardwareOutput.o [1]
+HardwareOutput::setRed()
+                         0x800'1131   0x20  Code  Wk  HardwareOutput.o [1]
+HardwareOutput::setRedAmber()
+                         0x800'1151   0x20  Code  Wk  HardwareOutput.o [1]
 Initialization guard variable for std::ctype<char> const & std::use_facet<std::ctype<char>>()::_MyFacet
-                        0x2000'0198    0x1  Data  Wk  active.o [1]
-MemManage_Handler        0x800'0e1f         Code  Wk  vectortrap_M.o [6]
-NMI_Handler              0x800'0e1f         Code  Wk  vectortrap_M.o [6]
+                        0x2000'0120    0x1  Data  Wk  active.o [1]
+MemManage_Handler        0x800'09af         Code  Wk  vectortrap_M.o [6]
+NMI_Handler              0x800'09af         Code  Wk  vectortrap_M.o [6]
 Off::GetInstance(OutputFormat *)
-                         0x800'0d1d    0xa  Code  Gb  Off.o [1]
-Off::Handle()            0x800'0d27    0xa  Code  Gb  Off.o [1]
-Off::Instance           0x2000'015c    0x4  Data  Gb  Off.o [1]
-Off::myOutputFormatOff  0x2000'0160    0x4  Data  Gb  Off.o [1]
-Off::nextstate()         0x800'0d31    0x6  Code  Gb  Off.o [1]
-PendSV_Handler           0x800'0e1f         Code  Wk  vectortrap_M.o [6]
+                         0x800'0bd9    0xa  Code  Gb  Off.o [1]
+Off::Handle()            0x800'0be3    0xa  Code  Gb  Off.o [1]
+Off::Instance           0x2000'00e4    0x4  Data  Gb  Off.o [1]
+Off::myOutputFormatOff  0x2000'00e8    0x4  Data  Gb  Off.o [1]
+Off::nextstate()         0x800'0bed    0x6  Code  Gb  Off.o [1]
+PendSV_Handler           0x800'09af         Code  Wk  vectortrap_M.o [6]
 Red::GetInstance(OutputFormat *)
-                         0x800'0bbd   0x1c  Code  Gb  Red.o [1]
-Red::Handle()            0x800'0bd9    0xa  Code  Gb  Red.o [1]
-Red::Instance           0x2000'0164    0x4  Data  Gb  Red.o [1]
-Red::myOutputFormatRed  0x2000'0168    0x4  Data  Gb  Red.o [1]
-Red::nextstate()         0x800'1561    0xc  Code  Wk  Red.o [1]
+                         0x800'0ac1   0x1c  Code  Gb  Red.o [1]
+Red::Handle()            0x800'0add    0xa  Code  Gb  Red.o [1]
+Red::Instance           0x2000'00ec    0x4  Data  Gb  Red.o [1]
+Red::myOutputFormatRed  0x2000'00f0    0x4  Data  Gb  Red.o [1]
+Red::nextstate()         0x800'1369    0xc  Code  Wk  Red.o [1]
 RedAmber::GetInstance(OutputFormat *)
-                         0x800'116d   0x1c  Code  Gb  RedAmber.o [1]
-RedAmber::Handle()       0x800'1189    0xa  Code  Gb  RedAmber.o [1]
-RedAmber::Instance      0x2000'016c    0x4  Data  Gb  RedAmber.o [1]
+                         0x800'1015   0x1c  Code  Gb  RedAmber.o [1]
+RedAmber::Handle()       0x800'1031    0xa  Code  Gb  RedAmber.o [1]
+RedAmber::Instance      0x2000'00f4    0x4  Data  Gb  RedAmber.o [1]
 RedAmber::myOutputFormatRedAmber
-                        0x2000'0170    0x4  Data  Gb  RedAmber.o [1]
-RedAmber::nextstate()    0x800'156d    0xc  Code  Wk  RedAmber.o [1]
-Region$$Table$$Base      0x800'12b4          --   Gb  - Linker created -
-Region$$Table$$Limit     0x800'12dc          --   Gb  - Linker created -
-SHT$$INIT_ARRAY$$Base    0x800'1580          --   Gb  - Linker created -
-SHT$$INIT_ARRAY$$Limit   0x800'1584          --   Gb  - Linker created -
+                        0x2000'00f8    0x4  Data  Gb  RedAmber.o [1]
+RedAmber::nextstate()    0x800'1375    0xc  Code  Wk  RedAmber.o [1]
+Region$$Table$$Base      0x800'1108          --   Gb  - Linker created -
+Region$$Table$$Limit     0x800'1130          --   Gb  - Linker created -
+SHT$$INIT_ARRAY$$Base    0x800'1384          --   Gb  - Linker created -
+SHT$$INIT_ARRAY$$Limit   0x800'1388          --   Gb  - Linker created -
 SHT$$PREINIT_ARRAY$$Base
-                         0x800'1578          --   Gb  - Linker created -
+                         0x800'1380          --   Gb  - Linker created -
 SHT$$PREINIT_ARRAY$$Limit
-                         0x800'1580          --   Gb  - Linker created -
-SVC_Handler              0x800'0e1f         Code  Wk  vectortrap_M.o [6]
-SoftwareInput::GetInstance()
-                         0x800'1119   0x24  Code  Gb  SoftwareInput.o [1]
-SoftwareInput::Instance
-                        0x2000'0180    0x4  Data  Gb  SoftwareInput.o [1]
-SoftwareInput::getButton()
-                         0x800'0c01   0x6c  Code  Wk  SoftwareInput.o [1]
-SoftwareOutput::GetInstance()
-                         0x800'10f5   0x24  Code  Gb  SoftwareOutput.o [1]
-SoftwareOutput::Instance
-                        0x2000'0184    0x4  Data  Gb  SoftwareOutput.o [1]
-SoftwareOutput::off()    0x800'13c1   0x1c  Code  Wk  SoftwareOutput.o [1]
-SoftwareOutput::setAmber()
-                         0x800'1389   0x1c  Code  Wk  SoftwareOutput.o [1]
-SoftwareOutput::setGreen()
-                         0x800'13a5   0x1c  Code  Wk  SoftwareOutput.o [1]
-SoftwareOutput::setRed()
-                         0x800'1351   0x1c  Code  Wk  SoftwareOutput.o [1]
-SoftwareOutput::setRedAmber()
-                         0x800'136d   0x1c  Code  Wk  SoftwareOutput.o [1]
-SysTick_Handler          0x800'0e1f         Code  Wk  vectortrap_M.o [6]
-TrafficLight::Handle()   0x800'0d85   0x50  Code  Gb  TrafficLight.o [1]
-UsageFault_Handler       0x800'0e1f         Code  Wk  vectortrap_M.o [6]
+                         0x800'1384          --   Gb  - Linker created -
+SVC_Handler              0x800'09af         Code  Wk  vectortrap_M.o [6]
+SysTick_Handler          0x800'09af         Code  Wk  vectortrap_M.o [6]
+TrafficLight::Handle()   0x800'0d73   0x50  Code  Gb  TrafficLight.o [1]
+UsageFault_Handler       0x800'09af         Code  Wk  vectortrap_M.o [6]
+UserButtons::getButton()
+                         0x800'0d1b   0x58  Code  Gb  UserButtons.o [1]
+UserLEDs::UserLEDs()     0x800'0b05    0x2  Code  Gb  UserLEDs.o [1]
+UserLEDs::amberLED(bool)
+                         0x800'0b55   0x10  Code  Gb  UserLEDs.o [1]
+UserLEDs::greenLED(bool)
+                         0x800'0b65   0x10  Code  Gb  UserLEDs.o [1]
+UserLEDs::redLED(bool)   0x800'0b45   0x10  Code  Gb  UserLEDs.o [1]
 Virtual function table for std::_Wrap_facet<std::ctype<char>>
-                         0x800'1430   0x10  Data  Wk  active.o [1]
-Virtual function table for std::ios
-                         0x800'1500   0x10  Data  Wk  iostream_cout.o [3]
+                         0x800'1284   0x10  Data  Wk  active.o [1]
 Virtual function table for std::ios_base
-                         0x800'14f0   0x10  Data  Wk  ios.o [3]
+                         0x800'1314   0x10  Data  Wk  ios.o [3]
 [local to ios_cpp]::std::stdopens
-                        0x2000'00ec    0xc  Data  Lc  ios.o [3]
+                        0x2000'0078    0xc  Data  Lc  ios.o [3]
 [local to ios_cpp]::std::stdstr
-                        0x2000'00f8   0x28  Data  Lc  ios.o [3]
-[local to iostream_cin_cpp]::std::fin
-                        0x2000'00ac   0x40  Data  Lc  iostream_cin.o [3]
+                        0x2000'0084   0x28  Data  Lc  ios.o [3]
 [local to iostream_cout_cpp]::std::__iarcoutguard
-                        0x2000'0038    0x1  Data  Lc  iostream_cout.o [3]
+                        0x2000'0034    0x1  Data  Lc  iostream_cout.o [3]
 [local to iostream_cout_cpp]::std::fout
-                        0x2000'003c   0x40  Data  Lc  iostream_cout.o [3]
-_UngetChar              0x2000'0000    0x4  Data  Lc  getchar.o [2]
-__aeabi_atexit           0x800'0a0d    0xa  Code  Gb  cxxabi.o [4]
+                        0x2000'0038   0x40  Data  Lc  iostream_cout.o [3]
+__aeabi_atexit           0x800'09a5    0xa  Code  Gb  cxxabi.o [4]
 __basic_free             0x800'00ed   0x16  Code  Gb  heap0.o [2]
 __basic_free_intern      0x800'0103   0x74  Code  Lc  heap0.o [2]
 __basic_malloc           0x800'0041   0x18  Code  Gb  heap0.o [2]
 __basic_malloc_intern    0x800'0059   0x94  Code  Lc  heap0.o [2]
-__call_ctors             0x800'087d   0x18  Code  Gb  cppinit.o [2]
-__call_dtors             0x800'08cb    0xc  Code  Gb  cppinit.o [2]
-__call_dtors0            0x800'08d7   0x36  Code  Gb  cppinit.o [2]
-__cexit_call_dtors       0x800'1327         Code  Gb  cexit.o [6]
-__cmain                  0x800'12fd         Code  Gb  cmain.o [6]
-__cstart_call_dtors      0x800'1594         Data  Gb  cstart_call_dtors.o [6]
-__cxa_atexit             0x800'0895   0x36  Code  Gb  cppinit.o [2]
+__call_ctors             0x800'0819   0x18  Code  Gb  cppinit.o [2]
+__call_dtors             0x800'0867    0xc  Code  Gb  cppinit.o [2]
+__call_dtors0            0x800'0873   0x36  Code  Gb  cppinit.o [2]
+__cexit_call_dtors       0x800'121b         Code  Gb  cexit.o [6]
+__cmain                  0x800'11f1         Code  Gb  cmain.o [6]
+__cstart_call_dtors      0x800'139c         Data  Gb  cstart_call_dtors.o [6]
+__cxa_atexit             0x800'0831   0x36  Code  Gb  cppinit.o [2]
 __data_GetMemChunk       0x800'017d   0x2c  Code  Gb  xgetmemchunk.o [2]
 __data_GetMemChunk::start
-                        0x2000'0194    0x4  Data  Lc  xgetmemchunk.o [2]
-__dso_handle            0x2000'018c    0x4  Data  Gb  cppinit.o [2]
-__dwrite                 0x800'0fc1   0x1e  Code  Gb  dwrite.o [7]
-__exit                   0x800'0675   0x14  Code  Gb  exit.o [7]
-__iar_close_ttio         0x800'0699   0x2c  Code  Gb  iarttio.o [7]
+                        0x2000'011c    0x4  Data  Lc  xgetmemchunk.o [2]
+__dso_handle            0x2000'0114    0x4  Data  Gb  cppinit.o [2]
+__dwrite                 0x800'0eb5   0x1e  Code  Gb  dwrite.o [7]
+__exit                   0x800'0659   0x14  Code  Gb  exit.o [7]
+__iar_close_ttio         0x800'0679   0x2c  Code  Gb  iarttio.o [7]
 __iar_copy_init3         0x800'051f   0x2a  Code  Gb  copy_init3.o [6]
 __iar_cstart_call_ctors
-                         0x800'12dd   0x20  Code  Gb  cmain_call_ctors.o [6]
-__iar_data_init3         0x800'1269   0x28  Code  Gb  data_init.o [6]
-__iar_debug_exceptions   0x800'10f2    0x1  Data  Gb  unwind_debug.o [7]
-__iar_get_ttio           0x800'06c5   0x4c  Code  Gb  iarttio.o [7]
-__iar_init_vfp           0x800'1291         Code  Gb  fpinit_M.o [5]
-__iar_lookup_ttioh       0x800'0719    0x8  Code  Gb  XShttio.o [2]
-__iar_program_start      0x800'13dd         Code  Gb  cstartup_M.o [6]
-__iar_sh_stdout          0x800'0fdf   0x20  Code  Gb  iarwstd.o [7]
-__iar_sh_write           0x800'0fff   0x22  Code  Gb  iarwrite.o [7]
+                         0x800'11d1   0x20  Code  Gb  cmain_call_ctors.o [6]
+__iar_data_init3         0x800'10bd   0x28  Code  Gb  data_init.o [6]
+__iar_debug_exceptions   0x800'0a26    0x1  Data  Gb  unwind_debug.o [7]
+__iar_get_ttio           0x800'06a5   0x4c  Code  Gb  iarttio.o [7]
+__iar_init_vfp           0x800'10e5         Code  Gb  fpinit_M.o [5]
+__iar_lookup_ttioh       0x800'06f9    0x8  Code  Gb  XShttio.o [2]
+__iar_program_start      0x800'1245         Code  Gb  cstartup_M.o [6]
+__iar_sh_stdout          0x800'0ed3   0x20  Code  Gb  iarwstd.o [7]
+__iar_sh_write           0x800'0ef3   0x22  Code  Gb  iarwrite.o [7]
 __iar_tls$$INIT_ARRAY$$Base
-                         0x800'1584          --   Gb  - Linker created -
+                         0x800'1388          --   Gb  - Linker created -
 __iar_tls$$INIT_ARRAY$$Limit
-                         0x800'1584          --   Gb  - Linker created -
-__iar_ttio_handles      0x2000'0004    0x8  Data  Lc  XShttio.o [2]
-__iar_unaligned_memcpy   0x800'0aad         Code  Gb  ABImemcpy_unaligned.o [6]
+                         0x800'1388          --   Gb  - Linker created -
+__iar_ttio_handles      0x2000'0000    0x8  Data  Lc  XShttio.o [2]
+__iar_unaligned_memcpy   0x800'09b1         Code  Gb  ABImemcpy_unaligned.o [6]
 __iar_unaligned_memcpy4
-                         0x800'0acd         Code  Gb  ABImemcpy_unaligned.o [6]
+                         0x800'09d1         Code  Gb  ABImemcpy_unaligned.o [6]
 __iar_unaligned_memcpy8
-                         0x800'0acd         Code  Gb  ABImemcpy_unaligned.o [6]
-__iar_zero_init3         0x800'1021   0x38  Code  Gb  zero_init3.o [6]
-__low_level_init         0x800'131b    0x4  Code  Gb  low_level_init.o [2]
-__read                   0x800'0e59   0x30  Code  Gb  read.o [7]
+                         0x800'09d1         Code  Gb  ABImemcpy_unaligned.o [6]
+__iar_zero_init3         0x800'0f15   0x38  Code  Gb  zero_init3.o [6]
+__low_level_init         0x800'120f    0x4  Code  Gb  low_level_init.o [2]
 __sti__routine           0x800'054b    0xa  Code  Lc  ios.o [3]
-__sti__routine           0x800'0a1d   0x90  Code  Lc  iostream_cout.o [3]
-__sti__routine           0x800'091d   0x94  Code  Lc  iostream_cin.o [3]
-__ungetchar              0x800'0e4f    0x6  Code  Gb  getchar.o [2]
+__sti__routine           0x800'08b9   0x90  Code  Lc  iostream_cout.o [3]
 __vector_table           0x800'0000         Data  Gb  vector_table_M.o [6]
-__write                  0x800'0fb1   0x10  Code  Gb  write.o [7]
-_call_main               0x800'1309         Code  Gb  cmain.o [6]
-_exit                    0x800'1325         Code  Gb  cexit.o [6]
+__write                  0x800'0ea5   0x10  Code  Gb  write.o [7]
+_call_main               0x800'11fd         Code  Gb  cmain.o [6]
+_exit                    0x800'1219         Code  Gb  cexit.o [6]
 abort                    0x800'0649    0x6  Code  Gb  abort.o [2]
 active::GetInstance(OutputFormat *, InputFormat *)
-                         0x800'0b25   0x2e  Code  Gb  active.o [1]
-active::Handle()         0x800'0b53   0x42  Code  Gb  active.o [1]
-active::Instance        0x2000'0120    0x4  Data  Gb  active.o [1]
+                         0x800'0a29   0x2e  Code  Gb  active.o [1]
+active::Handle()         0x800'0a57   0x42  Code  Gb  active.o [1]
+active::Instance        0x2000'00ac    0x4  Data  Gb  active.o [1]
 active::myInputFormatActive
-                        0x2000'0128    0x4  Data  Gb  active.o [1]
+                        0x2000'00b4    0x4  Data  Gb  active.o [1]
 active::myOutputFormatActive
-                        0x2000'0124    0x4  Data  Gb  active.o [1]
-active::nextstate()      0x800'1219   0x28  Code  Wk  active.o [1]
-exit                     0x800'131f    0x4  Code  Gb  exit.o [2]
+                        0x2000'00b0    0x4  Data  Gb  active.o [1]
+active::nextstate()      0x800'106d   0x28  Code  Wk  active.o [1]
+exit                     0x800'1213    0x4  Code  Gb  exit.o [2]
 flashing::GetInstance(OutputFormat *, InputFormat *)
-                         0x800'0ccd   0x22  Code  Gb  flashing.o [1]
-flashing::Handle()       0x800'0cef   0x26  Code  Gb  flashing.o [1]
-flashing::Instance      0x2000'0140    0x4  Data  Gb  flashing.o [1]
+                         0x800'0b75   0x22  Code  Gb  flashing.o [1]
+flashing::Handle()       0x800'0b97   0x32  Code  Gb  flashing.o [1]
+flashing::Instance      0x2000'00c8    0x4  Data  Gb  flashing.o [1]
 flashing::myInputFormatFlashing
-                        0x2000'0148    0x4  Data  Gb  flashing.o [1]
+                        0x2000'00d0    0x4  Data  Gb  flashing.o [1]
 flashing::myOutputFormatFlashing
-                        0x2000'0144    0x4  Data  Gb  flashing.o [1]
-flashing::nextstate()    0x800'1241   0x28  Code  Wk  flashing.o [1]
-free                     0x800'0715    0x4  Code  Gb  heaptramp0.o [2]
-getchar                  0x800'0e21   0x2e  Code  Gb  getchar.o [2]
-main                     0x800'10c1   0x32  Code  Gb  main.o [1]
-next_abi_dtor_rec       0x2000'0188    0x4  Data  Lc  cppinit.o [2]
+                        0x2000'00cc    0x4  Data  Gb  flashing.o [1]
+flashing::nextstate()    0x800'1095   0x28  Code  Wk  flashing.o [1]
+free                     0x800'06f5    0x4  Code  Gb  heaptramp0.o [2]
+main                     0x800'0f81   0x32  Code  Gb  main.o [1]
+next_abi_dtor_rec       0x2000'0110    0x4  Data  Lc  cppinit.o [2]
 operator delete (void *)
-                         0x800'0689    0xa  Code  Gb  delop_0.o [4]
+                         0x800'066d    0xa  Code  Gb  delop_0.o [4]
 operator delete (void *, unsigned int)
                          0x800'064f    0x4  Code  Gb  delop4_0.o [4]
 operator new (unsigned int)
-                         0x800'0b99   0x24  Code  Gb  newop_0.o [4]
-putchar                  0x800'0f91   0x20  Code  Gb  putchar.o [2]
-std::_Fpz               0x2000'0130   0x10  Data  Gb  ios.o [3]
+                         0x800'0a9d   0x24  Code  Gb  newop_0.o [4]
+putchar                  0x800'0e85   0x20  Code  Gb  putchar.o [2]
+std::_Fpz               0x2000'00b8   0x10  Data  Gb  ios.o [3]
 std::_NomemoryNothrow()
-                         0x800'0bfd    0x4  Code  Gb  nomemory.o [4]
-std::__iar_New_hand     0x2000'0190    0x4  Data  Gb  new.o [4]
-std::__nobasic_filebuf<char, std::char_traits<char>>::__nobasic_filebuf()
-                         0x800'09b1   0x5c  Code  Wk  iostream_cout.o [3]
+                         0x800'0b01    0x4  Code  Gb  nomemory.o [4]
+std::__iar_New_hand     0x2000'0118    0x4  Data  Gb  new.o [4]
 std::__nobasic_filebuf<char, std::char_traits<char>>::overflow(int)
-                         0x800'0f59   0x38  Code  Wk  iostream_cout.o [3]
-std::__nobasic_filebuf<char, std::char_traits<char>>::uflow()
-                         0x800'119d   0x2c  Code  Wk  iostream_cout.o [3]
-std::cin                0x2000'007c   0x30  Data  Gb  iostream_cin.o [3]
-std::cout               0x2000'000c   0x2c  Data  Gb  iostream_cout.o [3]
+                         0x800'0e4d   0x38  Code  Wk  iostream_cout.o [3]
+std::cout               0x2000'0008   0x2c  Data  Gb  iostream_cout.o [3]
 std::ctype<char> const & std::use_facet<std::ctype<char>>()::_MyFacet
-                        0x2000'017c    0x4  Data  Wk  active.o [1]
-std::ios::setstate(std::_Iosb<int>::_Iostate, bool)
-                         0x800'0361   0x1c  Code  Wk  active.o [1]
+                        0x2000'0104    0x4  Data  Wk  active.o [1]
 std::ios_base::_Addstd(std::ios_base*)
                          0x800'05b5   0x32  Code  Gb  ios.o [3]
 std::ios_base::_Callfns(std::ios_base::event)
@@ -588,25 +569,23 @@ std::ios_base::~ios_base()
 std::ios_base::~ios_base() [subobject]
                          0x800'0549    0x2  Code  Gb  ios.o [3]
 std::ostream & std::endl<char, std::char_traits<char>>(std::ostream &)
-                         0x800'1059   0x34  Code  Wk  active.o [1]
+                         0x800'0c11   0x34  Code  Wk  active.o [1]
 std::ostream & std::operator <<<std::char_traits<char>>(std::ostream &, char const *)
                          0x800'01a9  0x118  Code  Wk  active.o [1]
 std::ostream::flush()    0x800'044f   0xd0  Code  Wk  active.o [1]
 std::streambuf::_Lock()
-                         0x800'0b23    0x2  Code  Wk  iostream_cout.o [3]
+                         0x800'0677    0x2  Code  Wk  iostream_cout.o [3]
 std::streambuf::_Unlock()
-                         0x800'0ccb    0x2  Code  Wk  iostream_cout.o [3]
+                         0x800'0817    0x2  Code  Wk  iostream_cout.o [3]
 std::streambuf::overflow(int)
-                         0x800'0693    0x6  Code  Wk  iostream_cout.o [3]
-std::streambuf::sync()   0x800'1591    0x4  Code  Wk  iostream_cout.o [3]
-std::streambuf::uflow()
-                         0x800'0653   0x22  Code  Wk  iostream_cout.o [3]
+                         0x800'0653    0x6  Code  Wk  iostream_cout.o [3]
+std::streambuf::sync()   0x800'1397    0x4  Code  Wk  iostream_cout.o [3]
 std::streambuf::xsputn(char const *, int)
-                         0x800'0c6d   0x5e  Code  Wk  iostream_cout.o [3]
+                         0x800'0cbd   0x5e  Code  Wk  iostream_cout.o [3]
 strlen                   0x800'02c1         Code  Gb  strlen.o [6]
 
 
-[1] = C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj
+[1] = C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\Obj
 [2] = dl7M_tln.a
 [3] = dlpp7M_tl_nc.a
 [4] = dlpprt7M_tl_nc.a
@@ -614,9 +593,9 @@ strlen                   0x800'02c1         Code  Gb  strlen.o [6]
 [6] = rt7M_tl.a
 [7] = shb_l.a
 
-   4'925 bytes of readonly  code memory
-     599 bytes of readonly  data memory
-  17'213 bytes of readwrite data memory
+   4'547 bytes of readonly  code memory
+     473 bytes of readonly  data memory
+  17'081 bytes of readwrite data memory
 
 Errors: none
 Warnings: none

@@ -1,0 +1,152 @@
+\hypertarget{class_software_output}{}\doxysection{Software\+Output Class Reference}
+\label{class_software_output}\index{SoftwareOutput@{SoftwareOutput}}
+
+
+{\ttfamily \#include $<$Software\+Output.\+h$>$}
+
+Inheritance diagram for Software\+Output\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_software_output}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_software_output_a344aca503b95aff7738af029a4a1835e}{set\+Red}} ()
+\item 
+void \mbox{\hyperlink{class_software_output_a07117578d3d558cce878b007945cf310}{set\+Red\+Amber}} ()
+\item 
+void \mbox{\hyperlink{class_software_output_abf7d9e5fed5f2a8ebb52a3ad6f7e031c}{set\+Amber}} ()
+\item 
+void \mbox{\hyperlink{class_software_output_af8d6e3d3ad2ad216c0224ce595ca657a}{set\+Green}} ()
+\item 
+void \mbox{\hyperlink{class_software_output_a3ece6bc43a76eaaade3a700e25bfb182}{off}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_software_output}{Software\+Output}} $\ast$ \mbox{\hyperlink{class_software_output_a2137fb01c9a71cc614aaa14a3eeded83}{Get\+Instance}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Interface class \char`\"{}\+Software\+Output\char`\"{}. \begin{DoxyAuthor}{Author}
+Niklas Stein 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+June 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_software_output_a2137fb01c9a71cc614aaa14a3eeded83}\label{class_software_output_a2137fb01c9a71cc614aaa14a3eeded83}} 
+\index{SoftwareOutput@{SoftwareOutput}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!SoftwareOutput@{SoftwareOutput}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_software_output}{Software\+Output}} $\ast$ Software\+Output\+::\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Static singleton access method. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_software_output_a3ece6bc43a76eaaade3a700e25bfb182}\label{class_software_output_a3ece6bc43a76eaaade3a700e25bfb182}} 
+\index{SoftwareOutput@{SoftwareOutput}!off@{off}}
+\index{off@{off}!SoftwareOutput@{SoftwareOutput}}
+\doxysubsubsection{\texorpdfstring{off()}{off()}}
+{\footnotesize\ttfamily void Software\+Output\+::off (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Writes \char`\"{}\+All leds off!\char`\"{} to the Terminal. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_af649b015063a287df4474eb3303020fb}{Output\+Format}}.
+
+\mbox{\Hypertarget{class_software_output_abf7d9e5fed5f2a8ebb52a3ad6f7e031c}\label{class_software_output_abf7d9e5fed5f2a8ebb52a3ad6f7e031c}} 
+\index{SoftwareOutput@{SoftwareOutput}!setAmber@{setAmber}}
+\index{setAmber@{setAmber}!SoftwareOutput@{SoftwareOutput}}
+\doxysubsubsection{\texorpdfstring{setAmber()}{setAmber()}}
+{\footnotesize\ttfamily void Software\+Output\+::set\+Amber (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Writes \char`\"{}\+AMBER led on!\char`\"{} to the Terminal. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_a2d22ce8d7645bcb2784a7f195b4cc13d}{Output\+Format}}.
+
+\mbox{\Hypertarget{class_software_output_af8d6e3d3ad2ad216c0224ce595ca657a}\label{class_software_output_af8d6e3d3ad2ad216c0224ce595ca657a}} 
+\index{SoftwareOutput@{SoftwareOutput}!setGreen@{setGreen}}
+\index{setGreen@{setGreen}!SoftwareOutput@{SoftwareOutput}}
+\doxysubsubsection{\texorpdfstring{setGreen()}{setGreen()}}
+{\footnotesize\ttfamily void Software\+Output\+::set\+Green (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Writes \char`\"{}\+GREEN led on!\char`\"{} to the Terminal. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_a60ee3d7cf9299b6a40794a112ebb0b7f}{Output\+Format}}.
+
+\mbox{\Hypertarget{class_software_output_a344aca503b95aff7738af029a4a1835e}\label{class_software_output_a344aca503b95aff7738af029a4a1835e}} 
+\index{SoftwareOutput@{SoftwareOutput}!setRed@{setRed}}
+\index{setRed@{setRed}!SoftwareOutput@{SoftwareOutput}}
+\doxysubsubsection{\texorpdfstring{setRed()}{setRed()}}
+{\footnotesize\ttfamily void Software\+Output\+::set\+Red (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Writes \char`\"{}\+RED led on!\char`\"{} to the Terminal. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_ae56ace408d194900091badcdbf709fb6}{Output\+Format}}.
+
+\mbox{\Hypertarget{class_software_output_a07117578d3d558cce878b007945cf310}\label{class_software_output_a07117578d3d558cce878b007945cf310}} 
+\index{SoftwareOutput@{SoftwareOutput}!setRedAmber@{setRedAmber}}
+\index{setRedAmber@{setRedAmber}!SoftwareOutput@{SoftwareOutput}}
+\doxysubsubsection{\texorpdfstring{setRedAmber()}{setRedAmber()}}
+{\footnotesize\ttfamily void Software\+Output\+::set\+Red\+Amber (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Writes \char`\"{}\char`\"{}REDAMBER led on!"{} to the Terminal. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_a9b5bf04195245aab51a471793deab58c}{Output\+Format}}.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_software_output_8h}{Software\+Output.\+h}}\item 
+\mbox{\hyperlink{_software_output_8cpp}{Software\+Output.\+cpp}}\end{DoxyCompactItemize}

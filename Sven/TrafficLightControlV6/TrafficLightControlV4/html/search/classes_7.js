@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['trafficlight_0',['TrafficLight',['../class_traffic_light.html',1,'']]]
+  ['red_0',['Red',['../class_red.html',1,'']]],
+  ['redamber_1',['RedAmber',['../class_red_amber.html',1,'']]]
 ];

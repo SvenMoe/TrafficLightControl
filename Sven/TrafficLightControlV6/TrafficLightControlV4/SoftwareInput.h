@@ -12,8 +12,8 @@ using namespace std;
 
 /**
  * Interface class "SoftwareInput".
- * @author 
- * @date   May 2022
+ * @author Niklas Stein
+ * @date   June 2022
  */
 class SoftwareInput : public InputFormat
 {
@@ -25,7 +25,18 @@ private:
     SoftwareInput() {}
 
 public:
+    /**
+     * Static singleton access method.
+     * @param  None
+     * @return None
+     */
     static SoftwareInput *GetInstance();
+    
+    /**
+     * Reads the input value and writes it to the class attribute "button".
+     * @param  None
+     * @return button class attribute
+     */
     char getButton();
 
 };

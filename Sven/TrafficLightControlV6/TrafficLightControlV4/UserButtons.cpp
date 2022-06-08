@@ -17,6 +17,7 @@ bool UserButtons::getPinB3()
     return 0;
   }
 }
+
 bool UserButtons::getPinB5()
 {
   if(myGPIOB.read_port() & (1ul << 5))

@@ -11,18 +11,53 @@
 
 /**
  * Interface class "OutputFormat".
- * @author 
- * @date   May 2022
+ * @author Niklas Stein
+ * @date   June 2022
  */
 class OutputFormat
 {
 
 public:
+  /**
+   * Constructor of "OutputFormat"-class. Is empty.
+   * @param  None
+   * @return None
+   */
   OutputFormat(){}
+  
+  /**
+   * Virtual Method. Will be overritten.
+   * @param  None
+   * @return None
+   */
   virtual void setRed() = 0;
+  
+  /**
+   * Virtual Method. Will be overritten.
+   * @param  None
+   * @return None
+   */
   virtual void setRedAmber() = 0;
+  
+  /**
+   * Virtual Method. Will be overritten.
+   * @param  None
+   * @return None
+   */
   virtual void setAmber() = 0;
+  
+  /**
+   * Virtual Method. Will be overritten.
+   * @param  None
+   * @return None
+   */
   virtual void setGreen() = 0;
+  
+  /**
+   * Virtual Method. Will be overritten.
+   * @param  None
+   * @return None
+   */
   virtual void off() = 0;
 };
 

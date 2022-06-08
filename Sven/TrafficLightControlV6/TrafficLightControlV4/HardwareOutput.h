@@ -12,8 +12,8 @@
 
 /**
  * Interface class "HardwareOutput".
- * @author 
- * @date   May 2022
+ * @author Niklas Stein
+ * @date   June 2022
  */
 class HardwareOutput : public OutputFormat
 {
@@ -26,11 +26,46 @@ private:
     
 
 public:
+    /**
+     * Static singleton access method.
+     * @param  None
+     * @return None
+     */
     static HardwareOutput *GetInstance();
+    
+    /**
+     * Sets the red LED with help of UserLEDs class.
+     * @param  None
+     * @return None
+     */
     void setRed();
+    
+    /**
+     * Sets the red and the amber LED with help of UserLEDs class.
+     * @param  None
+     * @return None
+     */
     void setRedAmber();
+    
+    /**
+     * Sets the amber LED with help of UserLEDs class.
+     * @param  None
+     * @return None
+     */
     void setAmber();
+    
+    /**
+     * Sets the green LED with help of UserLEDs class.
+     * @param  None
+     * @return None
+     */
     void setGreen();
+    
+    /**
+     * Resets all LEDs with help of UserLEDs class.
+     * @param  None
+     * @return None
+     */
     void off();
 
 };

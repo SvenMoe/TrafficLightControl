@@ -11,14 +11,25 @@
 
 /**
  * Interface class "InputFormat".
- * @author 
- * @date   May 2022
+ * @author Niklas Stein
+ * @date   June 2022
  */
 class InputFormat
 {
 
 public:
+  /**
+   * Constructor of "InputFormat"-class. Is empty.
+   * @param  None
+   * @return None
+   */
   InputFormat(){}
+  
+  /**
+   * Virtual Method. Will be overritten.
+   * @param  None
+   * @return None
+   */
   virtual char getButton() = 0;
 };
 

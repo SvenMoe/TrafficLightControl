@@ -13,8 +13,8 @@
 /**
  * Context class "TrafficLight".
  * User Interface.
- * @author
- * @date   May 2022
+ * @author Sven Moessner
+ * @date   June 2022
  */
 class TrafficLight
 {

@@ -1,0 +1,34 @@
+\hypertarget{_software_input_8h_source}{}\doxysection{Software\+Input.\+h}
+\mbox{\hyperlink{_software_input_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#ifndef SOFTWAREINPUT\_H}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#define SOFTWAREINPUT\_H}}
+\DoxyCodeLine{5 }
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_input_format_8h}{InputFormat.h}}"{}}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{9 }
+\DoxyCodeLine{10 }
+\DoxyCodeLine{11 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{12 }
+\DoxyCodeLine{18 \textcolor{keyword}{class }\mbox{\hyperlink{class_software_input}{SoftwareInput}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_input_format}{InputFormat}}}
+\DoxyCodeLine{19 \{}
+\DoxyCodeLine{20 }
+\DoxyCodeLine{21 \textcolor{keyword}{private}:}
+\DoxyCodeLine{22 }
+\DoxyCodeLine{23     \textcolor{keyword}{static} \mbox{\hyperlink{class_software_input}{SoftwareInput}} *Instance;}
+\DoxyCodeLine{24     \textcolor{keywordtype}{char} button;}
+\DoxyCodeLine{25     \mbox{\hyperlink{class_software_input}{SoftwareInput}}() \{\}}
+\DoxyCodeLine{26 }
+\DoxyCodeLine{27 \textcolor{keyword}{public}:}
+\DoxyCodeLine{33     \textcolor{keyword}{static} \mbox{\hyperlink{class_software_input}{SoftwareInput}} *\mbox{\hyperlink{class_software_input_a14712d94bfa974bdc0ad0ea50acbe612}{GetInstance}}();}
+\DoxyCodeLine{34     }
+\DoxyCodeLine{40     \textcolor{keywordtype}{char} \mbox{\hyperlink{class_software_input_a766e1ecc1663812bc2b27e37404eb1bd}{getButton}}();}
+\DoxyCodeLine{41 }
+\DoxyCodeLine{42 \};}
+\DoxyCodeLine{43 }
+\DoxyCodeLine{44 }
+\DoxyCodeLine{45 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

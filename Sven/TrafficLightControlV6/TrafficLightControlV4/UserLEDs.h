@@ -13,8 +13,8 @@ using namespace std;
 
 /**
  * This class controls the Hardware-LED states of the STM Board.
- * @author 
- * @date   May 2022
+ * @author Timo Kempf
+ * @date   June 2022
  */
 class UserLEDs
 {

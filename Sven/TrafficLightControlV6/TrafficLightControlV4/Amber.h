@@ -18,7 +18,7 @@ using namespace std;
  * Concrete state of interface class LightControl.
  * In this state only the amber LED is on.
  * @author Cedric Franke
- * @date   May 2022
+ * @date   June 2022
  */
 class Amber : public LightControl
 {

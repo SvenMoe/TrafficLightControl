@@ -11,8 +11,8 @@ using namespace std;
 
 /**
  * The class controls the Input-Buttons of the STM Board.
- * @author 
- * @date   May 2022
+ * @author Timo Kempf
+ * @date   June 2022
  */
 class UserButtons
 {

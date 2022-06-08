@@ -4,7 +4,6 @@
 
 GPIO::GPIO(UINT32 startadress) :  MODER(*(volatile UINT32*)startadress), OTYPER(*(&MODER+1)), OSPEEDR(*(&MODER+2)), PUPDR(*(&MODER+3)), IDR(*(&MODER+4)), BSRR(*(&MODER+6)), RCC_AHB1ENR(*(volatile UINT32*)0x40023830)
 {
-
   if(startadress == 0x40020000)
   {
     RCC_AHB1ENR |= (1ul << 0); // enable Port A Clock

@@ -2,8 +2,8 @@
 
 /**
  * Definition of common datatypes used in this project.
- * @author 
- * @date   May 2022
+ * @author Timo Kempf
+ * @date   June 2022
  */
 typedef unsigned char UINT8; //8 Bit
 typedef unsigned short UINT16; //16 Bit
