@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.general.xcl" --backend -f "C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.general.xcl" --backend -f "C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\settings\TrafficLightControl.Debug.driver.xcl" 
 }

@@ -1,3 +1,11 @@
+// Mainpage in Doxygen
+/** @mainpage Documentation of the Traffic Light Project
+*   @section Introduction
+*
+*   @section Basics
+*
+*/
+
 #include "TrafficLight.h"
 #include <iostream>
 #include "SoftwareOutput.h"

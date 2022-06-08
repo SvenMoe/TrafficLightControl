@@ -1,15 +1,15 @@
-"C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\TrafficLight.cpp"
+"C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\TrafficLight.cpp"
 -std=c++17
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\BrowseInfo\TrafficLight.pbi.dep
+C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\BrowseInfo\TrafficLight.pbi.dep
 -o
-C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\BrowseInfo\TrafficLight.pbi
+C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4\Debug\BrowseInfo\TrafficLight.pbi
 -I
-C:\Users\svenm\Documents\GitHub\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4
+C:\Users\t.kempf\Documents\Mosbach\6.Semester\Embedded_Systems_Hess\Labor\TrafficLightControl\Sven\TrafficLightControlV6\TrafficLightControlV4
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\cpp
 -I
