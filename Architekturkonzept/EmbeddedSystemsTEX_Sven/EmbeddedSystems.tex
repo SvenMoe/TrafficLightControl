@@ -1,0 +1,327 @@
+% === Anfang: Seitenlayout Kopf & Fußzeile =====
+\documentclass[12pt,oneside,a4paper]{scrreprt}
+\usepackage[onehalfspacing]{setspace}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+\renewcommand{\familydefault}{\rmdefault}
+
+\usepackage[left=30mm,right=30mm,top=30mm,bottom=20mm,includeheadfoot]{geometry} % Einstellungen der Seitenränder
+\usepackage[backend=biber]{biblatex} % Literaturverzeichnis
+\addbibresource{bibliography.bib}
+\usepackage[table]{xcolor}
+% \usepackage{natbib} % Benötigt wegen URL Verweise in Literatur DB
+\usepackage{tabularx} % Benötigt wegen Tabelle tabularx
+\usepackage[ngerman]{babel} % neue Rechtschreibung
+\usepackage{pgfgantt} % GANTT Zeichungen
+\usepackage[utf8]{inputenc} % Umlaute ermöglichen
+\usepackage{listings} % Einbinden von Quellcode in LaTeX
+\usepackage{color} % Farben in LaTeX
+\usepackage[Final]{listofsymbols} % Symbolverzeichnis 
+\usepackage{graphicx} % Damit Grafiken eingebunden werden können
+\usepackage{float} % Erweiter Modus wegen Positonierung {table}[H]
+%\usepackage{mdwlist} % Kleinerer Zeilenabstand bei Aufzählungen (\item)
+\usepackage{amsmath}
+\usepackage{enumerate}
+\usepackage{pdfpages}
+\usepackage{booktabs}
+\usepackage{listings} % Einbinden von Quellcode in LaTeX
+%\usepackage{minted} % Einbinden von Python Quelltext
+\setlength{\parindent}{0pt} % Kein Einrücken
+
+\usepackage{rotating}
+
+\usepackage{sidecap}
+\usepackage{graphicx}
+
+%Zitationsstil
+%\bibliographystyle{unsrt}
+\usepackage{biblatex}% 
+\addbibresource{bibliography.bib}
+%\bibliographystyle{alpha}
+
+%Einstellungen für Syntax-Highlighting Python
+\definecolor{bluekeywords}{rgb}{0,0,1}
+\definecolor{greencomments}{rgb}{0,0.5,0}
+\definecolor{redstrings}{rgb}{0.64,0.08,0.08}
+\definecolor{xmlcomments}{rgb}{0.5,0.5,0.5}
+\definecolor{types}{rgb}{0.17,0.57,0.68}
+
+\definecolor{lightgray}{rgb}{0.95, 0.95, 0.95}
+\definecolor{darkgray}{rgb}{0.4, 0.4, 0.4}
+%\definecolor{purple}{rgb}{0.65, 0.12, 0.82}
+\definecolor{editorGray}{rgb}{0.95, 0.95, 0.95}
+\definecolor{editorOcher}{rgb}{1, 0.5, 0} % #FF7F00 -> rgb(239, 169, 0)
+\definecolor{editorGreen}{rgb}{0, 0.5, 0} % #007C00 -> rgb(0, 124, 0)
+\definecolor{orange}{rgb}{1,0.45,0.13}		
+\definecolor{olive}{rgb}{0.17,0.59,0.20}
+\definecolor{brown}{rgb}{0.69,0.31,0.31}
+\definecolor{purple}{rgb}{0.38,0.18,0.81}
+\definecolor{lightblue}{rgb}{0.1,0.57,0.7}
+\definecolor{lightred}{rgb}{1,0.4,0.5}
+%Define Syntaxhighlighting Python 
+\lstdefinestyle{myC}
+{language=C,
+	captionpos=b,
+	numbers=left, %Nummerierung
+	numberstyle=\tiny, % kleine Zeilennummern
+	frame=lines, % Oberhalb und unterhalb des Listings ist eine Linie
+	showspaces=false,
+	showtabs=false,
+	breaklines=true,
+	tabsize=2,
+	showstringspaces=false,
+	breakatwhitespace=true,
+	escapeinside={(*@}{@*)},
+	commentstyle=\color{teal},
+	morekeywords={@app,app,True,False, with, as, else, ifdef, endif},
+	keywordstyle=\color{greencomments},
+	stringstyle=\color{redstrings},
+	basicstyle=\ttfamily\small,
+}
+
+%Abkürzungen und PDF einbinden und Captions
+\usepackage{acronym}
+\usepackage{pdfpages}
+\usepackage{caption}
+
+\renewcommand{\lstlistingname}{Codeauszug}
+%Einstellungen für Syntax-Highlighting
+\definecolor{bluekeywords}{rgb}{0,0,1}
+\definecolor{greencomments}{rgb}{0,0.5,0}
+\definecolor{redstrings}{rgb}{0.64,0.08,0.08}
+\definecolor{xmlcomments}{rgb}{0.5,0.5,0.5}
+\definecolor{types}{rgb}{0.17,0.57,0.68}
+\lstset{language=C,
+	captionpos=b,
+	%numbers=left, %Nummerierung
+	%numberstyle=\tiny, % kleine Zeilennummern
+	frame=lines, % Oberhalb und unterhalb des Listings ist eine Linie
+	showspaces=false,
+	showtabs=false,
+	breaklines=true,
+	showstringspaces=false,
+	breakatwhitespace=true,
+	escapeinside={(*@}{@*)},
+	commentstyle=\color{greencomments},
+	morekeywords={partial, var, value, get, set, else, ifdef, endif},
+	numbers=left,
+	keywordstyle=\color{bluekeywords},
+	stringstyle=\color{redstrings},
+	basicstyle=\ttfamily\small,
+}
+
+%Kopf- und Fußzeile
+\setlength{\headheight}{30pt} 
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+%\fancyhead[L]{\nouppercase{\leftmark}} % Kopfzeile links bzw. innen
+%\chead{\leftmark}
+\lhead{\includegraphics[height=0.8cm]{images/DHBW-Logo.png}}
+
+\renewcommand{\headrulewidth}{0.5pt} % Linie oben
+\captionsetup[figure]{font=small,position=above,skip=20pt}
+\captionsetup[table]{font=small,position=above,skip=15pt}
+
+
+\fancyfoot[L]{Timo Kempf (20.06.2022) } % Fußzeile links bzw. innen
+\fancyfoot[R]{\thepage} % Fußzeile rechts bzw. außen
+\renewcommand{\footrulewidth}{0.5pt} % Linie unten
+% === Ende: Seitenlayout Kopf & Fußzeile ======== 
+
+% === Anfang: PDF Informationen =================
+% Hyperlinks und interne PDF-Verweise
+\usepackage{hyperref}  
+
+\hypersetup{
+	pdftitle={Vorlage f\"ur Dokumentationen},
+	pdfsubject={LaTeX basierte Standardokumentation},
+	pdfauthor={Niklas Stein},
+	pdfcreator={Niklas Stein},
+	pdfkeywords={TeX} {LaTeX} {Windows} {Linux} {TeXStudio} {TeXNicCenter}, 
+	colorlinks=true,
+	linkcolor=black,
+	filecolor=black,      
+	urlcolor=black, 
+	citecolor=black
+}
+% === Ende: PDF Informationen ===================
+
+% === Anfang: Dokumenteninformationen ===================
+\title{Studienarbeit T3\_3100}
+% === Ende: Dokumenteninformationen ===================
+
+% === Anfang: Abkürzungsverzeichnis =============
+% Abkürzungsverzeichnis
+\usepackage{nomencl}
+\let\abbrev\nomenclature
+\renewcommand{\nomname}{Abk\"urzungsverzeichnis}
+\setlength{\nomlabelwidth}{.55\hsize}
+\renewcommand{\nomlabel}[1]{#1 \dotfill}
+\setlength{\nomitemsep}{-\parsep}
+\makenomenclature 
+\newcommand{\Abkuerzung}{
+	%\printnomenclature
+	%\newpage
+} 
+% um das Verzeichnis zu Aktualisieren muss folgender Befehl in diesem Ordner 
+% ausgeführt werden 
+% makeindex T2000.nlo -s nomencl.ist -o T2000.nls 
+
+% Symbolverzeichnis 
+\renewcommand{\symheadingname}{Symbolverzeichnis}
+
+%\newcommand{\documentFont}{lmodern}
+
+\AtBeginDocument{%
+	\providecommand{\md}{}%
+	\renewcommand{\md}{\normal\mdseries}%
+}
+% Work around the issue with \immediate\write by not expanding the argument untimely
+\newcommand{\NewSym}[3][]{%
+	\newsym[#1]{#2}{\unexpanded{\unexpanded{#3}}}%
+}
+
+\addtolength{\headsep}{15pt}
+\opensymdef
+\newsym[Impulsdauer]{symt}{\tau}
+\newsym[Periodendauer]{symPeriodendauer}{T}
+\newsym[duty cycle]{symdc}{D}
+\newsym[Kohlenstoffdioxid]{symCO}{CO_{2}}
+\newsym[Kilohertz]{symkHz}{kHz}
+\newsym[Milli-g]{symmg}{mg}
+\closesymdef
+
+\renewcommand*\chapterpagestyle{fancy}
+\renewcommand*{\chapterheadstartvskip}{\vspace*{.5\baselineskip}}
+
+% === Ende: Abkürzungsverzeichnis ===============
+\begin{document}
+	% === Anfang: Titelseite ========================
+	\begin{titlepage}
+		\begin{table}[H]
+			\begin{tabular}{lll}
+				\includegraphics[width=0.35\textwidth]{images/DHBW-Logo.png} & \includegraphics[width=0.24\textwidth]{images/weißerplaceholder.png}  &                        
+			\end{tabular}
+		\end{table}
+		
+		\vspace{2\baselineskip}
+		\begin{center}
+			{\Large \textbf{Implementierung einer Ampelsteuerung
+}}
+		\end{center}
+		
+		
+		\vspace{2\baselineskip}
+		\begin{center}
+			{\large \textbf{Klausurersatzleistung Embedded Systems in der Automation}}
+		\end{center}
+		
+		
+		\vspace{2\baselineskip}
+		\begin{center}
+			im Studiengang Elektrotechnik
+		\end{center}
+		
+		
+	%	\vspace{1\baselineskip}
+		\begin{center}
+			an der Dualen Hochschule Baden-Württemberg Mosbach
+		\end{center}
+		
+		
+		\vspace{0.5\baselineskip}
+		\begin{center}
+			von
+		\end{center}
+		
+		
+		\vspace{0.5\baselineskip}
+		\begin{center}
+			\textbf{Sven Mößner}
+		\end{center}
+		
+		
+		\vspace{1\baselineskip}
+		\begin{center}
+			20.06.2022
+		\end{center}
+		
+		
+		\vspace{3\baselineskip}
+		\begin{table}[H]
+			\begin{tabular}{llr}
+				\textbf{Matrikelnummer}                &  \includegraphics[width=0.05\textwidth]{images/weißerplaceholder.png} & 9100820                                                                \\
+				\textbf{Ausbildungsfirma}           &   & \begin{tabular}[c]{@{}l@{}}Imaging Development Systems GmbH\end{tabular} \\
+				\textbf{Gruppenmitglieder} && Cedric Franke, Timo Kempf, Niklas Stein \\
+				\textbf{Dozent:in} &  & Claudia Heß                                               
+			\end{tabular}
+		\end{table}
+	\end{titlepage}
+	% === Ende: Titelseite ==========================
+	
+	% Inhaltsverzeichnis
+	\newpage
+	\pagenumbering{Roman}
+	\setcounter{page}{2}
+	\input{content//Ehrenwort.tex}
+	\newpage
+	\pagenumbering{Roman} % römische Seitenzahlen
+	\tableofcontents
+	\newpage
+
+	\renewcommand{\chaptermark}[1]{\markboth{#1}{}} %Kopfzeile nur Kapitelnamen
+	\chead{\nouppercase{\leftmark}}
+
+
+	\pagenumbering{arabic} % normale Seitenzahlen
+	% Inhalt
+	\newpage
+	\input{content//01.tex}
+	\newpage
+	\input{content//02.tex}
+	\newpage
+	\input{content//03.tex}
+	\newpage
+	\input{content//04.tex}
+	\newpage
+	\input{content//05.tex}
+	\newpage
+
+
+	
+	
+	
+	\pagenumbering{Roman}
+	\setcounter{page}{3}
+	%\addcontentsline{toc}{chapter}{Abkürzungsverzeichnis}
+	%\input{content/acronyms}
+	%\newpage
+	%\addcontentsline{toc}{section}{Symbolverzeichnis}
+	%\listofsymbols
+	\newpage
+	\addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+	\listoffigures
+	\newpage
+	\addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+	\listoftables
+	\newpage	\renewcommand{\lstlistingname}{Quellcode}
+	\renewcommand{\lstlistlistingname}{Quellcodeverzeichnis}
+	\addcontentsline{toc}{chapter}{Quellcodeverzeichnis}
+	\lstlistoflistings
+	\newpage
+	% Quellenverzeichnis 
+	%\cleardoublepage
+	%\addcontentsline{toc}{chapter}{Quellen}
+	%\printbibliography[title=Literatur]
+	%\newpage
+	
+	
+	%Anhang
+	%\clearpage
+	%\appendix
+	%\input{content/appendix}
+	
+\end{document}

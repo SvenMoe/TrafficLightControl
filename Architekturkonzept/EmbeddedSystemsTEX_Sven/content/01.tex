@@ -1,0 +1,9 @@
+\chapter{Einleitung}
+In der Vorlesung „Embedded Systems“ wird die objektorientierte Sprache C++ behandelt. Des Weiteren werden mit UML Systeme beschrieben. Als Praxisprojekt ist es die Aufgabe eine Ampelschaltung in der IAR Workbench mit der Sprache C++ umzusetzen. Dabei ist es notwendig, die in der Vorlesung behandelten Methoden und Werkzeuge anzuwenden. Es soll objektorientiert programmiert werden und Prinzipien, wie das State Pattern oder die Polymorphie eingesetzt werden.
+
+\section{Aufgabenstellung}
+Der Funktionsumfang der Ampelsteuerung wird im Folgenden genauer spezifiziert. Zunächst soll es sich um eine Ansteuerung von einer einzelnen Ampel handeln. Diese kann sich zum einen im „in Betrieb“ Modus befinden, in dem sie die einzelnen Ampelfarben durchschaltet. Zum anderen soll die Ampel im „außer Betrieb“ Modus dauerhaft orange blinken. Zum Wechsel der beiden Betriebszustände ist ein Taster vorgesehen. Zum Wechseln der Ampelfarben gibt es einen weiteren Taster. Ist die Ampel im „außer Betrieb“ Modus, so bewirkt das Drücken des Tasters für den Farbwechsel keine Aktion. Die Ampelsteuerung kann hardwaremäßig ausgeführt werden. Dann sollen die drei angeschlossenen LEDs und die zwei Taster eingesetzt werden. In der softwaremäßigen Ausführung erfolgt die Eingabe über die Tastatur und die Ausgabe über die Konsole.
+
+\section{Vorgehensweise}
+
+Zuerst wird die vorliegende Hardware analysiert und die Pinbelegungen der LEDs und der einzelnen Taster definiert. Danach erfolgt eine Beschreibung des Styleguides, an den sich der erstellte Code hält. Anschließend wird genauer auf die Softwarearchitektur eingegangen, die die Logik der Ampelschaltung abbildet. Zur Erläuterung jener Architektur wird das Klassendiagramm des Projektes herangezogen. Zuletzt wird auf den Hardwarezugriff und auf den Wechsel zwischen dem Hardware- und Softwarebetrieb eingegangen.
