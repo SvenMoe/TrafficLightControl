@@ -6,7 +6,7 @@ In der vorliegenden Ampelschaltung werden zwei State Patterns verwendet. Zudem w
 \section{Singleton}
 Das Singleton Design Pattern hilft in der objektorientierten Programmierung dem Entwickler mit vielfachen Vorlagen das Lösen von Programmieraufgaben. Es ist sehr leistungsfähig und gehört zu der Kategorie der Erzeugungsmuster unter den Design Pattern. Der Ausdruck Singleton wird oftmals als \glqq Einzelstück\grqq{} betitelt. Dieses Synonym bildet sehr gut die Funktion einens Singeltons ab, da die Aufgabe darin besteht nicht mehr als ein Objekt einer Klasse zu erstellen. Wurde mit der Klasse über das Singleton Pattern nur eine Instanz der Klasse erzeugt, sorgt es auch dafür, dass es ledlich bei dieser einen Instanz der Klasse bleibt. Oftmals dient eine Funktion, wie \texttt{GetInstance} dafür, dass nur eine Instance der Klasse erstellt wird.\\
 \\
-Im Bezug auf die Ampelsteuerung wurde das Singleton Pattern in sieben unterschiedlichen Klassen verwendet. Diese lauten wie folgt:
+Im Bezug auf die Ampelsteuerung wurde das Singleton Pattern in elf unterschiedlichen Klassen verwendet. Diese lauten wie folgt:
 
 \begin{itemize}
 	\item active.h
@@ -16,13 +16,17 @@ Im Bezug auf die Ampelsteuerung wurde das Singleton Pattern in sieben unterschie
 	\item RedAmber.h
 	\item Green.h
 	\item Off.h
+	\item SoftwareInput.h
+	\item SoftwareOutput.h
+	\item HardwareInput.h
+	\item HardwareOutput.h
 \end{itemize}
 
 Da der Aufbau in jeder Klasse identisch ist, folgt die Erläuterung im Code nun am Beispiel der Klasse \texttt{Red.h}.\\
 
 \begin{figure}[H] 
 	\centering
-	\includegraphics[width=0.7\textwidth]{images/07.png}
+	\includegraphics[width=0.5\textwidth]{images/07.png}
 	\caption{Singleton Patten am Beispiel der Red.h Klasse \protect \\ Quelle: Eigene Darstellung }
 	\label{fig:grafik7}
 \end{figure}
