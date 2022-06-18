@@ -21,7 +21,7 @@ using namespace std;
 /**
  * Concrete state of interface class "state".
  * In this state the amber LED is flashing and the Traffic Light is in standby state.
- * @author Sven Moessner
+ * @author Sven Moessner, Cedric Franke
  * @date   June 2022
  */
 class flashing : public state

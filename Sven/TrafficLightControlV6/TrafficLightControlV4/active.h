@@ -20,7 +20,7 @@ using namespace std;
 /**
  * Concrete state of interface class "state".
  * In this state the Traffic Light is in active state.
- * @author Sven Moessner
+ * @author Sven Moessner, Cedric Franke
  * @date   June 2022
  */
 class active : public state

@@ -8,7 +8,7 @@
  *            There are two operating states: active and flashing (Standby). It can be switched between these states.
  *            But it also can be switched between Softwareinput and -output and Hardwareinput and -output.
  *            To switch between states there are state patterns. The concrete states of these state machines are implemented as singelton pattern.
- *  @author   Sven Moessner
+ *  @author   Sven Moessner, Niklas Stein, Cedric Franke, Timo Kempf
  *  @date     June 2022
  */
 

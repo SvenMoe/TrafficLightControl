@@ -76550,7 +76550,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.cpp@1053@macro@_HARDWAREPRESENT",
+    "ID": "c:main.cpp@1094@macro@_HARDWAREPRESENT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "_HARDWAREPRESENT",
@@ -76578,7 +76578,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.cpp@1115@F@main#@myOutputFormat",
+    "ID": "c:main.cpp@1156@F@main#@myOutputFormat",
     "What": "Variable",
     "defdec": "Def",
     "display": "myOutputFormat",
@@ -76592,7 +76592,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.cpp@1180@F@main#@myInputFormat",
+    "ID": "c:main.cpp@1221@F@main#@myInputFormat",
     "What": "Variable",
     "defdec": "Def",
     "display": "myInputFormat",
@@ -76606,7 +76606,7 @@
     "scope": null
   },
   {
-    "ID": "c:main.cpp@1435@F@main#@myTrafficLight",
+    "ID": "c:main.cpp@1476@F@main#@myTrafficLight",
     "What": "Variable",
     "defdec": "Def",
     "display": "myTrafficLight",
