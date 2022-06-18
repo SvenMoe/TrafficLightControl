@@ -7,3 +7,21 @@ Der Funktionsumfang der Ampelsteuerung wird im Folgenden genauer spezifiziert. Z
 \section{Vorgehensweise}
 
 Zuerst wird die vorliegende Hardware analysiert und die Pinbelegungen der LEDs und der einzelnen Taster definiert. Danach erfolgt eine Beschreibung des Styleguides, an den sich der erstellte Code hält. Anschließend wird genauer auf die Softwarearchitektur eingegangen, die die Logik der Ampelschaltung abbildet. Zur Erläuterung jener Architektur wird das Klassendiagramm des Projektes herangezogen. Zuletzt wird auf den Hardwarezugriff und auf den Wechsel zwischen dem Hardware- und Softwarebetrieb eingegangen.
+
+\chapter{Arbeitsaufteilung}
+
+Diese Arbeitsaufteilung dient als grobe Orientierung der Beschäftigung unter den Teammitgliedern und ist in nachstehender \autoref{tab:Arbeitsaufteilung} dargestellt.\
+
+\begin{table}[H] 
+	\centering
+	\begin{tabular}[H]{c|c} \label{tab2}
+		Teammitglied & Aufgaben \\
+		\hline
+		Cedric Franke & Zustandsautomat, Singleton\\
+		Niklas Stein &  Wechsel zwischen Hardware- und Softwarebetrieb \\
+		Timo Kempf & Hardwarezugriff  \\
+		Sven Mößner & Klassendiagramm, Context, Interface und Concrete Klassen \\
+	\end{tabular}
+	\caption{Arbeitsaufteilung}
+	\label{tab:Arbeitsaufteilung}
+\end{table}

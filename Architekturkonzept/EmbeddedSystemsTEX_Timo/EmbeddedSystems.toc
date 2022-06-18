@@ -7,42 +7,46 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Vorgehensweise}{1}{section.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Hardware}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Arbeitsaufteilung}{3}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Allgemeines}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Hardware}{4}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Aufbau}{3}{section.2.2}%
+\contentsline {section}{\numberline {3.1}Allgemeines}{4}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Pinbelegung}{4}{section.2.3}%
+\contentsline {section}{\numberline {3.2}Aufbau}{4}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Systemarchitektur}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.3}Pinbelegung}{5}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Klassendiagramm des Projekts}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Systemarchitektur}{6}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Zustandsautomat}{8}{section.3.2}%
+\contentsline {section}{\numberline {4.1}Klassendiagramm des Projekts}{6}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}State Pattern}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.2}Zustandsautomat}{9}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Context, Interface und Concrete Klassen}{9}{section.4.1}%
+\contentsline {chapter}{\numberline {5}State Pattern}{10}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Singleton}{9}{section.4.2}%
+\contentsline {section}{\numberline {5.1}Context, Interface und Concrete Klassen}{10}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Hardwarezugriff - GPIO}{12}{chapter.5}%
+\contentsline {section}{\numberline {5.2}Singleton}{10}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Wechsel zwischen Hardware- und Softwarebetrieb}{16}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Hardwarezugriff - GPIO}{13}{chapter.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Definition}{16}{section.6.1}%
+\contentsline {chapter}{\numberline {7}Wechsel zwischen Hardware- und Softwarebetrieb}{17}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Umsetzung}{16}{section.6.2}%
+\contentsline {section}{\numberline {7.1}Definition}{17}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Ausgabeformat}{17}{subsection.6.2.1}%
+\contentsline {section}{\numberline {7.2}Umsetzung}{17}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.2}Eingabeformat}{18}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {7.2.1}Ausgabeformat}{18}{subsection.7.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Fazit}{20}{chapter.7}%
+\contentsline {subsection}{\numberline {7.2.2}Eingabeformat}{19}{subsection.7.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{III}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Bedienungsanleitung}{21}{chapter.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{IV}{chapter*.17}%
+\contentsline {chapter}{\numberline {9}Fazit}{22}{chapter.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Quellcodeverzeichnis}{V}{chapter*.18}%
+\contentsline {chapter}{Abbildungsverzeichnis}{IV}{chapter.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Tabellenverzeichnis}{V}{chapter*.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Quellcodeverzeichnis}{VI}{chapter*.19}%

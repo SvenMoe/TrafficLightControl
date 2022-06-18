@@ -156,7 +156,8 @@ Auch hier sind eine Interface Klasse \glqq InputFormat\grqq\: und zwei erbende U
 	\label{fig:input}
 \end{figure}
 
-
+\chapter{Bedienungsanleitung}
+Im Folgenden wird erläutert, wie die Ampel in der IAR Embedded Workbench zu betreiben ist. Vorausgesetzt wird, dass die Hardware per USB an den PC angeschlossen ist und die LEDs, bzw. die Taster in der richtigen Pinbelegung mit dem Board verbunden sind. Im Default Zustand geht die Ampelschaltung davon aus, dass Hardware angeschlossen ist. Wird nun das Projekt ausgeführt, so kann die Ampel über die Hardware Taster bedient werden und die Hardware LEDs leuchten entsprechend auf. Steht dem Benutzer keine Hardware zur Verfügung, so muss die Zeile „define \_HARDWAREPRESENT“ in der Main Datei auskommentiert werden. Die Ampel kann jetzt mit der Tastatur bedient werden und die Ausgabe erfolgt über das Terminal der IAR Embedded Workbench. Die Eingabe erfolgt ebenso über das Terminal des Programms. Hier kann auch die Beispiel Textdatei „Input.txt“ als Eingabe geladen werden. Die Textdatei befindet sich in den Quellcode Dateien. Die Ampel durchläuft im Beispiel zunächst alle Farbzustände im „in Betrieb“ Modus und wechselt, dann in den „außer Betrieb“ Modus. Wichtig bei der Eingabe ist, dass die Buchstaben „O“, „F“, „B“ und „X“, so eingegeben werden, als würden die entsprechenden Taster gedrückt werden. Das heißt nach jedem Buchstaben muss wieder „O“ folgen, da der Taster losgelassen wird. Auch müssen die Buchstaben öfters eingegeben werden, damit das Programm weiterläuft.
 
 
 \chapter{Fazit}

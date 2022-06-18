@@ -5,30 +5,34 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Hardwareaufbau der Ampelsteuerung \\ Quelle: Eigene Darstellung \relax }}{3}{figure.caption.6}%
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Hardwareaufbau der Ampelsteuerung \\ Quelle: Eigene Darstellung \relax }}{4}{figure.caption.7}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Klassendiagramm der Ampelsteuerung \\ Quelle: Eigene Darstellung \relax }}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Klassendiagramm der Ampelsteuerung \\ Quelle: Eigene Darstellung \relax }}{8}{figure.caption.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Zustandsautomat der Ampelsteuerung \\ Quelle: Eigene Darstellung \relax }}{8}{figure.caption.9}%
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Singleton Patten am Beispiel der Red.h Klasse \\ Quelle: Eigene Darstellung \relax }}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Zustandsautomat der Ampelsteuerung \\ Quelle: Eigene Darstellung \relax }}{9}{figure.caption.10}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces GPIO Klasse \\ Quelle: Eigene Darstellung\relax }}{12}{figure.caption.11}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces UserLEDs Klasse \\ Quelle: Eigene Darstellung\relax }}{13}{figure.caption.12}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces UserButtons Klasse \\ Quelle: Eigene Darstellung \relax }}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Singleton Patten am Beispiel der Red.h Klasse \\ Quelle: Eigene Darstellung \relax }}{11}{figure.caption.11}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Auszug aus dem Klassendiagramm - Ausgabeformat \\ Quelle: Eigene Darstellung \relax }}{18}{figure.caption.15}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces GPIO Klasse \\ Quelle: Eigene Darstellung\relax }}{13}{figure.caption.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Auszug aus dem Klassendiagramm - Eingabeformat \\ Quelle: Eigene Darstellung \relax }}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces UserLEDs Klasse \\ Quelle: Eigene Darstellung\relax }}{14}{figure.caption.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.3}{\ignorespaces UserButtons Klasse \\ Quelle: Eigene Darstellung \relax }}{15}{figure.caption.14}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Auszug aus dem Klassendiagramm - Ausgabeformat \\ Quelle: Eigene Darstellung \relax }}{19}{figure.caption.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Auszug aus dem Klassendiagramm - Eingabeformat \\ Quelle: Eigene Darstellung \relax }}{20}{figure.caption.17}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
