@@ -1,0 +1,35 @@
+\hypertarget{_traffic_light_8h_source}{}\doxysection{Traffic\+Light.\+h}
+\mbox{\hyperlink{_traffic_light_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#ifndef TRAFFICLIGHT\_H}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#define TRAFFICLIGHT\_H}}
+\DoxyCodeLine{5 }
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_input_format_8h}{InputFormat.h}}"{}}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{state_8h}{state.h}}"{}}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{flashing_8h}{flashing.h}}"{}}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{active_8h}{active.h}}"{}}}
+\DoxyCodeLine{11 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{12 }
+\DoxyCodeLine{19 \textcolor{keyword}{class }\mbox{\hyperlink{class_traffic_light}{TrafficLight}}}
+\DoxyCodeLine{20 \{}
+\DoxyCodeLine{21 \textcolor{keyword}{private}:}
+\DoxyCodeLine{22   \textcolor{keywordtype}{bool} buttonReset = \textcolor{keyword}{true};}
+\DoxyCodeLine{23   \mbox{\hyperlink{class_output_format}{OutputFormat}} *myOutputFormat;}
+\DoxyCodeLine{24   \mbox{\hyperlink{class_input_format}{InputFormat}} *myInputFormat;}
+\DoxyCodeLine{25   \mbox{\hyperlink{classstate}{state}} *mystate;}
+\DoxyCodeLine{26 }
+\DoxyCodeLine{27   \textcolor{comment}{// flashing myflashing;}}
+\DoxyCodeLine{28   \textcolor{comment}{// active myactive;}}
+\DoxyCodeLine{29 }
+\DoxyCodeLine{30 \textcolor{keyword}{public}:}
+\DoxyCodeLine{36   \mbox{\hyperlink{class_traffic_light_a8b0542172c75dab0988062f4b4feac24}{TrafficLight}}(\mbox{\hyperlink{classstate}{state}} *mystate, \mbox{\hyperlink{class_output_format}{OutputFormat}} *myOutputFormat, \mbox{\hyperlink{class_input_format}{InputFormat}} *myInputFormat) : mystate(mystate), myOutputFormat(myOutputFormat), myInputFormat(myInputFormat) \{\}}
+\DoxyCodeLine{37 }
+\DoxyCodeLine{43   \mbox{\hyperlink{regtypes_8h_ab27e9918b538ce9d8ca692479b375b6a}{UINT8}} \mbox{\hyperlink{class_traffic_light_ab6626f9c352498252408e48057277dec}{Handle}}();}
+\DoxyCodeLine{44 }
+\DoxyCodeLine{45 \};}
+\DoxyCodeLine{46 }
+\DoxyCodeLine{47 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

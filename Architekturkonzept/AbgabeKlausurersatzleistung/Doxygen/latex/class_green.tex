@@ -1,0 +1,92 @@
+\hypertarget{class_green}{}\doxysection{Green Class Reference}
+\label{class_green}\index{Green@{Green}}
+
+
+{\ttfamily \#include $<$Green.\+h$>$}
+
+Inheritance diagram for Green\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_green}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_green_a21e8dcd4f5f996035dc3213f2b233478}{Handle}} ()
+\item 
+\mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$ \mbox{\hyperlink{class_green_a944ef9fc86e63dbbd11477f8bfbaf5d6}{nextstate}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_green}{Green}} $\ast$ \mbox{\hyperlink{class_green_a972b8569d35c1ddedeb700f407760f70}{Get\+Instance}} (\mbox{\hyperlink{class_output_format}{Output\+Format}} $\ast$my\+Output\+Format)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Concrete state of interface class \char`\"{}\+Light\+Control\char`\"{}. In this state only the green LED is on. \begin{DoxyAuthor}{Author}
+Cedric Franke 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+June 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_green_a972b8569d35c1ddedeb700f407760f70}\label{class_green_a972b8569d35c1ddedeb700f407760f70}} 
+\index{Green@{Green}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!Green@{Green}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_green}{Green}} $\ast$ Green\+::\+Get\+Instance (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_output_format}{Output\+Format}} $\ast$}]{my\+Output\+Format }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Static singleton access method. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_green_a21e8dcd4f5f996035dc3213f2b233478}\label{class_green_a21e8dcd4f5f996035dc3213f2b233478}} 
+\index{Green@{Green}!Handle@{Handle}}
+\index{Handle@{Handle}!Green@{Green}}
+\doxysubsubsection{\texorpdfstring{Handle()}{Handle()}}
+{\footnotesize\ttfamily void Green\+::\+Handle (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+Handle of concrete state \char`\"{}\+Green\char`\"{}. Controls the LED states. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_light_control_af9c913c90d68c63d640fee8e49fd8463}{Light\+Control}}.
+
+\mbox{\Hypertarget{class_green_a944ef9fc86e63dbbd11477f8bfbaf5d6}\label{class_green_a944ef9fc86e63dbbd11477f8bfbaf5d6}} 
+\index{Green@{Green}!nextstate@{nextstate}}
+\index{nextstate@{nextstate}!Green@{Green}}
+\doxysubsubsection{\texorpdfstring{nextstate()}{nextstate()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_light_control}{Light\+Control}} $\ast$ Green\+::nextstate (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Takes over to the next active state. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Instance for next state. 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_light_control_aa1555c3b2743e257fd1636668b4c5b5c}{Light\+Control}}.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_green_8h}{Green.\+h}}\item 
+\mbox{\hyperlink{_green_8cpp}{Green.\+cpp}}\end{DoxyCompactItemize}

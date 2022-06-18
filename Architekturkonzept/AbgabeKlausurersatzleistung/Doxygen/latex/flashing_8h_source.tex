@@ -1,0 +1,44 @@
+\hypertarget{flashing_8h_source}{}\doxysection{flashing.\+h}
+\mbox{\hyperlink{flashing_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#ifndef FLASHING\_H}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#define FLASHING\_H}}
+\DoxyCodeLine{5 }
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{state_8h}{state.h}}"{}}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_light_control_8h}{LightControl.h}}"{}}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_output_format_8h}{OutputFormat.h}}"{}}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_off_8h}{Off.h}}"{}}}
+\DoxyCodeLine{11 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_amber_8h}{Amber.h}}"{}}}
+\DoxyCodeLine{12 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{active_8h}{active.h}}"{}}}
+\DoxyCodeLine{13 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{14 }
+\DoxyCodeLine{15 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_input_format_8h}{InputFormat.h}}"{}}}
+\DoxyCodeLine{16 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_software_input_8h}{SoftwareInput.h}}"{}}}
+\DoxyCodeLine{17 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_hardware_input_8h}{HardwareInput.h}}"{}}}
+\DoxyCodeLine{18 }
+\DoxyCodeLine{19 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{20 }
+\DoxyCodeLine{27 \textcolor{keyword}{class }\mbox{\hyperlink{classflashing}{flashing}} : \textcolor{keyword}{public} \mbox{\hyperlink{classstate}{state}}}
+\DoxyCodeLine{28 \{}
+\DoxyCodeLine{29 \textcolor{keyword}{private}:}
+\DoxyCodeLine{30   \mbox{\hyperlink{class_light_control}{LightControl}} *myLightControl = \textcolor{keyword}{nullptr};}
+\DoxyCodeLine{31   \textcolor{keyword}{static} \mbox{\hyperlink{class_output_format}{OutputFormat}} *myOutputFormatFlashing;}
+\DoxyCodeLine{32   \textcolor{keyword}{static} \mbox{\hyperlink{class_input_format}{InputFormat}} *myInputFormatFlashing;}
+\DoxyCodeLine{38   \textcolor{keyword}{static} \mbox{\hyperlink{classflashing}{flashing}} *Instance;}
+\DoxyCodeLine{39 }
+\DoxyCodeLine{45   \mbox{\hyperlink{classflashing}{flashing}}() \{\}}
+\DoxyCodeLine{46 }
+\DoxyCodeLine{47 \textcolor{keyword}{public}:}
+\DoxyCodeLine{53   \textcolor{keyword}{static} \mbox{\hyperlink{classflashing}{flashing}} *\mbox{\hyperlink{classflashing_a161e83eceb0b4cf6bdc6a9e90301ca1c}{GetInstance}}(\mbox{\hyperlink{class_output_format}{OutputFormat}} *myOutputFormat, \mbox{\hyperlink{class_input_format}{InputFormat}} *myInputFormat);}
+\DoxyCodeLine{54 }
+\DoxyCodeLine{55 }
+\DoxyCodeLine{62   \textcolor{keywordtype}{void} \mbox{\hyperlink{classflashing_a76dbdcd41969ba470c65884210d9de16}{Handle}}();}
+\DoxyCodeLine{63 }
+\DoxyCodeLine{69   \mbox{\hyperlink{classstate}{state}} *\mbox{\hyperlink{classflashing_abb6ba5816b9b16e00173a1cfb1abcb37}{nextstate}}();}
+\DoxyCodeLine{70 \};}
+\DoxyCodeLine{71 }
+\DoxyCodeLine{72 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

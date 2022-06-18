@@ -1,0 +1,38 @@
+\hypertarget{_off_8h_source}{}\doxysection{Off.\+h}
+\mbox{\hyperlink{_off_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#ifndef OFF\_H}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#define OFF\_H}}
+\DoxyCodeLine{5 }
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_light_control_8h}{LightControl.h}}"{}}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_output_format_8h}{OutputFormat.h}}"{}}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_traffic_light_8h}{TrafficLight.h}}"{}}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{11 }
+\DoxyCodeLine{12 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_hardware_output_8h}{HardwareOutput.h}}"{}}}
+\DoxyCodeLine{13 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_software_output_8h}{SoftwareOutput.h}}"{}}}
+\DoxyCodeLine{14 }
+\DoxyCodeLine{15 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{16 }
+\DoxyCodeLine{23 \textcolor{keyword}{class }\mbox{\hyperlink{class_off}{Off}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_light_control}{LightControl}}}
+\DoxyCodeLine{24 \{}
+\DoxyCodeLine{25 \textcolor{keyword}{private}:}
+\DoxyCodeLine{26 }
+\DoxyCodeLine{27   \textcolor{keyword}{static} \mbox{\hyperlink{class_output_format}{OutputFormat}} *myOutputFormatOff;}
+\DoxyCodeLine{33   \textcolor{keyword}{static} \mbox{\hyperlink{class_off}{Off}} *Instance;}
+\DoxyCodeLine{34 }
+\DoxyCodeLine{40   \mbox{\hyperlink{class_off}{Off}}() \{\}}
+\DoxyCodeLine{41 }
+\DoxyCodeLine{42 \textcolor{keyword}{public}:}
+\DoxyCodeLine{48   \textcolor{keyword}{static} \mbox{\hyperlink{class_off}{Off}} *\mbox{\hyperlink{class_off_a0e4edbfec41e7c6e41dec9aaee36bdf6}{GetInstance}}(\mbox{\hyperlink{class_output_format}{OutputFormat}} *myOutputFormat);}
+\DoxyCodeLine{49 }
+\DoxyCodeLine{56   \textcolor{keywordtype}{void} \mbox{\hyperlink{class_off_aad93bf7e4e6e337ebc024cc451d5860c}{Handle}}();}
+\DoxyCodeLine{57 }
+\DoxyCodeLine{63   \mbox{\hyperlink{class_light_control}{LightControl}} *\mbox{\hyperlink{class_off_a35a9e36a75c127ecdd0c085d6c9f03a9}{nextstate}}();}
+\DoxyCodeLine{64 \};}
+\DoxyCodeLine{65 }
+\DoxyCodeLine{66 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

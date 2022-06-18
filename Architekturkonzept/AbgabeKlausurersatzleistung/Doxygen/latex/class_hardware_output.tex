@@ -1,0 +1,152 @@
+\hypertarget{class_hardware_output}{}\doxysection{Hardware\+Output Class Reference}
+\label{class_hardware_output}\index{HardwareOutput@{HardwareOutput}}
+
+
+{\ttfamily \#include $<$Hardware\+Output.\+h$>$}
+
+Inheritance diagram for Hardware\+Output\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_hardware_output}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_hardware_output_a140d5a19cdd270d59c6a468691fb94d8}{set\+Red}} ()
+\item 
+void \mbox{\hyperlink{class_hardware_output_a3dab8264bb93f939a1845affdf3a25c7}{set\+Red\+Amber}} ()
+\item 
+void \mbox{\hyperlink{class_hardware_output_aa2d8479bfb9b11ed41e3f5fb0fc44cb5}{set\+Amber}} ()
+\item 
+void \mbox{\hyperlink{class_hardware_output_a04836e0b27bd8e20774ba8bc2f676aff}{set\+Green}} ()
+\item 
+void \mbox{\hyperlink{class_hardware_output_aa68d820ec665a84db1310401ab4b6f3e}{off}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_hardware_output}{Hardware\+Output}} $\ast$ \mbox{\hyperlink{class_hardware_output_a200ef12e524ac45fee1e82b720b2ad6e}{Get\+Instance}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Interface class \char`\"{}\+Hardware\+Output\char`\"{}. \begin{DoxyAuthor}{Author}
+Niklas Stein 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+June 2022 
+\end{DoxyDate}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_hardware_output_a200ef12e524ac45fee1e82b720b2ad6e}\label{class_hardware_output_a200ef12e524ac45fee1e82b720b2ad6e}} 
+\index{HardwareOutput@{HardwareOutput}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!HardwareOutput@{HardwareOutput}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_hardware_output}{Hardware\+Output}} $\ast$ Hardware\+Output\+::\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Static singleton access method. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_hardware_output_aa68d820ec665a84db1310401ab4b6f3e}\label{class_hardware_output_aa68d820ec665a84db1310401ab4b6f3e}} 
+\index{HardwareOutput@{HardwareOutput}!off@{off}}
+\index{off@{off}!HardwareOutput@{HardwareOutput}}
+\doxysubsubsection{\texorpdfstring{off()}{off()}}
+{\footnotesize\ttfamily void Hardware\+Output\+::off (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Resets all LEDs with help of \mbox{\hyperlink{class_user_l_e_ds}{User\+LEDs}} class. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_af649b015063a287df4474eb3303020fb}{Output\+Format}}.
+
+\mbox{\Hypertarget{class_hardware_output_aa2d8479bfb9b11ed41e3f5fb0fc44cb5}\label{class_hardware_output_aa2d8479bfb9b11ed41e3f5fb0fc44cb5}} 
+\index{HardwareOutput@{HardwareOutput}!setAmber@{setAmber}}
+\index{setAmber@{setAmber}!HardwareOutput@{HardwareOutput}}
+\doxysubsubsection{\texorpdfstring{setAmber()}{setAmber()}}
+{\footnotesize\ttfamily void Hardware\+Output\+::set\+Amber (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Sets the amber LED with help of \mbox{\hyperlink{class_user_l_e_ds}{User\+LEDs}} class. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_a2d22ce8d7645bcb2784a7f195b4cc13d}{Output\+Format}}.
+
+\mbox{\Hypertarget{class_hardware_output_a04836e0b27bd8e20774ba8bc2f676aff}\label{class_hardware_output_a04836e0b27bd8e20774ba8bc2f676aff}} 
+\index{HardwareOutput@{HardwareOutput}!setGreen@{setGreen}}
+\index{setGreen@{setGreen}!HardwareOutput@{HardwareOutput}}
+\doxysubsubsection{\texorpdfstring{setGreen()}{setGreen()}}
+{\footnotesize\ttfamily void Hardware\+Output\+::set\+Green (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Sets the green LED with help of \mbox{\hyperlink{class_user_l_e_ds}{User\+LEDs}} class. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_a60ee3d7cf9299b6a40794a112ebb0b7f}{Output\+Format}}.
+
+\mbox{\Hypertarget{class_hardware_output_a140d5a19cdd270d59c6a468691fb94d8}\label{class_hardware_output_a140d5a19cdd270d59c6a468691fb94d8}} 
+\index{HardwareOutput@{HardwareOutput}!setRed@{setRed}}
+\index{setRed@{setRed}!HardwareOutput@{HardwareOutput}}
+\doxysubsubsection{\texorpdfstring{setRed()}{setRed()}}
+{\footnotesize\ttfamily void Hardware\+Output\+::set\+Red (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Sets the red LED with help of \mbox{\hyperlink{class_user_l_e_ds}{User\+LEDs}} class. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_ae56ace408d194900091badcdbf709fb6}{Output\+Format}}.
+
+\mbox{\Hypertarget{class_hardware_output_a3dab8264bb93f939a1845affdf3a25c7}\label{class_hardware_output_a3dab8264bb93f939a1845affdf3a25c7}} 
+\index{HardwareOutput@{HardwareOutput}!setRedAmber@{setRedAmber}}
+\index{setRedAmber@{setRedAmber}!HardwareOutput@{HardwareOutput}}
+\doxysubsubsection{\texorpdfstring{setRedAmber()}{setRedAmber()}}
+{\footnotesize\ttfamily void Hardware\+Output\+::set\+Red\+Amber (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [virtual]}}
+
+Sets the red and the amber LED with help of \mbox{\hyperlink{class_user_l_e_ds}{User\+LEDs}} class. 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+None 
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{class_output_format_a9b5bf04195245aab51a471793deab58c}{Output\+Format}}.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_hardware_output_8h}{Hardware\+Output.\+h}}\item 
+\mbox{\hyperlink{_hardware_output_8cpp}{Hardware\+Output.\+cpp}}\end{DoxyCompactItemize}

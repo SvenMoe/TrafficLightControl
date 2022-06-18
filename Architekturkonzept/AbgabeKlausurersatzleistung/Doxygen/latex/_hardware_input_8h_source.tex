@@ -1,0 +1,35 @@
+\hypertarget{_hardware_input_8h_source}{}\doxysection{Hardware\+Input.\+h}
+\mbox{\hyperlink{_hardware_input_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#ifndef HARDWAREINPUT\_H}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#define HARDWAREINPUT\_H}}
+\DoxyCodeLine{5 }
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{regtypes_8h}{regtypes.h}}"{}}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_input_format_8h}{InputFormat.h}}"{}}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_user_buttons_8h}{UserButtons.h}}"{}}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{10 }
+\DoxyCodeLine{11 }
+\DoxyCodeLine{12 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{13 }
+\DoxyCodeLine{19 \textcolor{keyword}{class }\mbox{\hyperlink{class_hardware_input}{HardwareInput}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_input_format}{InputFormat}}}
+\DoxyCodeLine{20 \{}
+\DoxyCodeLine{21 }
+\DoxyCodeLine{22 \textcolor{keyword}{private}:}
+\DoxyCodeLine{23     }
+\DoxyCodeLine{24     \mbox{\hyperlink{class_user_buttons}{UserButtons}} myUserButton;}
+\DoxyCodeLine{25     \textcolor{keyword}{static} \mbox{\hyperlink{class_hardware_input}{HardwareInput}} *Instance;}
+\DoxyCodeLine{26     \mbox{\hyperlink{class_hardware_input}{HardwareInput}}() \{\}}
+\DoxyCodeLine{27 }
+\DoxyCodeLine{28 \textcolor{keyword}{public}:}
+\DoxyCodeLine{34     \textcolor{keyword}{static} \mbox{\hyperlink{class_hardware_input}{HardwareInput}} *\mbox{\hyperlink{class_hardware_input_a677a301a3d2f8e4e23686e500a971924}{GetInstance}}();}
+\DoxyCodeLine{35     }
+\DoxyCodeLine{41     \textcolor{keywordtype}{char} \mbox{\hyperlink{class_hardware_input_a926d951665a2cac862c9a406aff7bb48}{getButton}}();}
+\DoxyCodeLine{42 }
+\DoxyCodeLine{43 \};}
+\DoxyCodeLine{44 }
+\DoxyCodeLine{45 }
+\DoxyCodeLine{46 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}
